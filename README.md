@@ -2,8 +2,8 @@
 
 Team members:
  * Luka Brecelj, 63180058, lb4684@student.uni-lj.si
- * `MEMBER FULL NAME`, `STUDENT ID`, `STUDENT E-MAIL`
+ * `Timotej Košir`, `63180164`, `tk5272@student.uni-lj.si`
  * `MEMBER FULL NAME`, `STUDENT ID`, `STUDENT E-MAIL`
  
-Group public acronym/name: `THINK OF PUBLIC STRING FOR YOUR GROUP`
+Group public acronym/name: `TAS`
  > This value will be used for publishing marks/scores. It will be known only to you and not you colleagues.
