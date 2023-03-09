@@ -1,7 +1,7 @@
 # Natural language processing course 2022/23: `Put name of your project here`
 
 Team members:
- * `MEMBER FULL NAME`, `STUDENT ID`, `STUDENT E-MAIL`
+ * Luka Brecelj, 63180058, lb4684@student.uni-lj.si
  * `MEMBER FULL NAME`, `STUDENT ID`, `STUDENT E-MAIL`
  * `MEMBER FULL NAME`, `STUDENT ID`, `STUDENT E-MAIL`
  
