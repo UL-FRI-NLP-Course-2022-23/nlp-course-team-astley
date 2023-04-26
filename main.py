@@ -83,17 +83,27 @@ if __name__ == '__main__':
 
     # Train the sentiment analysis model
     # train_sentiment_model(dataset)
-    sentiment_analysis = SentimentAnalysis()
+    # sentiment_analysis = SentimentAnalysis()
     # -------------------------------------
 
     
     # train_story_model("./dataset")
-    # story_ending_generation = StoryEndingGeneration()
-    # # Generate a story
-    # prompt = "Bla bla bla"
-    # generated_stories = story_ending_generation.generate_ending(prompt, max_length=100, num_return_sequences=5)
-
-    # # Reverse sentiment to see how ending will change
+    ending_model = StoryEndingGeneration()
+    ending_model.train("../archive/dataset")
+    # Read a story
+    file_path = "../archive/tests/100.txt"
+    file = open(file_path, 'r', )
+    prompt = file.read()
+    file.close()
+    # prompt = prompt[-1700:-1000].replace("\n", " ")
+    prompt = prompt.replace("\n", " ").replace("\s+", " ")
+    # Generate a story
+    encoded_prompt = ending_model.encode_prompt(prompt[-200:], ["plane", "witch"])
+    print(encoded_prompt)
+    generated_stories = ending_model.generate_ending(encoded_prompt, max_length=1000)
+    
+    print(generated_stories[0])
+    # Reverse sentiment to see how ending will change
     # for story in generated_stories:
     #     sentiment = sentiment_analysis.predict_sentiment(story)
     #     reversed_sentiment = reverse_sentiment(sentiment)
@@ -101,3 +111,4 @@ if __name__ == '__main__':
     #     print(f"Original Sentiment: {sentiment}")
     #     print(f"Reversed Sentiment: {reversed_sentiment}")
     #     print()
+
