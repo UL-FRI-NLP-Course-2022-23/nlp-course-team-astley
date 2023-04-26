@@ -1,11 +1,10 @@
-import torch
+from transformers import GPT2Tokenizer, GPT2LMHeadModel, Trainer, TrainingArguments, AdamW
 from typing import List
-from constants import *
-from transformers import GPT2Tokenizer, GPT2LMHeadModel, Trainer, TrainingArguments
-from transformers import AdamW
-from utils import to_encode_string
-from StoryDataset import load_story_dataset
-from constants import *
+import torch
+
+from .StoryDataset import load_story_dataset
+from .utils import to_encode_string
+from .constants import *
 
 # adding special tokens
 #  https://github.com/huggingface/transformers/issues/17690
@@ -17,17 +16,15 @@ from constants import *
 # https://colab.research.google.com/drive/1vnpMoZoenRrWeaxMyfYK4DDbtlBu-M8V?usp=sharing#scrollTo=QILzrXuoRhaF
 
 
-class StoryEndingGeneration:
+class StoryEndingGenerator:
     def __init__(self, load_path=None):
 
-        self.load_path = load_path
-    
         if (load_path == None):
             model_type = "gpt2"
             self.tokenizer = GPT2Tokenizer.from_pretrained(model_type)
             self.model = GPT2LMHeadModel.from_pretrained(model_type)
-            num_added_toks = self.tokenizer.add_special_tokens(SPECIAL_TOKENS)
-            print("We have added", num_added_toks, "tokens")
+            num_tokens = self.tokenizer.add_special_tokens(SPECIAL_TOKENS)
+            print("Special tokens added:", num_tokens)
 
             # Resize_token_embeddings to set the new vocabulary size
             self.model.resize_token_embeddings(len(self.tokenizer))
@@ -46,6 +43,7 @@ class StoryEndingGeneration:
 
         self.model.eval()
         sample_outputs = []
+        final_outputs = []
         # Set up input prompt and control string
         for i in range(4):
             control_string = str(i) 
@@ -80,14 +78,14 @@ class StoryEndingGeneration:
             for i, sample_output in enumerate(sample_outputs):
                 text = self.tokenizer.decode(sample_output, skip_special_tokens=False)
                 # a = len(title) + len(','.join(keywords))    
-                sample_outputs[i] = text
+                final_outputs.append(text)
                 with open("./results/story"+str(i)+".txt", "w", encoding="utf-8") as f:
                     f.write(text)
         
         return sample_outputs
 
 
-    def train(self, path):
+    def train(self, path, output_path):
 
         train_dataset, val_dataset = load_story_dataset(path, self.tokenizer)
 
@@ -106,7 +104,7 @@ class StoryEndingGeneration:
 
         # Set training arguments and start training
         training_args = TrainingArguments(
-            output_dir=self.load_path,
+            output_dir=output_path,
             num_train_epochs=EPOCHS,
             per_device_train_batch_size=BATCH_SIZE,
             per_device_eval_batch_size=BATCH_SIZE,

@@ -1,9 +1,10 @@
-from constants import *
+from torch.utils.data import Dataset, random_split, DataLoader, RandomSampler, SequentialSampler
 import torch
 import os
-from utils import to_encode_string
-from torch.utils.data import Dataset, random_split, DataLoader, RandomSampler, SequentialSampler
 import random
+
+from .utils import to_encode_string
+from .constants import *
 
 def join_keywords(keywords, randomize=True):
     N = len(keywords)
@@ -59,25 +60,27 @@ class StoryDataset(Dataset):
     
 
 def load_story_dataset(path, tokenizer): 
+    
     dataset = StoryDataset(path, tokenizer)
 
     # Split into training and validation sets
     train_size = int(0.9 * len(dataset))
     val_size = len(dataset) - train_size
-    f'There are {train_size :,} samples for training, and {val_size :,} samples for validation testing'
+    print(f'There are {train_size :,} samples for training, and {val_size :,} samples for validation testing')
 
     train_dataset, val_dataset = random_split(dataset, [train_size, val_size])
-    train_dataloader = DataLoader(
-        train_dataset,  # The training samples.
-        sampler=RandomSampler(train_dataset),  # Select batches randomly
-        batch_size=BATCH_SIZE  # Trains with this batch size.
-    )
+    # train_dataloader = DataLoader(
+    #     train_dataset,  # The training samples.
+    #     sampler=RandomSampler(train_dataset),  # Select batches randomly
+    #     batch_size=BATCH_SIZE  # Trains with this batch size.
+    # )
 
-    # For validation the order doesn't matter, so we'll just read them sequentially.
-    validation_dataloader = DataLoader(
-        val_dataset,  # The validation samples.
-        sampler=SequentialSampler(val_dataset),  # Pull out batches sequentially.
-        batch_size=BATCH_SIZE  # Evaluate with this batch size.
-    )
-
-    return (train_dataloader, validation_dataloader) 
+    # # For validation the order doesn't matter, so we'll just read them sequentially.
+    # validation_dataloader = DataLoader(
+    #     val_dataset,  # The validation samples.
+    #     sampler=SequentialSampler(val_dataset),  # Pull out batches sequentially.
+    #     batch_size=BATCH_SIZE  # Evaluate with this batch size.
+    # )
+    # return (train_dataloader, validation_dataloader) 
+    
+    return (train_dataset, val_dataset) 
