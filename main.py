@@ -1,5 +1,5 @@
 import torch
-from models import StoryEndingGeneration
+from models import StoryEndingGenerator
 
 from torch.utils.data import Dataset, DataLoader
 from transformers import BertTokenizer, BertForSequenceClassification, BertForTokenClassification
@@ -149,11 +149,15 @@ if __name__ == '__main__':
     # -------------------------------------
 
     
-    # train_story_model("./dataset")
-    # story_ending_generation = StoryEndingGeneration()
-    # # Generate a story
-    # prompt = "Bla bla bla"
-    # generated_stories = story_ending_generation.generate_ending(prompt, max_length=100, num_return_sequences=5)
+    # basic gpt2
+    ending_model = StoryEndingGenerator()
+    
+    # fine-tunned gpt2
+    # ending_model = StoryEndingGenerator("./content")
+    
+    # @param: path to dataset
+    # @param: output path of model while training
+    ending_model.train("../archive/dataset", "test")
 
     # # Reverse sentiment to see how ending will change
     # for story in generated_stories:
@@ -163,3 +167,4 @@ if __name__ == '__main__':
     #     print(f"Original Sentiment: {sentiment}")
     #     print(f"Reversed Sentiment: {reversed_sentiment}")
     #     print()
+    ending_model.generate_story()
