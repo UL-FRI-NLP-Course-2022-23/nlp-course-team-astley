@@ -11,12 +11,13 @@ from transformers import Trainer, TrainingArguments
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "True"
 
-
+# reads the entire file into one string
 def read_file_as_string(filename):
     with open(filename, 'r') as file:
         return file.read()
 
-
+# Roughly divides a given string into a list of sentences (strings)
+# could be improved
 def sentence_extraction(text):
     tmp = text.replace('.', '<SE>')
     tmp = tmp.replace('?', '<SE>')
@@ -24,6 +25,7 @@ def sentence_extraction(text):
     return tmp.split('<SE>')
 
 
+# Extracts sentiment from a list of sentences based on SentimentAnalysis sa
 def extract_sentiment(sa, sentences):
     sentiment_matrix = {}
 
