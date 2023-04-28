@@ -74,8 +74,6 @@ if __name__ == '__main__':
 
     # print(sentiment_analysis.predict_sentiment(["I like you.", "I love you."]))
     # print(sentiment_analysis.do_something(["Michael ate an apple. Michael is fat."]))
-    # -------------------------------------
-
     
     # basic gpt2
     ending_model = StoryEndingGenerator()

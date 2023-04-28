@@ -18,8 +18,9 @@ from .constants import *
 
 class StoryEndingGenerator:
     def __init__(self, load_path=None):
-
+        
         if (load_path == None):
+            # load path is not given, load pretrained GPT2 from HF
             model_type = "gpt2"
             self.tokenizer = GPT2Tokenizer.from_pretrained(model_type)
             self.model = GPT2LMHeadModel.from_pretrained(model_type)
@@ -29,18 +30,21 @@ class StoryEndingGenerator:
             # Resize_token_embeddings to set the new vocabulary size
             self.model.resize_token_embeddings(len(self.tokenizer))
         else:
+            # load path is given, load our GPT2
             self.tokenizer = GPT2Tokenizer.from_pretrained(load_path)
             self.model = GPT2LMHeadModel.from_pretrained(load_path)
 
+        # Sanity check if the added token was really added
         assert self.tokenizer.sep_token == "[SEP]"
 
-        # Set GPU if available.
+        # Set GPU if available
         self.device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
         self.model.to(self.device)
 
 
+    # generate 5 versions of story, write them to /results and 
+    # also return them as an array.
     def generate_story(self):
-
         self.model.eval()
         sample_outputs = []
         final_outputs = []
