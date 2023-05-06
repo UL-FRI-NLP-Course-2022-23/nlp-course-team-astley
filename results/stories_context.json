@@ -57,11 +57,20 @@
     },
     {
         "story_id": "538.txt",
-        "characters": {}
+        "characters": {
+            "girl": 100,
+            "snake": 100,
+            "prince": 100
+        }
     },
     {
         "story_id": "1537.txt",
-        "characters": {}
+        "characters": {
+            "Widow's daughter": 100,
+            "step-mother": 100,
+            "Sunday Goddess": 100,
+            "Dragons": 100
+        }
     },
     {
         "story_id": "909.txt",
@@ -72,7 +81,15 @@
     },
     {
         "story_id": "1245.txt",
-        "characters": {}
+        "characters": {
+            "Hazel-nut child": 100,
+            "mother of the Hazel-nut child": 100,
+            "father of the Hazel-nut child": 100,
+            "man on horseback": 100,
+            "robber": 100,
+            "father-stork": 100,
+            "King of the country": 100
+        }
     },
     {
         "story_id": "921.txt",
@@ -82,7 +99,15 @@
     },
     {
         "story_id": "935.txt",
-        "characters": {}
+        "characters": {
+            "shepherd's son": 100,
+            "shepherd's daughter": 100,
+            "Man with three black dogs": 100,
+            "Salt": 100,
+            "King's daughter": 100,
+            "coachman": 100,
+            "The King": 100
+        }
     },
     {
         "story_id": "1292.txt",
@@ -131,7 +156,17 @@
     },
     {
         "story_id": "1443.txt",
-        "characters": {}
+        "characters": {
+            "poor widow": 100,
+            "Eldest son": 100,
+            "Old man": 100,
+            "Second son": 100,
+            "Youngest son": 100,
+            "Baa-lambs": 100,
+            "Ill-fed cattle": 100,
+            "Woman fishing in a lake": 100,
+            "Naked young sparrows": 100
+        }
     },
     {
         "story_id": "29.txt",
@@ -181,7 +216,17 @@
     },
     {
         "story_id": "1457.txt",
-        "characters": {}
+        "characters": {
+            "Three Sons of the First King": 100,
+            "Daughter of the Second King": 100,
+            "Eldest Son": 100,
+            "Second Son": 100,
+            "Youngest Son": 100,
+            "The Fathers of the Two Kings": 100,
+            "Learned and Old People of the Realm": 100,
+            "Royal Princess": 100,
+            "Virtuous and Beautiful Woman": 100
+        }
     },
     {
         "story_id": "15.txt",
@@ -218,7 +263,17 @@
     },
     {
         "story_id": "114.txt",
-        "characters": {}
+        "characters": {
+            "scholar": 100,
+            "two little knights": 100,
+            "hunting falcons": 100,
+            "third little knight": 100,
+            "hunting dog": 100,
+            "footmen and horsemen": 100,
+            "man clad in yellow (king)": 100,
+            "bodyguards": 100,
+            "little hunting dog found by the scholar": 100
+        }
     },
     {
         "story_id": "666.txt",
@@ -427,7 +482,17 @@
     },
     {
         "story_id": "115.txt",
-        "characters": {}
+        "characters": {
+            "scholar": 100,
+            "two little knights": 100,
+            "hunting falcons": 100,
+            "third little knight": 100,
+            "hunting dog": 100,
+            "footmen and horsemen": 100,
+            "man clad in yellow (king)": 100,
+            "bodyguards": 100,
+            "little hunting dog found by the scholar": 100
+        }
     },
     {
         "story_id": "673.txt",
@@ -485,7 +550,17 @@
     },
     {
         "story_id": "1456.txt",
-        "characters": {}
+        "characters": {
+            "Poor man": 100,
+            "Three sons": 100,
+            "Two elder sons": 100,
+            "Youngest son (who became blind)": 100,
+            "Little mouse (king of mice)": 100,
+            "Queen of bees": 100,
+            "King": 100,
+            "King's daughter": 100,
+            "Various servants of the king": 100
+        }
     },
     {
         "story_id": "868.txt",
@@ -560,7 +635,12 @@
     },
     {
         "story_id": "934.txt",
-        "characters": {}
+        "characters": {
+            "fiddler": 100,
+            "trumpeter": 100,
+            "flute-player": 100,
+            "little man with a grey beard": 100
+        }
     },
     {
         "story_id": "920.txt",
@@ -572,7 +652,17 @@
     },
     {
         "story_id": "1244.txt",
-        "characters": {}
+        "characters": {
+            "Peasant": 100,
+            "Twin boy": 100,
+            "Twin girl": 100,
+            "Step-mother": 100,
+            "Granny (grandmother)": 100,
+            "Wicked witch": 100,
+            "Watch-dog": 100,
+            "Birch-trees": 100,
+            "Cat": 100
+        }
     },
     {
         "story_id": "908.txt",
@@ -661,7 +751,18 @@
     },
     {
         "story_id": "1052.txt",
-        "characters": {}
+        "characters": {
+            "Ivy": 100,
+            "Oak-tree": 100,
+            "Storm-king": 100,
+            "Ash": 100,
+            "Cedars": 100,
+            "Hemlocks": 100,
+            "Pines": 100,
+            "Bees": 100,
+            "Butterflies": 100,
+            "Mice": 100
+        }
     },
     {
         "story_id": "1044.txt",
@@ -714,7 +815,12 @@
     },
     {
         "story_id": "1050.txt",
-        "characters": {}
+        "characters": {
+            "The Mountain": 100,
+            "The Sea": 100,
+            "The Air": 100,
+            "The Clouds": 100
+        }
     },
     {
         "story_id": "1087.txt",
@@ -777,7 +883,14 @@
     },
     {
         "story_id": "922.txt",
-        "characters": {}
+        "characters": {
+            "King's son": 100,
+            "Princess": 100,
+            "King": 100,
+            "Maidens": 100,
+            "Servant": 100,
+            "Lion": 100
+        }
     },
     {
         "story_id": "1285.txt",
@@ -974,7 +1087,12 @@
     },
     {
         "story_id": "467.txt",
-        "characters": {}
+        "characters": {
+            "Little page-boy": 100,
+            "Great Earl": 100,
+            "Fat old butler": 100,
+            "Scarlet-clad pages": 100
+        }
     },
     {
         "story_id": "1681.txt",
@@ -1103,7 +1221,9 @@
     },
     {
         "story_id": "116.txt",
-        "characters": {}
+        "characters": {
+            "scholar": 100
+        }
     },
     {
         "story_id": "1496.txt",
@@ -1143,7 +1263,13 @@
     },
     {
         "story_id": "664.txt",
-        "characters": {}
+        "characters": {
+            "laziest man in all the world": 100,
+            "farmer": 100,
+            "landlady": 100,
+            "landlord": 100,
+            "justice": 100
+        }
     },
     {
         "story_id": "17.txt",
@@ -1225,15 +1351,37 @@
     },
     {
         "story_id": "923.txt",
-        "characters": {}
+        "characters": {
+            "girl": 100,
+            "godmother": 100,
+            "King's son": 100
+        }
     },
     {
         "story_id": "937.txt",
-        "characters": {}
+        "characters": {
+            "King": 100,
+            "Prince": 100,
+            "Young nobles": 100,
+            "Old woman": 100,
+            "Priest": 100,
+            "Equerry": 100,
+            "Bishop": 100,
+            "Ladies-in-waiting": 100,
+            "King of Granada": 100,
+            "Wicked fairy": 100,
+            "Nurse": 100,
+            "Wizard": 100
+        }
     },
     {
         "story_id": "1253.txt",
-        "characters": {}
+        "characters": {
+            "Prince": 100,
+            "Princess": 100,
+            "Old King": 100,
+            "Old Queen": 100
+        }
     },
     {
         "story_id": "1535.txt",
@@ -1278,7 +1426,19 @@
     },
     {
         "story_id": "1051.txt",
-        "characters": {}
+        "characters": {
+            "Robin": 100,
+            "Violet": 100,
+            "South Wind": 100,
+            "Rose": 100,
+            "Brook": 100,
+            "Daisy": 100,
+            "Huntsman": 100,
+            "Mole": 100,
+            "Mouse": 100,
+            "Oaks": 100,
+            "North Wind": 100
+        }
     },
     {
         "story_id": "1045.txt",
@@ -1307,7 +1467,20 @@
     },
     {
         "story_id": "1041.txt",
-        "characters": {}
+        "characters": {
+            "old knight, lord of Caerwent": 100,
+            "his daughter, kept locked in a tower": 100,
+            "cross governess": 100,
+            "falcon-prince": 100,
+            "chaplain": 100,
+            "gentle and kind old priest": 100,
+            "poor laborer and his wife": 100,
+            "rich and childless lady who adopts the boy": 100,
+            "the real mother of the boy": 100,
+            "the abbot of the monastery": 100,
+            "an hundred priests at prayer": 100,
+            "white-haired knight, the grandfather of the boy": 100
+        }
     },
     {
         "story_id": "1055.txt",
@@ -1461,11 +1634,34 @@
     },
     {
         "story_id": "1337.txt",
-        "characters": {}
+        "characters": {
+            "old knight, lord of Caerwent": 100,
+            "his daughter, kept locked in a tower": 100,
+            "cross governess": 100,
+            "falcon-prince": 100,
+            "chaplain": 100,
+            "gentle and kind old priest": 100,
+            "poor laborer and his wife": 100,
+            "rich and childless lady who adopts the boy": 100,
+            "the real mother of the boy": 100,
+            "the abbot of the monastery": 100,
+            "an hundred priests at prayer": 100,
+            "white-haired knight, the grandfather of the boy": 100
+        }
     },
     {
         "story_id": "1451.txt",
-        "characters": {}
+        "characters": {
+            "King": 100,
+            "three princes": 100,
+            "old woman": 100,
+            "first beautiful girl": 100,
+            "second beautiful girl": 100,
+            "third beautiful girl": 100,
+            "gipsy woman": 100,
+            "woodcutter's wife": 100,
+            "fairy": 100
+        }
     },
     {
         "story_id": "1445.txt",
@@ -1502,7 +1698,11 @@
     },
     {
         "story_id": "106.txt",
-        "characters": {}
+        "characters": {
+            "farmer": 100,
+            "bonze": 100,
+            "artisan": 100
+        }
     },
     {
         "story_id": "112.txt",
@@ -1519,10 +1719,6 @@
         "characters": {
             "the King of the Fishes": -0.7080125212669373
         }
-    },
-    {
-        "story_id": ".DS_Store",
-        "characters": {}
     },
     {
         "story_id": "489.txt",
@@ -1758,11 +1954,27 @@
     },
     {
         "story_id": "1450.txt",
-        "characters": {}
+        "characters": {
+            "king": 100,
+            "king's eldest daughter": 100,
+            "king's second daughter": 100,
+            "king's youngest daughter": 100,
+            "dirty, filthy pig": 100,
+            "peasant girl dressed in rich garments": 100,
+            "maids who attended to girl in palace": 100,
+            "young man who was once a monarch": 100
+        }
     },
     {
         "story_id": "1478.txt",
-        "characters": {}
+        "characters": {
+            "Shepherd": 100,
+            "King of snakes' daughter": 100,
+            "Shepherd's wife": 100,
+            "Donkey": 100,
+            "Dog": 100,
+            "Cock": 100
+        }
     },
     {
         "story_id": "12.txt",
@@ -1857,7 +2069,19 @@
     },
     {
         "story_id": "926.txt",
-        "characters": {}
+        "characters": {
+            "King's son": 100,
+            "Servant": 100,
+            "Witch": 100,
+            "Witch's daughter": 100,
+            "Landlord": 100,
+            "Landlord's daughter": 100,
+            "Princess": 100,
+            "Maid": 100,
+            "Lady-in-waiting": 100,
+            "Twelve murderers": 100,
+            "Judges": 100
+        }
     },
     {
         "story_id": "932.txt",
@@ -1891,7 +2115,22 @@
     },
     {
         "story_id": "1054.txt",
-        "characters": {}
+        "characters": {
+            "grandsire": 100,
+            "child": 100,
+            "little vine": 100,
+            "rosebush": 100,
+            "daisy": 100,
+            "violet": 100,
+            "thistle": 100,
+            "oak-tree": 100,
+            "crickets": 100,
+            "bumblebees": 100,
+            "storm-king": 100,
+            "brook": 100,
+            "bluebird": 100,
+            "four-footed monster": 100
+        }
     },
     {
         "story_id": "1726.txt",
@@ -1996,7 +2235,14 @@
     },
     {
         "story_id": "924.txt",
-        "characters": {}
+        "characters": {
+            "poor tailor": 100,
+            "Old gray-haired man": 100,
+            "huge black bull": 100,
+            "fine large stag": 100,
+            "daughter of a wealthy nobleman (unnamed)": 100,
+            "Magician": 100
+        }
     },
     {
         "story_id": "1268.txt",
@@ -2011,7 +2257,13 @@
     },
     {
         "story_id": "930.txt",
-        "characters": {}
+        "characters": {
+            "Princess": 100,
+            "suitor": 100,
+            "tailors": 100,
+            "bear": 100,
+            "King": 100
+        }
     },
     {
         "story_id": "918.txt",
@@ -2034,7 +2286,12 @@
     },
     {
         "story_id": "1254.txt",
-        "characters": {}
+        "characters": {
+            "Scotsman": 100,
+            "Englishman": 100,
+            "Irishman": 100,
+            "Enchanted Princess": 100
+        }
     },
     {
         "story_id": "1532.txt",
@@ -2144,7 +2401,16 @@
     },
     {
         "story_id": "1452.txt",
-        "characters": {}
+        "characters": {
+            "King": 100,
+            "Seven Sons": 100,
+            "Seven Daughters": 100,
+            "Old man with snow-white hair": 100,
+            "Innkeeper": 100,
+            "Prince": 100,
+            "Princess": 100,
+            "Old nurse": 100
+        }
     },
     {
         "story_id": "1334.txt",
@@ -2451,7 +2717,14 @@
     },
     {
         "story_id": "1453.txt",
-        "characters": {}
+        "characters": {
+            "St. Peter": 100,
+            "poor man's son": 100,
+            "king with twelve daughters": 100,
+            "eleven daughters of king": 100,
+            "youngest princess of king": 100,
+            "fairy youths from gorgeous room": 100
+        }
     },
     {
         "story_id": "879.txt",
@@ -2507,7 +2780,12 @@
     },
     {
         "story_id": "1309.txt",
-        "characters": {}
+        "characters": {
+            "Rich brother": 100,
+            "Poor brother": 100,
+            "Old man with long white beard": 100,
+            "Skipper": 100
+        }
     },
     {
         "story_id": "11.txt",
@@ -2630,7 +2908,19 @@
     },
     {
         "story_id": "925.txt",
-        "characters": {}
+        "characters": {
+            "poor man": 100,
+            "his son": 100,
+            "King of a powerful kingdom": 100,
+            "comrades of the son": 100,
+            "daughter of the King": 100,
+            "young kin": 100,
+            "guards": 100,
+            "servant of the young king": 100,
+            "the captain of the ship": 100,
+            "the old king": 100,
+            "accomplice of the young queen": 100
+        }
     },
     {
         "story_id": "514.txt",
@@ -2667,7 +2957,18 @@
     },
     {
         "story_id": "1043.txt",
-        "characters": {}
+        "characters": {
+            "Cedars": 100,
+            "Angels": 100,
+            "Shepherds": 100,
+            "Tree": 100,
+            "Other trees in the forest": 100,
+            "Vines": 100,
+            "Ferns": 100,
+            "Mosses": 100,
+            "Woodman": 100,
+            "Beasts": 100
+        }
     },
     {
         "story_id": "1725.txt",
@@ -2738,7 +3039,14 @@
     },
     {
         "story_id": "1030.txt",
-        "characters": {}
+        "characters": {
+            "poor couple": 100,
+            "man": 100,
+            "woman": 100,
+            "hearth-fairy": 100,
+            "lord of forest": 100,
+            "huntsman": 100
+        }
     },
     {
         "story_id": "1024.txt",
@@ -2777,7 +3085,11 @@
     },
     {
         "story_id": "215.txt",
-        "characters": {}
+        "characters": {
+            "Brownie": 100,
+            "servants": 100,
+            "henwife": 100
+        }
     },
     {
         "story_id": "1232.txt",
@@ -2788,7 +3100,12 @@
     },
     {
         "story_id": "1554.txt",
-        "characters": {}
+        "characters": {
+            "man who tried to catch the monkey": 100,
+            "little boy who watched for the monkey": 100,
+            "children who let the monkey out of the box": 100,
+            "monkey who played the guitar and danced": 100
+        }
     },
     {
         "story_id": "1540.txt",
@@ -2798,7 +3115,15 @@
     },
     {
         "story_id": "1226.txt",
-        "characters": {}
+        "characters": {
+            "miller": 100,
+            "white woman/nixy": 100,
+            "miller's wife": 100,
+            "miller's son/hunter": 100,
+            "lord of land": 100,
+            "hunter's wife/shepherdess": 100,
+            "old witch": 100
+        }
     },
     {
         "story_id": "942.txt",
@@ -2829,7 +3154,15 @@
     },
     {
         "story_id": "956.txt",
-        "characters": {}
+        "characters": {
+            "miller": 100,
+            "white woman/nixy": 100,
+            "miller's wife": 100,
+            "miller's son/hunter": 100,
+            "lord of land": 100,
+            "hunter's wife/shepherdess": 100,
+            "old witch": 100
+        }
     },
     {
         "story_id": "765.txt",
@@ -2893,7 +3226,11 @@
     },
     {
         "story_id": "76.txt",
-        "characters": {}
+        "characters": {
+            "shepherd and his wife": 100,
+            "twins": 100,
+            "Wise Man of Llanidloes": 100
+        }
     },
     {
         "story_id": "188.txt",
@@ -2922,7 +3259,12 @@
     },
     {
         "story_id": "89.txt",
-        "characters": {}
+        "characters": {
+            "man": 100,
+            "wife": 100,
+            "dog": 100,
+            "cat": 100
+        }
     },
     {
         "story_id": "1385.txt",
@@ -2942,11 +3284,23 @@
     },
     {
         "story_id": "177.txt",
-        "characters": {}
+        "characters": {
+            "farmer": 100,
+            "farmer's wife": 100,
+            "farmer's daughter": 100,
+            "gentleman who courted daughter": 100
+        }
     },
     {
         "story_id": "163.txt",
-        "characters": {}
+        "characters": {
+            "First brother": 100,
+            "Second brother": 100,
+            "Fool (third brother)": 100,
+            "Nobleman": 100,
+            "Fool's father": 100,
+            "Fool's mother": 100
+        }
     },
     {
         "story_id": "605.txt",
@@ -3036,11 +3390,30 @@
     },
     {
         "story_id": "406.txt",
-        "characters": {}
+        "characters": {
+            "King": 100,
+            "Enchantress": 100,
+            "Priest": 100,
+            "Priest's son": 100,
+            "Old woman": 100
+        }
     },
     {
         "story_id": "1151.txt",
-        "characters": {}
+        "characters": {
+            "Emperor": 100,
+            "Eldest son": 100,
+            "Second son": 100,
+            "Youngest son": 100,
+            "Nine golden pea-hens": 100,
+            "beautiful maiden/pea-hen": 100,
+            "Old witch": 100,
+            "prince's father": 100,
+            "Man at gate": 100,
+            "dragon-emperor": 100,
+            "prince's wife": 100,
+            "old woman on mountain": 100
+        }
     },
     {
         "story_id": "1637.txt",
@@ -3095,7 +3468,15 @@
     },
     {
         "story_id": "604.txt",
-        "characters": {}
+        "characters": {
+            "old couple": 100,
+            "dragoon": 100,
+            "old man and woman from mountain": 100,
+            "beautiful maiden": 100,
+            "bridesmaid": 100,
+            "wedding guests": 100,
+            "smithy": 100
+        }
     },
     {
         "story_id": "610.txt",
@@ -3169,7 +3550,11 @@
     },
     {
         "story_id": "189.txt",
-        "characters": {}
+        "characters": {
+            "very learned man in north-country": 100,
+            "foolish lad": 100,
+            "Beelzebub": 100
+        }
     },
     {
         "story_id": "1435.txt",
@@ -3229,7 +3614,10 @@
     },
     {
         "story_id": "770.txt",
-        "characters": {}
+        "characters": {
+            "wood-cutter": 100,
+            "wood-cutter's wife": 100
+        }
     },
     {
         "story_id": "1596.txt",
@@ -3265,15 +3653,28 @@
     },
     {
         "story_id": "1227.txt",
-        "characters": {}
+        "characters": {
+            "enchanted Princess": 100,
+            "knight in golden armor": 100,
+            "schoolboy": 100,
+            "dragon": 100
+        }
     },
     {
         "story_id": "1233.txt",
-        "characters": {}
+        "characters": {
+            "man": 100,
+            "wife": 100
+        }
     },
     {
         "story_id": "1555.txt",
-        "characters": {}
+        "characters": {
+            "little old woman": 100,
+            "biggest monkey": 100,
+            "little black boy": 100,
+            "monkey": 100
+        }
     },
     {
         "story_id": "214.txt",
@@ -3387,7 +3788,12 @@
     },
     {
         "story_id": "1231.txt",
-        "characters": {}
+        "characters": {
+            "Indian hunter": 100,
+            "his wife": 100,
+            "their three children": 100,
+            "young brave who seeks the hunter's daughter's hand in marriage.": 100
+        }
     },
     {
         "story_id": "955.txt",
@@ -3449,7 +3855,15 @@
     },
     {
         "story_id": "1351.txt",
-        "characters": {}
+        "characters": {
+            "brother": 100,
+            "sister": 100,
+            "mother": 100,
+            "stepmother/witch": 100,
+            "King": 100,
+            "bedchamber woman": 100,
+            "nurse": 100
+        }
     },
     {
         "story_id": "1437.txt",
@@ -3503,7 +3917,13 @@
     },
     {
         "story_id": "174.txt",
-        "characters": {}
+        "characters": {
+            "Poor brother": 100,
+            "Rich brother": 100,
+            "Poor brother's wife": 100,
+            "Poor brother's children": 100,
+            "Old goat with two large horns": 100
+        }
     },
     {
         "story_id": "1386.txt",
@@ -3514,7 +3934,11 @@
     },
     {
         "story_id": "612.txt",
-        "characters": {}
+        "characters": {
+            "pastor": 100,
+            "king": 100,
+            "sexton": 100
+        }
     },
     {
         "story_id": "148.txt",
@@ -3573,7 +3997,17 @@
     },
     {
         "story_id": "1190.txt",
-        "characters": {}
+        "characters": {
+            "sultan": 100,
+            "vizir": 100,
+            "officers": 100,
+            "judges": 100,
+            "eldest son": 100,
+            "head-man": 100,
+            "six brothers": 100,
+            "five nations": 100,
+            "youngest son": 100
+        }
     },
     {
         "story_id": "1184.txt",
@@ -3698,7 +4132,16 @@
     },
     {
         "story_id": "1387.txt",
-        "characters": {}
+        "characters": {
+            "eldest brother": 100,
+            "second brother": 100,
+            "third brother": 100,
+            "charcoal-burner": 100,
+            "soldiers": 100,
+            "king of country": 100,
+            "captain": 100,
+            "king's daughter": 100
+        }
     },
     {
         "story_id": "1393.txt",
@@ -3786,7 +4229,14 @@
     },
     {
         "story_id": "1350.txt",
-        "characters": {}
+        "characters": {
+            "cock": 100,
+            "hen": 100,
+            "duck": 100,
+            "pin": 100,
+            "needle": 100,
+            "landlord": 100
+        }
     },
     {
         "story_id": "1436.txt",
@@ -3805,11 +4255,28 @@
     },
     {
         "story_id": "1595.txt",
-        "characters": {}
+        "characters": {
+            "poor man": 100,
+            "man's wife": 100,
+            "child": 100,
+            "damsel with hair as bright as sun": 100,
+            "emperor": 100
+        }
     },
     {
         "story_id": "773.txt",
-        "characters": {}
+        "characters": {
+            "king": 100,
+            "little boy": 100,
+            "fairies": 100,
+            "nurses": 100,
+            "page": 100,
+            "young men": 100,
+            "princess": 100,
+            "giant": 100,
+            "messengers": 100,
+            "prince's father": 100
+        }
     },
     {
         "story_id": "940.txt",
@@ -3836,15 +4303,35 @@
     },
     {
         "story_id": "1556.txt",
-        "characters": {}
+        "characters": {
+            "Monkey": 100,
+            "hen": 100,
+            "fox": 100,
+            "dog": 100,
+            "tiger": 100
+        }
     },
     {
         "story_id": "1230.txt",
-        "characters": {}
+        "characters": {
+            "three brothers": 100,
+            "the youngest brother": 100,
+            "lovely girl with golden hair": 100,
+            "lovely girl's sisters": 100,
+            "witch": 100,
+            "magician": 100
+        }
     },
     {
         "story_id": "1224.txt",
-        "characters": {}
+        "characters": {
+            "man who understood all sorts of arts": 100,
+            "servant who uprooted six trees": 100,
+            "hunter": 100,
+            "blower": 100,
+            "runner": 100,
+            "man with little hat": 100
+        }
     },
     {
         "story_id": "968.txt",
@@ -3965,11 +4452,22 @@
     },
     {
         "story_id": "1234.txt",
-        "characters": {}
+        "characters": {
+            "Beautiful Maiden": 100,
+            "Handsome Chief": 100,
+            "Old Man": 100,
+            "Children": 100
+        }
     },
     {
         "story_id": "1552.txt",
-        "characters": {}
+        "characters": {
+            "Little old woman": 100,
+            "Little black boy": 100,
+            "Three beautiful daughters": 100,
+            "Wicked fairy": 100,
+            "Three cavalheiros": 100
+        }
     },
     {
         "story_id": "987.txt",
@@ -3982,7 +4480,14 @@
     },
     {
         "story_id": "777.txt",
-        "characters": {}
+        "characters": {
+            "Lion": 100,
+            "Wild Cat": 100,
+            "Grizzly Bear": 100,
+            "Serpent": 100,
+            "Deer": 100,
+            "Prince": 100
+        }
     },
     {
         "story_id": "1368.txt",
@@ -4036,7 +4541,21 @@
     },
     {
         "story_id": "58.txt",
-        "characters": {}
+        "characters": {
+            "Shepherd of Myddvai": 100,
+            "Three maidens from the lake": 100,
+            "Lake-maiden": 100,
+            "The husband of the lake-maiden": 100,
+            "Their three children": 100,
+            "Brindle cow": 100,
+            "White speckled cow": 100,
+            "Spotted cow": 100,
+            "Old white face": 100,
+            "Gray Geringer": 100,
+            "White bull from the king's coast": 100,
+            "Grey ox": 100,
+            "Black calf": 100
+        }
     },
     {
         "story_id": "1340.txt",
@@ -4120,7 +4639,9 @@
     },
     {
         "story_id": "415.txt",
-        "characters": {}
+        "characters": {
+            "lazybones": 100
+        }
     },
     {
         "story_id": "1194.txt",
@@ -4174,7 +4695,12 @@
     },
     {
         "story_id": "1143.txt",
-        "characters": {}
+        "characters": {
+            "Old man": 100,
+            "Son": 100,
+            "Beardless man": 100,
+            "Miller": 100
+        }
     },
     {
         "story_id": "1157.txt",
@@ -4201,7 +4727,9 @@
     },
     {
         "story_id": "170.txt",
-        "characters": {}
+        "characters": {
+            "old man": 100
+        }
     },
     {
         "story_id": "164.txt",
@@ -4263,7 +4791,13 @@
     },
     {
         "story_id": "1355.txt",
-        "characters": {}
+        "characters": {
+            "lazy girl": 100,
+            "girl's mother": 100,
+            "Queen": 100,
+            "Queen's eldest son": 100,
+            "three spinsters": 100
+        }
     },
     {
         "story_id": "71.txt",
@@ -4332,7 +4866,14 @@
     },
     {
         "story_id": "1553.txt",
-        "characters": {}
+        "characters": {
+            "Monkey": 100,
+            "Rabbit": 100,
+            "Armadillo": 100,
+            "Cat": 100,
+            "Cow": 100,
+            "Farmer": 100
+        }
     },
     {
         "story_id": "1547.txt",
@@ -4398,7 +4939,14 @@
     },
     {
         "story_id": "589.txt",
-        "characters": {}
+        "characters": {
+            "cabin-boy": 100,
+            "captain": 100,
+            "captain's wife": 100,
+            "first quartermaster's wife": 100,
+            "second quartermaster's wife": 100,
+            "crew": 100
+        }
     },
     {
         "story_id": "1035.txt",
@@ -4485,7 +5033,17 @@
     },
     {
         "story_id": "1551.txt",
-        "characters": {}
+        "characters": {
+            "father": 100,
+            "eldest son": 100,
+            "second son": 100,
+            "third son": 100,
+            "beautiful maiden": 100,
+            "little black servant girl": 100,
+            "cook": 100,
+            "bold pigeon": 100,
+            "other pigeons": 100
+        }
     },
     {
         "story_id": "1237.txt",
@@ -4524,7 +5082,13 @@
     },
     {
         "story_id": "1592.txt",
-        "characters": {}
+        "characters": {
+            "Head Chief of the Pawnees": 100,
+            "poor boy on the old dun horse": 100,
+            "old crier": 100,
+            "rich young": 100,
+            "old woman": 100
+        }
     },
     {
         "story_id": "774.txt",
@@ -4572,7 +5136,10 @@
     },
     {
         "story_id": "199.txt",
-        "characters": {}
+        "characters": {
+            "man": 100,
+            "wife": 100
+        }
     },
     {
         "story_id": "1425.txt",
@@ -4592,7 +5159,16 @@
     },
     {
         "story_id": "1357.txt",
-        "characters": {}
+        "characters": {
+            "King": 100,
+            "trusty servant": 100,
+            "Queen": 100,
+            "ducks": 100,
+            "ant-king": 100,
+            "father-raven": 100,
+            "mother-raven": 100,
+            "King's daughter": 100
+        }
     },
     {
         "story_id": "9.txt",
@@ -4610,7 +5186,10 @@
     },
     {
         "story_id": "1431.txt",
-        "characters": {}
+        "characters": {
+            "lad": 100,
+            "lazy rich girl": 100
+        }
     },
     {
         "story_id": "628.txt",
@@ -4633,7 +5212,17 @@
     },
     {
         "story_id": "614.txt",
-        "characters": {}
+        "characters": {
+            "poor man": 100,
+            "lazy and clumsy son": 100,
+            "rich man who takes son as a servant": 100,
+            "old woman with basket": 100,
+            "handsome prince": 100,
+            "king": 100,
+            "youth": 100,
+            "queen": 100,
+            "princess": 100
+        }
     },
     {
         "story_id": "600.txt",
@@ -4657,7 +5246,13 @@
     },
     {
         "story_id": "166.txt",
-        "characters": {}
+        "characters": {
+            "cat": 100,
+            "cock": 100,
+            "fox": 100,
+            "fox's daughters": 100,
+            "fox's son": 100
+        }
     },
     {
         "story_id": "1141.txt",
@@ -4675,7 +5270,11 @@
     },
     {
         "story_id": "416.txt",
-        "characters": {}
+        "characters": {
+            "moujik": 100,
+            "two dead lads": 100,
+            "relatives of the dead lads": 100
+        }
     },
     {
         "story_id": "1196.txt",
@@ -4692,7 +5291,13 @@
     },
     {
         "story_id": "417.txt",
-        "characters": {}
+        "characters": {
+            "cat": 100,
+            "cock": 100,
+            "fox": 100,
+            "moujik": 100,
+            "soldier": 100
+        }
     },
     {
         "story_id": "359.txt",
@@ -4766,7 +5371,11 @@
     },
     {
         "story_id": "615.txt",
-        "characters": {}
+        "characters": {
+            "youth": 100,
+            "mother": 100,
+            "princess": 100
+        }
     },
     {
         "story_id": "1381.txt",
@@ -4892,7 +5501,11 @@
     },
     {
         "story_id": "761.txt",
-        "characters": {}
+        "characters": {
+            "rat": 100,
+            "rat's wife": 100,
+            "daughter": 100
+        }
     },
     {
         "story_id": "991.txt",
@@ -4908,7 +5521,16 @@
     },
     {
         "story_id": "749.txt",
-        "characters": {}
+        "characters": {
+            "little hare": 100,
+            "hare's father": 100,
+            "hare's mother": 100,
+            "hare's grandmother": 100,
+            "wizard": 100,
+            "children": 100,
+            "old woman": 100,
+            "old man": 100
+        }
     },
     {
         "story_id": "1222.txt",
@@ -4973,7 +5595,14 @@
     },
     {
         "story_id": "211.txt",
-        "characters": {}
+        "characters": {
+            "cat": 100,
+            "mouse": 100,
+            "cow": 100,
+            "farmer": 100,
+            "butcher": 100,
+            "baker": 100
+        }
     },
     {
         "story_id": "205.txt",
@@ -5000,7 +5629,15 @@
     },
     {
         "story_id": "1008.txt",
-        "characters": {}
+        "characters": {
+            "Old Woman": 100,
+            "King": 100,
+            "Queen": 100,
+            "Prince": 100,
+            "Princess": 100,
+            "Neighbouring King": 100,
+            "Neighbouring Queen": 100
+        }
     },
     {
         "story_id": "585.txt",
@@ -5057,7 +5694,10 @@
     },
     {
         "story_id": "1561.txt",
-        "characters": {}
+        "characters": {
+            "Stag": 100,
+            "Tiger": 100
+        }
     },
     {
         "story_id": "1207.txt",
@@ -5085,11 +5725,23 @@
     },
     {
         "story_id": "750.txt",
-        "characters": {}
+        "characters": {
+            "turtle": 100,
+            "young women": 100,
+            "leader turtle": 100,
+            "man": 100,
+            "woman": 100,
+            "friend of the woman": 100
+        }
     },
     {
         "story_id": "778.txt",
-        "characters": {}
+        "characters": {
+            "two wives": 100,
+            "first husband": 100,
+            "second husband": 100,
+            "undertaker": 100
+        }
     },
     {
         "story_id": "1401.txt",
@@ -5125,7 +5777,10 @@
     },
     {
         "story_id": "1373.txt",
-        "characters": {}
+        "characters": {
+            "shoemaker": 100,
+            "shoemaker's wife": 100
+        }
     },
     {
         "story_id": "57.txt",
@@ -5160,7 +5815,13 @@
     },
     {
         "story_id": "43.txt",
-        "characters": {}
+        "characters": {
+            "Widowed mother": 100,
+            "Boy": 100,
+            "Girl": 100,
+            "Old woman from the Land of the Little People": 100,
+            "Woodpecker": 100
+        }
     },
     {
         "story_id": "630.txt",
@@ -5293,11 +5954,34 @@
     },
     {
         "story_id": "354.txt",
-        "characters": {}
+        "characters": {
+            "husband": 100,
+            "wife": 100,
+            "old woman": 100
+        }
     },
     {
         "story_id": "426.txt",
-        "characters": {}
+        "characters": {
+            "Odin": 100,
+            "Thor": 100,
+            "H\u00f6dur": 100,
+            "Baldur": 100,
+            "Tyr": 100,
+            "Heimdall": 100,
+            "Vidar": 100,
+            "Vali": 100,
+            "Loki": 100,
+            "Frigga": 100,
+            "Freya": 100,
+            "Nanna": 100,
+            "Iduna": 100,
+            "Sif": 100,
+            "Lif": 100,
+            "Lifthrasir": 100,
+            "Modi": 100,
+            "Magni": 100
+        }
     },
     {
         "story_id": "427.txt",
@@ -5381,7 +6065,9 @@
     },
     {
         "story_id": "81.txt",
-        "characters": {}
+        "characters": {
+            "man": 100
+        }
     },
     {
         "story_id": "1399.txt",
@@ -5398,7 +6084,13 @@
     },
     {
         "story_id": "95.txt",
-        "characters": {}
+        "characters": {
+            "Old man": 100,
+            "daughter": 100,
+            "neighbor's daughter": 100,
+            "Silkworm Goddess": 100,
+            "horse": 100
+        }
     },
     {
         "story_id": "143.txt",
@@ -5443,11 +6135,37 @@
     },
     {
         "story_id": "157.txt",
-        "characters": {}
+        "characters": {
+            "sparrow": 100,
+            "goat": 100,
+            "wolf": 100,
+            "people": 100,
+            "Tartars": 100,
+            "fire": 100,
+            "water": 100,
+            "ox": 100,
+            "pole-axe": 100,
+            "worms": 100,
+            "hen": 100,
+            "sparrow-hawk": 100
+        }
     },
     {
         "story_id": "1428.txt",
-        "characters": {}
+        "characters": {
+            "poor man": 100,
+            "son": 100,
+            "man who hired him as a shepherd": 100,
+            "daughter of the farmhouse": 100,
+            "woman who saw the lamb dancing": 100,
+            "priest": 100,
+            "old woman who gave him lodging": 100,
+            "king": 100,
+            "king's daughter": 100,
+            "court-chaplain": 100,
+            "court bakeress": 100,
+            "lady-in-waiting to the princess.": 100
+        }
     },
     {
         "story_id": "42.txt",
@@ -5562,11 +6280,30 @@
     },
     {
         "story_id": "1206.txt",
-        "characters": {}
+        "characters": {
+            "king": 100,
+            "king's son": 100,
+            "woman carrying child": 100,
+            "dove": 100,
+            "innkeeper": 100,
+            "king's eldest daughter": 100,
+            "hermit": 100,
+            "nun": 100,
+            "gardener": 100,
+            "queen": 100,
+            "prince's family members": 100,
+            "servant who bought doves": 100
+        }
     },
     {
         "story_id": "1212.txt",
-        "characters": {}
+        "characters": {
+            "Emperor": 100,
+            "Old minister": 100,
+            "Worthy statesmen": 100,
+            "Distinguished knights": 100,
+            "Chamberlains": 100
+        }
     },
     {
         "story_id": "1574.txt",
@@ -5590,11 +6327,28 @@
     },
     {
         "story_id": "590.txt",
-        "characters": {}
+        "characters": {
+            "Poor woman": 100,
+            "Little boy": 100,
+            "Merchant": 100,
+            "Cook": 100,
+            "Old woman with a bag": 100,
+            "Guests at the tavern": 100,
+            "Daughter of the merchant": 100
+        }
     },
     {
         "story_id": "584.txt",
-        "characters": {}
+        "characters": {
+            "Peasant boy": 100,
+            "pastor": 100,
+            "wine-dealer": 100,
+            "servant/comrade": 100,
+            "three witches": 100,
+            "king": 100,
+            "princess": 100,
+            "troll": 100
+        }
     },
     {
         "story_id": "1010.txt",
@@ -5604,7 +6358,10 @@
     },
     {
         "story_id": "592.txt",
-        "characters": {}
+        "characters": {
+            "poor woman": 100,
+            "girl from underground": 100
+        }
     },
     {
         "story_id": "1006.txt",
@@ -5620,11 +6377,21 @@
     },
     {
         "story_id": "1012.txt",
-        "characters": {}
+        "characters": {
+            "king of far country": 100,
+            "lord high chamberlain": 100,
+            "envoy of powerful emperor": 100,
+            "weaver at his loom": 100
+        }
     },
     {
         "story_id": "586.txt",
-        "characters": {}
+        "characters": {
+            "maiden": 100,
+            "dog": 100,
+            "young fellow": 100,
+            "trolls": 100
+        }
     },
     {
         "story_id": "579.txt",
@@ -5653,7 +6420,13 @@
     },
     {
         "story_id": "1562.txt",
-        "characters": {}
+        "characters": {
+            "tiger": 100,
+            "rabbit": 100,
+            "monkey": 100,
+            "goat": 100,
+            "armadillo": 100
+        }
     },
     {
         "story_id": "1576.txt",
@@ -5676,7 +6449,19 @@
     },
     {
         "story_id": "1210.txt",
-        "characters": {}
+        "characters": {
+            "King": 100,
+            "Courtiers": 100,
+            "Old woman/witch": 100,
+            "Old woman's daughter": 100,
+            "King's first wife": 100,
+            "King's seven children": 100,
+            "Wise-woman": 100,
+            "Queen/stepmother": 100,
+            "Robbers": 100,
+            "King's hunters": 100,
+            "King's mother": 100
+        }
     },
     {
         "story_id": "974.txt",
@@ -5713,7 +6498,14 @@
     },
     {
         "story_id": "1589.txt",
-        "characters": {}
+        "characters": {
+            "five women": 100,
+            "greedy youngster": 100,
+            "farmer": 100,
+            "king": 100,
+            "smith": 100,
+            "soldier": 100
+        }
     },
     {
         "story_id": "1370.txt",
@@ -5779,7 +6571,11 @@
     },
     {
         "story_id": "6.txt",
-        "characters": {}
+        "characters": {
+            "fairies": 100,
+            "kabouters": 100,
+            "elves": 100
+        }
     },
     {
         "story_id": "54.txt",
@@ -5791,7 +6587,10 @@
     },
     {
         "story_id": "1358.txt",
-        "characters": {}
+        "characters": {
+            "Poor old woman": 100,
+            "Tailor": 100
+        }
     },
     {
         "story_id": "627.txt",
@@ -5832,7 +6631,17 @@
     },
     {
         "story_id": "83.txt",
-        "characters": {}
+        "characters": {
+            "King": 100,
+            "Queen": 100,
+            "Princess": 100,
+            "Bird with nine heads": 100,
+            "Youth": 100,
+            "Maiden": 100,
+            "Dragon": 100,
+            "Sea-dragon": 100,
+            "Dragon's son": 100
+        }
     },
     {
         "story_id": "169.txt",
@@ -5890,11 +6699,20 @@
     },
     {
         "story_id": "418.txt",
-        "characters": {}
+        "characters": {
+            "Moujik": 100,
+            "old mother": 100,
+            "dog": 100
+        }
     },
     {
         "story_id": "356.txt",
-        "characters": {}
+        "characters": {
+            "old man": 100,
+            "old woman": 100,
+            "pope": 100,
+            "daughter-in-law": 100
+        }
     },
     {
         "story_id": "342.txt",
@@ -5916,7 +6734,11 @@
     },
     {
         "story_id": "168.txt",
-        "characters": {}
+        "characters": {
+            "Rich man": 100,
+            "poor man": 100,
+            "son of the rich man": 100
+        }
     },
     {
         "story_id": "96.txt",
@@ -5929,7 +6751,16 @@
     },
     {
         "story_id": "82.txt",
-        "characters": {}
+        "characters": {
+            "Proud Prince": 100,
+            "Princess": 100,
+            "Suitors": 100,
+            "Beggar": 100,
+            "Princess' mother": 100,
+            "Emperor": 100,
+            "Palace attendants": 100,
+            "New Year's celebrants": 100
+        }
     },
     {
         "story_id": "154.txt",
@@ -5963,7 +6794,10 @@
     },
     {
         "story_id": "1359.txt",
-        "characters": {}
+        "characters": {
+            "Fisherman": 100,
+            "Fisherman's wife": 100
+        }
     },
     {
         "story_id": "55.txt",
@@ -6146,7 +6980,11 @@
     },
     {
         "story_id": "1563.txt",
-        "characters": {}
+        "characters": {
+            "lamb": 100,
+            "Toad": 100,
+            "Daughter of the King": 100
+        }
     },
     {
         "story_id": "578.txt",
@@ -6156,23 +6994,55 @@
     },
     {
         "story_id": "544.txt",
-        "characters": {}
+        "characters": {
+            "king": 100,
+            "queen": 100,
+            "king's daughter": 100,
+            "court lady": 100,
+            "court lady's two daughters": 100,
+            "king's son": 100,
+            "old woman": 100,
+            "tiny old man on hill-top": 100
+        }
     },
     {
         "story_id": "550.txt",
-        "characters": {}
+        "characters": {
+            "lad": 100,
+            "rat": 100,
+            "princess": 100,
+            "woman": 100,
+            "man": 100,
+            "bear": 100,
+            "eagle": 100,
+            "serving-maid": 100
+        }
     },
     {
         "story_id": "587.txt",
-        "characters": {}
+        "characters": {
+            "cottager": 100,
+            "wife": 100
+        }
     },
     {
         "story_id": "1013.txt",
-        "characters": {}
+        "characters": {
+            "Woman": 100,
+            "son": 100,
+            "captain": 100,
+            "Jew": 100,
+            "crew": 100,
+            "sea-maiden": 100,
+            "three doves/damsels": 100
+        }
     },
     {
         "story_id": "1007.txt",
-        "characters": {}
+        "characters": {
+            "two wild ducks": 100,
+            "turtle": 100
+        }
     },
     {
         "story_id": "593.txt",
@@ -6192,7 +7062,15 @@
     },
     {
         "story_id": "1003.txt",
-        "characters": {}
+        "characters": {
+            "King": 100,
+            "Queen": 100,
+            "Fairy Godmother": 100,
+            "Ants": 100,
+            "Old goat": 100,
+            "Nanny goat": 100,
+            "Billy goat": 100
+        }
     },
     {
         "story_id": "1017.txt",
@@ -6208,7 +7086,12 @@
     },
     {
         "story_id": "583.txt",
-        "characters": {}
+        "characters": {
+            "Schoolmaster of Etnedal": 100,
+            "Priest": 100,
+            "Priest's wife": 100,
+            "Priest's daughter": 100
+        }
     },
     {
         "story_id": "554.txt",
@@ -6225,11 +7108,32 @@
     },
     {
         "story_id": "971.txt",
-        "characters": {}
+        "characters": {
+            "young man seeking a wife": 100,
+            "daughter of a farmer": 100,
+            "father of the bride": 100,
+            "mother of the bride": 100,
+            "old woman": 100,
+            "old farmer": 100,
+            "the bride": 100,
+            "man from the town": 100,
+            "women spinning at their wheels": 100,
+            "first husband": 100,
+            "second man": 100,
+            "third man": 100,
+            "boy": 100
+        }
     },
     {
         "story_id": "965.txt",
-        "characters": {}
+        "characters": {
+            "king of Tethertown": 100,
+            "snake": 100,
+            "great black raven": 100,
+            "handsome youth": 100,
+            "handsomest youth": 100,
+            "the cook's son": 100
+        }
     },
     {
         "story_id": "1229.txt",
@@ -6249,7 +7153,16 @@
     },
     {
         "story_id": "1201.txt",
-        "characters": {}
+        "characters": {
+            "woman": 100,
+            "three sons": 100,
+            "two elder brothers": 100,
+            "chosen wives of two elder brothers": 100,
+            "frog": 100,
+            "lovely girl": 100,
+            "three witches": 100,
+            "coachman": 100
+        }
     },
     {
         "story_id": "959.txt",
@@ -6294,11 +7207,25 @@
     },
     {
         "story_id": "45.txt",
-        "characters": {}
+        "characters": {
+            "poor Indian": 100,
+            "Indian's son": 100,
+            "Indian's daughter": 100,
+            "Indian's first wife": 100,
+            "Indian's second wife": 100,
+            "Animals entangled in spider web": 100,
+            "A big buffalo bull": 100,
+            "Moles": 100,
+            "Sun": 100,
+            "Moon": 100
+        }
     },
     {
         "story_id": "51.txt",
-        "characters": {}
+        "characters": {
+            "boy": 100,
+            "girl": 100
+        }
     },
     {
         "story_id": "3.txt",
@@ -6332,7 +7259,15 @@
     },
     {
         "story_id": "79.txt",
-        "characters": {}
+        "characters": {
+            "Oldest daughter": 100,
+            "Oldest son-in-law:": 100,
+            "Second daughter": 100,
+            "Second son-in-law": 100,
+            "Third daughter": 100,
+            "Third son-in-law": 100,
+            "Stable-boy": 100
+        }
     },
     {
         "story_id": "1361.txt",
@@ -6363,7 +7298,20 @@
     },
     {
         "story_id": "86.txt",
-        "characters": {}
+        "characters": {
+            "Widow": 100,
+            "Widow's son": 100,
+            "Beggar woman/grandmother": 100,
+            "Chicken-butcher": 100,
+            "Dog": 100,
+            "Pair of mice": 100,
+            "Cat": 100,
+            "Raven": 100,
+            "Man with black hair": 100,
+            "Judge": 100,
+            "Princess": 100,
+            "Youth": 100
+        }
     },
     {
         "story_id": "92.txt",
@@ -6401,7 +7349,12 @@
     },
     {
         "story_id": "150.txt",
-        "characters": {}
+        "characters": {
+            "nobleman": 100,
+            "huntsmen": 100,
+            "wakeful huntsman": 100,
+            "old mare": 100
+        }
     },
     {
         "story_id": "1639.txt",
@@ -6413,7 +7366,13 @@
     },
     {
         "story_id": "1177.txt",
-        "characters": {}
+        "characters": {
+            "Young man": 100,
+            "Emperor": 100,
+            "Emperor's daughter": 100,
+            "Trusty servant": 100,
+            "Princess's nurse": 100
+        }
     },
     {
         "story_id": "1611.txt",
@@ -6435,7 +7394,14 @@
     },
     {
         "story_id": "352.txt",
-        "characters": {}
+        "characters": {
+            "Old man": 100,
+            "Old woman": 100,
+            "Old man's daughter": 100,
+            "Old woman's daughter": 100,
+            "Bear": 100,
+            "Mouse": 100
+        }
     },
     {
         "story_id": "434.txt",
@@ -6505,7 +7471,13 @@
     },
     {
         "story_id": "151.txt",
-        "characters": {}
+        "characters": {
+            "Nobleman": 100,
+            "Huntsmen": 100,
+            "Son of a dog": 100,
+            "Old mare": 100,
+            "Stone horses": 100
+        }
     },
     {
         "story_id": "145.txt",
@@ -6555,11 +7527,22 @@
     },
     {
         "story_id": "87.txt",
-        "characters": {}
+        "characters": {
+            "Fox": 100,
+            "Tiger": 100
+        }
     },
     {
         "story_id": "1360.txt",
-        "characters": {}
+        "characters": {
+            "little tailor": 100,
+            "An old woman selling jelly": 100,
+            "King": 100,
+            "King's courtiers": 100,
+            "soldiers in King's army": 100,
+            "Two giants": 100,
+            "unicorn": 100
+        }
     },
     {
         "story_id": "1406.txt",
@@ -6583,7 +7566,11 @@
     },
     {
         "story_id": "186.txt",
-        "characters": {}
+        "characters": {
+            "Teeny-Tiny Woman": 100,
+            "Teeny-Tiny Churchyard Visitor": 100,
+            "Teeny-Tiny Voice": 100
+        }
     },
     {
         "story_id": "1412.txt",
@@ -6609,7 +7596,9 @@
     },
     {
         "story_id": "1374.txt",
-        "characters": {}
+        "characters": {
+            "servant maid": 100
+        }
     },
     {
         "story_id": "50.txt",
@@ -6640,11 +7629,25 @@
     },
     {
         "story_id": "44.txt",
-        "characters": {}
+        "characters": {
+            "Great Chieftain": 100,
+            "Chief": 100,
+            "youth": 100,
+            "woman": 100,
+            "boy": 100,
+            "giant": 100,
+            "Buffalo-thief": 100
+        }
     },
     {
         "story_id": "1348.txt",
-        "characters": {}
+        "characters": {
+            "Musician": 100,
+            "Wolf": 100,
+            "Fox": 100,
+            "Hare": 100,
+            "Woodcutter": 100
+        }
     },
     {
         "story_id": "743.txt",
@@ -6656,7 +7659,15 @@
     },
     {
         "story_id": "1599.txt",
-        "characters": {}
+        "characters": {
+            "four princes": 100,
+            "queen": 100,
+            "young prince": 100,
+            "daughter of king": 100,
+            "king": 100,
+            "god Siva": 100,
+            "young lady": 100
+        }
     },
     {
         "story_id": "1214.txt",
@@ -6723,11 +7734,27 @@
     },
     {
         "story_id": "582.txt",
-        "characters": {}
+        "characters": {
+            "peasant": 100,
+            "neighbor (possibly one of the underground people)": 100,
+            "milk-maid": 100,
+            "dog": 100
+        }
     },
     {
         "story_id": "1016.txt",
-        "characters": {}
+        "characters": {
+            "Old woman": 100,
+            "Shepherd and his wife": 100,
+            "Little boy": 100,
+            "Bad rude companions": 100,
+            "Good and industrious girl": 100,
+            "Wife of the protagonist": 100,
+            "Baby of the protagonist": 100,
+            "Man who passed by": 100,
+            "Dogs": 100,
+            "Neighbours": 100
+        }
     },
     {
         "story_id": "1002.txt",
@@ -6791,7 +7818,13 @@
     },
     {
         "story_id": "972.txt",
-        "characters": {}
+        "characters": {
+            "soldier": 100,
+            "woman in house with child": 100,
+            "woman who hung herself and became a ghost": 100,
+            "husband of woman in house": 100,
+            "farmer-folk of village": 100
+        }
     },
     {
         "story_id": "1558.txt",
@@ -6801,7 +7834,14 @@
     },
     {
         "story_id": "1570.txt",
-        "characters": {}
+        "characters": {
+            "oldest brother": 100,
+            "second brother": 100,
+            "youngest brother": 100,
+            "Angel": 100,
+            "king": 100,
+            "princesss": 100
+        }
     },
     {
         "story_id": "782.txt",
@@ -6818,7 +7858,13 @@
     },
     {
         "story_id": "1216.txt",
-        "characters": {}
+        "characters": {
+            "The King": 100,
+            "Three soldiers": 100,
+            "Fiery dragon": 100,
+            "Old woman": 100,
+            "Dragon's grandmother": 100
+        }
     },
     {
         "story_id": "1202.txt",
@@ -6834,7 +7880,18 @@
     },
     {
         "story_id": "769.txt",
-        "characters": {}
+        "characters": {
+            "Miller": 100,
+            "bear": 100,
+            "wolf": 100,
+            "fox": 100,
+            "horse": 100,
+            "cow": 100,
+            "goat": 100,
+            "sheep": 100,
+            "reindeer": 100,
+            "boy": 100
+        }
     },
     {
         "story_id": "741.txt",
@@ -6845,7 +7902,15 @@
     },
     {
         "story_id": "999.txt",
-        "characters": {}
+        "characters": {
+            "blind king": 100,
+            "prince, son of king": 100,
+            "traveller": 100,
+            "Arab servant": 100,
+            "governor of island": 100,
+            "king of great kingdom": 100,
+            "queen of Egypt": 100
+        }
     },
     {
         "story_id": "755.txt",
@@ -6893,7 +7958,11 @@
     },
     {
         "story_id": "1362.txt",
-        "characters": {}
+        "characters": {
+            "mouse": 100,
+            "bird": 100,
+            "sausage": 100
+        }
     },
     {
         "story_id": "1376.txt",
@@ -6910,7 +7979,10 @@
     },
     {
         "story_id": "609.txt",
-        "characters": {}
+        "characters": {
+            "young fellow": 100,
+            "devil": 100
+        }
     },
     {
         "story_id": "91.txt",
@@ -6930,7 +8002,19 @@
     },
     {
         "story_id": "85.txt",
-        "characters": {}
+        "characters": {
+            "Widow": 100,
+            "Widow's daughters": 100,
+            "Widow's little son": 100,
+            "Panther": 100,
+            "Grandmother": 100,
+            "Neighbor's son": 100,
+            "Needle-vender": 100,
+            "Scorpion-catcher": 100,
+            "Egg-seller": 100,
+            "Dealer in turtles": 100,
+            "Seller of wooden clubs": 100
+        }
     },
     {
         "story_id": "153.txt",
@@ -6995,7 +8079,14 @@
     },
     {
         "story_id": "1606.txt",
-        "characters": {}
+        "characters": {
+            "two brothers": 100,
+            "old man with a long white beard": 100,
+            "Devil": 100,
+            "poor man's old dame": 100,
+            "rich brother's wife": 100,
+            "skipper": 100
+        }
     },
     {
         "story_id": "1612.txt",
@@ -7036,7 +8127,17 @@
     },
     {
         "story_id": "351.txt",
-        "characters": {}
+        "characters": {
+            "Young prince": 100,
+            "Three beautiful damsels": 100,
+            "King": 100,
+            "Queen": 100,
+            "Hermit": 100,
+            "Head-forester": 100,
+            "Robbers": 100,
+            "Old wizard miller": 100,
+            "Three princesses": 100
+        }
     },
     {
         "story_id": "345.txt",
@@ -7109,7 +8210,19 @@
     },
     {
         "story_id": "1149.txt",
-        "characters": {}
+        "characters": {
+            "Three princes": 100,
+            "Step-sister": 100,
+            "Great grey wolf": 100,
+            "Lioness": 100,
+            "Fox": 100,
+            "Hare": 100,
+            "Boar": 100,
+            "Bear": 100,
+            "Coachman": 100,
+            "Nine-headed dragon": 100,
+            "Old woman": 100
+        }
     },
     {
         "story_id": "146.txt",
@@ -7157,7 +8270,15 @@
     },
     {
         "story_id": "84.txt",
-        "characters": {}
+        "characters": {
+            "Father": 100,
+            "Mother": 100,
+            "Oldest Daughter": 100,
+            "Second Daughter": 100,
+            "Seven Daughters": 100,
+            "Wolf": 100,
+            "Fox": 100
+        }
     },
     {
         "story_id": "1388.txt",
@@ -7221,7 +8342,14 @@
     },
     {
         "story_id": "1439.txt",
-        "characters": {}
+        "characters": {
+            "student": 100,
+            "king": 100,
+            "queen": 100,
+            "king's daughter": 100,
+            "old woman": 100,
+            "dragon with seven heads": 100
+        }
     },
     {
         "story_id": "53.txt",
@@ -7262,7 +8390,10 @@
     },
     {
         "story_id": "1559.txt",
-        "characters": {}
+        "characters": {
+            "Little old woman": 100,
+            "Monkey": 100
+        }
     },
     {
         "story_id": "967.txt",
@@ -7290,7 +8421,17 @@
     },
     {
         "story_id": "218.txt",
-        "characters": {}
+        "characters": {
+            "girl": 100,
+            "mother": 100,
+            "father": 100,
+            "stepmother": 100,
+            "old woman": 100,
+            "frog": 100,
+            "wicked magician": 100,
+            "handsome young prince": 100,
+            "king": 100
+        }
     },
     {
         "story_id": "1001.txt",
@@ -7422,7 +8563,20 @@
     },
     {
         "story_id": "928.txt",
-        "characters": {}
+        "characters": {
+            "poor man": 100,
+            "fisherman": 100,
+            "fish": 100,
+            "wife": 100,
+            "castle builders": 100,
+            "innkeeper": 100,
+            "golden lilies": 100,
+            "golden foals": 100,
+            "golden twin boys": 100,
+            "girl the golden lad marries": 100,
+            "bride's father": 100,
+            "little old woman": 100
+        }
     },
     {
         "story_id": "1264.txt",
@@ -7563,7 +8717,9 @@
     },
     {
         "story_id": "121.txt",
-        "characters": {}
+        "characters": {
+            "farmer": 100
+        }
     },
     {
         "story_id": "109.txt",
@@ -7844,7 +9000,11 @@
     },
     {
         "story_id": "685.txt",
-        "characters": {}
+        "characters": {
+            "farmer": 100,
+            "farmer's daughter": 100,
+            "King": 100
+        }
     },
     {
         "story_id": "1311.txt",
@@ -7858,7 +9018,11 @@
     },
     {
         "story_id": "1477.txt",
-        "characters": {}
+        "characters": {
+            "man with the cloak": 100,
+            "man with the crutch-stick": 100,
+            "miller": 100
+        }
     },
     {
         "story_id": "1463.txt",
@@ -7899,7 +9063,14 @@
     },
     {
         "story_id": "929.txt",
-        "characters": {}
+        "characters": {
+            "King": 100,
+            "confidential servant": 100,
+            "Queen": 100,
+            "ducks": 100,
+            "King of the Ants": 100,
+            "King's daughter": 100
+        }
     },
     {
         "story_id": "1271.txt",
@@ -7941,7 +9112,13 @@
     },
     {
         "story_id": "1729.txt",
-        "characters": {}
+        "characters": {
+            "Little princess": 100,
+            "King or war chief": 100,
+            "Nurse or governess": 100,
+            "Wise man who taught the prince-boy": 100,
+            "Hunters who killed the aurochs mother": 100
+        }
     },
     {
         "story_id": "1715.txt",
@@ -8044,7 +9221,16 @@
     },
     {
         "story_id": "1313.txt",
-        "characters": {}
+        "characters": {
+            "Old woman": 100,
+            "Three maidens": 100,
+            "Youngest maiden": 100,
+            "Young prince": 100,
+            "prince's companions": 100,
+            "king": 100,
+            "wind wizard's son": 100,
+            "old wizard from Finland": 100
+        }
     },
     {
         "story_id": "687.txt",
@@ -8072,11 +9258,27 @@
     },
     {
         "story_id": "1461.txt",
-        "characters": {}
+        "characters": {
+            "king's son": 100,
+            "old faithful servant": 100,
+            "middle-aged woman": 100,
+            "woman's pretty daughter": 100,
+            "small dog": 100,
+            "gardener": 100,
+            "sovereign of neighboring country": 100,
+            "king's messenger": 100,
+            "two golden-haired princes": 100
+        }
     },
     {
         "story_id": "1449.txt",
-        "characters": {}
+        "characters": {
+            "Countess": 100,
+            "Countess's daughter": 100,
+            "Three sons of a count": 100,
+            "Beautiful girl": 100,
+            "Servants who caught the three sons of the count": 100
+        }
     },
     {
         "story_id": "23.txt",
@@ -8418,7 +9620,13 @@
     },
     {
         "story_id": "1448.txt",
-        "characters": {}
+        "characters": {
+            "father of three sons": 100,
+            "three sons": 100,
+            "man who offered to teach them Hungaria": 100,
+            "murdered man who turned out to be a devil": 100,
+            "rural policeman": 100
+        }
     },
     {
         "story_id": "22.txt",
@@ -8713,7 +9921,18 @@
     },
     {
         "story_id": "1458.txt",
-        "characters": {}
+        "characters": {
+            "poor man": 100,
+            "Twelve sons": 100,
+            "Wealthy king": 100,
+            "Eleven elder brothers": 100,
+            "Youngest brother": 100,
+            "Little decrepit pony": 100,
+            "Old woman with an iron nose": 100,
+            "Twelve mares": 100,
+            "Twelve daughters": 100,
+            "Youngest brother's wife": 100
+        }
     },
     {
         "story_id": "32.txt",
@@ -8746,7 +9965,14 @@
     },
     {
         "story_id": "682.txt",
-        "characters": {}
+        "characters": {
+            "man": 100,
+            "Huge black snake": 100,
+            "Old, old horse": 100,
+            "Old hound": 100,
+            "Fox": 100,
+            "Man's wife": 100
+        }
     },
     {
         "story_id": "1470.txt",
@@ -8758,7 +9984,19 @@
     },
     {
         "story_id": "1464.txt",
-        "characters": {}
+        "characters": {
+            "Poor widower": 100,
+            "Rich widow": 100,
+            "Widower's beautiful daughter": 100,
+            "Widow's two older daughters": 100,
+            "King's son": 100,
+            "Orphan girl": 100,
+            "Father of the orphan girl": 100,
+            "Widow's husband": 100,
+            "Old woman who takes care of the orphan girl": 100,
+            "Flunkey": 100,
+            "Prince's servant": 100
+        }
     },
     {
         "story_id": "696.txt",
@@ -8782,15 +10020,42 @@
     },
     {
         "story_id": "669.txt",
-        "characters": {}
+        "characters": {
+            "herb-gatherer": 100,
+            "oldest daughter": 100,
+            "second daughter": 100,
+            "youngest daughter": 100,
+            "king": 100,
+            "butler": 100,
+            "keeper of wardrobe": 100,
+            "queen's son": 100,
+            "queen's daughter": 100,
+            "nurse": 100,
+            "three fairies": 100,
+            "hermits": 100,
+            "goldsmith": 100
+        }
     },
     {
         "story_id": "127.txt",
-        "characters": {}
+        "characters": {
+            "teacher": 100,
+            "school children": 100,
+            "owner of the house": 100
+        }
     },
     {
         "story_id": "133.txt",
-        "characters": {}
+        "characters": {
+            "Sorcerer": 100,
+            "Pupils": 100,
+            "Father of pupil": 100,
+            "District mandarin": 100,
+            "Mountain spirit/giant": 100,
+            "Sorcerer's wife": 100,
+            "Sorcerer's son": 100,
+            "Butcher": 100
+        }
     },
     {
         "story_id": "655.txt",
@@ -8809,7 +10074,11 @@
     },
     {
         "story_id": "1100.txt",
-        "characters": {}
+        "characters": {
+            "Wealthy man": 100,
+            "Wealthy man's wife": 100,
+            "Barber": 100
+        }
     },
     {
         "story_id": "494.txt",
@@ -8979,11 +10248,23 @@
     },
     {
         "story_id": "132.txt",
-        "characters": {}
+        "characters": {
+            "son of a poor family": 100,
+            "wife of the son of a poor family": 100,
+            "father-in-law of the son of a poor family": 100,
+            "mother-in-law of the son of a poor family": 100,
+            "old mother of the son of a poor family": 100
+        }
     },
     {
         "story_id": "126.txt",
-        "characters": {}
+        "characters": {
+            "soldier": 100,
+            "woman in house with child": 100,
+            "woman who hung herself and became a ghost": 100,
+            "husband of woman in house": 100,
+            "farmer-folk of village": 100
+        }
     },
     {
         "story_id": "668.txt",
@@ -8998,7 +10279,16 @@
     },
     {
         "story_id": "1465.txt",
-        "characters": {}
+        "characters": {
+            "poor man": 100,
+            "pretty young wife": 100,
+            "fairy in golden carriage": 100,
+            "squire": 100,
+            "dragons": 100,
+            "heifers": 100,
+            "horses": 100,
+            "sucking pig": 100
+        }
     },
     {
         "story_id": "1303.txt",
@@ -9055,7 +10345,14 @@
     },
     {
         "story_id": "1459.txt",
-        "characters": {}
+        "characters": {
+            "poor woodcutter": 100,
+            "old beggar": 100,
+            "innkeeper": 100,
+            "innkeeper's wife": 100,
+            "king": 100,
+            "king's lackeys/soldiers": 100
+        }
     },
     {
         "story_id": "873.txt",
@@ -9136,7 +10433,14 @@
     },
     {
         "story_id": "907.txt",
-        "characters": {}
+        "characters": {
+            "King": 100,
+            "Elder Princess": 100,
+            "Younger Princess": 100,
+            "King's son": 100,
+            "Kitchen girl/shepherdess": 100,
+            "Ambassador": 100
+        }
     },
     {
         "story_id": "913.txt",
@@ -9268,7 +10572,10 @@
     },
     {
         "story_id": "534.txt",
-        "characters": {}
+        "characters": {
+            "Two unnamed peasants": 100,
+            "Priest": 100
+        }
     },
     {
         "story_id": "911.txt",
@@ -9281,7 +10588,13 @@
     },
     {
         "story_id": "939.txt",
-        "characters": {}
+        "characters": {
+            "Monkey": 100,
+            "Shark": 100,
+            "Sultan": 100,
+            "Lion": 100,
+            "Donkey": 100
+        }
     },
     {
         "story_id": "1275.txt",
@@ -9462,7 +10775,12 @@
     },
     {
         "story_id": "130.txt",
-        "characters": {}
+        "characters": {
+            "beautiful maiden": 100,
+            "young man in dress of a student": 100,
+            "wanderer passing below": 100,
+            "maiden's brother": 100
+        }
     },
     {
         "story_id": "124.txt",
@@ -9665,7 +10983,13 @@
     },
     {
         "story_id": "131.txt",
-        "characters": {}
+        "characters": {
+            "old Buddhist monk": 100,
+            "girl in red coat": 100,
+            "man on armored steed": 100,
+            "Lord of the Heavens": 100,
+            "scholar who wrote down the tale": 100
+        }
     },
     {
         "story_id": "119.txt",
@@ -9744,7 +11068,12 @@
     },
     {
         "story_id": "1328.txt",
-        "characters": {}
+        "characters": {
+            "woman who sells jam": 100,
+            "powerful giant": 100,
+            "messenger from the King": 100,
+            "king": 100
+        }
     },
     {
         "story_id": "870.txt",
@@ -9816,7 +11145,19 @@
     },
     {
         "story_id": "509.txt",
-        "characters": {}
+        "characters": {
+            "king": 100,
+            "court barber": 100,
+            "night watchmen": 100,
+            "oldest woman in city of Granada": 100,
+            "maidens": 100,
+            "due\u00f1as": 100,
+            "generous ladies": 100,
+            "lovely ladies who attended court": 100,
+            "fathers of families": 100,
+            "mothers": 100,
+            "shepherdess": 100
+        }
     },
     {
         "story_id": "1089.txt",
