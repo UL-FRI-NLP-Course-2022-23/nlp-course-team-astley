@@ -130,3 +130,5 @@ dmypy.json
 
 .idea/
 content/
+sentiment_model/
+sentiment_model.zip
