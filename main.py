@@ -14,8 +14,8 @@ if __name__ == '__main__':
 
     # Train the sentiment analysis model
     # train_sentiment_model(None)
-    sentiment_analysis = SentimentAnalysis()
-    sentiment_analysis.read_stories_get_sentiment("./fairy_tales")
+    # sentiment_analysis = SentimentAnalysis()
+    # sentiment_analysis.read_stories_get_sentiment_json("./fairy_tales")
     
     # basic gpt2
     ending_model = StoryEndingGenerator()
