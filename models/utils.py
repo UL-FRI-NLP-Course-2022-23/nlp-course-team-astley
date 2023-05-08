@@ -1,4 +1,17 @@
 from .constants import *
+import random
+
+# used when concatenating characters sentiments
+def join_keywords(keywords, randomize=True):
+    N = len(keywords)
+
+    # random sampling and shuffle
+    if randomize:
+        random.shuffle(keywords)
+
+    return ', '.join(keywords)
 
 def to_encode_string(context, sentence):
-    return context + " " + SPECIAL_TOKENS["sep_token"] + " " + sentence
+    keywords = join_keywords(context)
+    prompt = keywords + " " + SPECIAL_TOKENS["sep_token"] + " " + sentence
+    return prompt

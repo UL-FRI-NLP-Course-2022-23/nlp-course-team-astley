@@ -6,18 +6,6 @@ import random
 from .utils import to_encode_string
 from .constants import *
 
-# used when concatenating characters sentiments
-def join_keywords(keywords, randomize=True):
-    N = len(keywords)
-
-    # random sampling and shuffle
-    if randomize:
-        M = random.choice(range(N+1))
-        keywords = keywords[:M]
-        random.shuffle(keywords)
-
-    return ','.join(keywords)
-
 # class for our stories dataset, which is used by pytorch for training
 class StoryDataset(Dataset):
     def __init__(self, folder_path, tokenizer):
