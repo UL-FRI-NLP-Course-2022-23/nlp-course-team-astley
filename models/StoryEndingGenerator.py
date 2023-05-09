@@ -89,9 +89,9 @@ class StoryEndingGenerator:
         return sample_outputs
 
 
-    def train(self, path, output_path):
+    def train(self, path, output_path, char_path):
 
-        train_dataset, val_dataset = load_story_dataset(path, self.tokenizer)
+        train_dataset, val_dataset = load_story_dataset(path, char_path, self.tokenizer)
 
 
         # Freeze all layers except the last TRAINABLE_LAYERS
@@ -116,7 +116,7 @@ class StoryEndingGenerator:
             logging_strategy="epoch",
             save_strategy="epoch",
             gradient_accumulation_steps=BATCH_UPDATE,
-            fp16=True,
+            #fp16=True,
             # fp16_opt_level=APEX_OPT_LEVEL,
             warmup_steps=WARMUP_STEPS,
             learning_rate=LR,

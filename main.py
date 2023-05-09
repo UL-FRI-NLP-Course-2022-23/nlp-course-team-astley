@@ -25,7 +25,7 @@ if __name__ == '__main__':
     
     # @param: path to dataset
     # @param: output path of model while training
-    ending_model.train("./fairy_tales", "test")
+    ending_model.train("./fairy_tales", "test", './results/stories_context_new.json')
 
     # # Reverse sentiment to see how ending will change
     # for story in generated_stories:

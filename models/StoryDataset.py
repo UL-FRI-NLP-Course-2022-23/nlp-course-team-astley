@@ -2,16 +2,25 @@ from torch.utils.data import Dataset, random_split, DataLoader, RandomSampler, S
 import torch
 import os
 import random
+import json
 
 from .utils import to_encode_string
 from .constants import *
 
 # class for our stories dataset, which is used by pytorch for training
 class StoryDataset(Dataset):
-    def __init__(self, folder_path, tokenizer):
+    def __init__(self, folder_path, char_path, tokenizer):
         self.tokenizer = tokenizer
         self.data = []
         file_names = os.listdir(folder_path)
+
+        char_sent = {}
+        with open(char_path, 'r') as file_characters:
+            data = json.load(file_characters)
+            for item in data:
+                story_id = item["story_id"]
+                characters = item["characters"]
+                char_sent[story_id] = [f"{name} {attribute}" for name, attribute in characters.items()]
 
         idx = 0
         for file_name in file_names:
@@ -22,7 +31,8 @@ class StoryDataset(Dataset):
 
                 for i in range(0, len(words), INPUT_WORDS):
                     sentence = ' '.join(words[i:i+INPUT_WORDS])
-                    self.data.append((str(idx), sentence))
+                    # self.data.append((str(idx), sentence))
+                    self.data.append((char_sent[file_name], sentence))
             idx += 1
         
 
@@ -49,9 +59,9 @@ class StoryDataset(Dataset):
                 'attention_mask': torch.tensor(attention_mask)}
     
 
-def load_story_dataset(path, tokenizer): 
+def load_story_dataset(path, char_path, tokenizer):
     
-    dataset = StoryDataset(path, tokenizer)
+    dataset = StoryDataset(path, char_path, tokenizer)
 
     # Split into training and validation sets
     train_size = int(0.9 * len(dataset))
