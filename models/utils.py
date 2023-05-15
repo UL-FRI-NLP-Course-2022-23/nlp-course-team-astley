@@ -3,7 +3,6 @@ import random
 
 # used when concatenating characters sentiments
 def join_keywords(keywords, randomize=True):
-    N = len(keywords)
 
     # random sampling and shuffle
     if randomize:

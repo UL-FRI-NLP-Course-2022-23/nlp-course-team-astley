@@ -44,49 +44,34 @@ class StoryEndingGenerator:
 
     # generate 5 versions of story, write them to /results and 
     # also return them as an array.
-    def generate_story(self):
+    def generate_story(self, prompt, skip_special = True):
         self.model.eval()
-        sample_outputs = []
-        final_outputs = []
-        # Set up input prompt and control string
-        for i in range(4):
-            control_string = str(i) 
-            input_prompt = """As Fawkes approached the tree trunk, Duke crept closer, ready to pounce if Fawkes made any sudden movements."""
-            
-            prompt = to_encode_string(control_string, input_prompt)
-
-            generated = torch.tensor(self.tokenizer.encode(prompt)).unsqueeze(0)
-            generated = generated.to(self.device)
-
-            # Generate text using the model
-            output = self.model.generate(
-                input_ids=generated,
-                max_length=500,
-                repetition_penalty=1.2,
-                num_return_sequences=1
-            )
-
-            sample_outputs.append(output[0])
-
-            # sample_outputs = model.generate(generated, 
-            #                                 do_sample=True,   
-            #                                 min_length=50, 
-            #                                 max_length=500,
-            #                                 top_k=30,                                 
-            #                                 top_p=0.7,        
-            #                                 temperature=0.9,
-            #                                 repetition_penalty=2.0,
-            #                                 num_return_sequences=10
-            #                                 )
-
-            for i, sample_output in enumerate(sample_outputs):
-                text = self.tokenizer.decode(sample_output, skip_special_tokens=False)
-                # a = len(title) + len(','.join(keywords))    
-                final_outputs.append(text)
-                with open("./results/story"+str(i)+".txt", "w", encoding="utf-8") as f:
-                    f.write(text)
         
-        return sample_outputs
+        outputs = {
+            "prompt": prompt,
+            "endings": {}
+        } 
+        prompt_len = len(prompt)
+  
+        generated = torch.tensor(self.tokenizer.encode(prompt)).unsqueeze(0)
+        generated = generated.to(self.device)
+
+        sample_outputs = self.model.generate(generated, 
+                                        do_sample=True,   
+                                        min_length=50, 
+                                        max_length=500,
+                                        top_k=20,                                 
+                                        top_p=0.8,        
+                                        temperature=0.9,
+                                        repetition_penalty=2.0,
+                                        num_return_sequences=5
+                                        )
+        
+        for i, sample_output in enumerate(sample_outputs):
+            text = self.tokenizer.decode(sample_output, skip_special_tokens=skip_special)
+            outputs["endings"][i] = text[prompt_len:]
+        
+        return outputs
 
 
     def train(self, path, output_path, char_path):
