@@ -59,4 +59,26 @@ if __name__ == '__main__':
     # Perplexity scores of the generated reviews are compared to those of the original reviews to evaluate their quality
 
     # 2. check if ending sentiment is opposite
+    sentiment_analysis = SentimentAnalysis()
+    characters = [c.split(" ")[0] for c in outputs["prompt"].split(" [SEP] ")[0].split(", ")]
+    base_sentiment = sentiment_analysis.extract_character_sentences(outputs["prompt"].split(" [SEP] ")[1], characters)
+    sentiments = [sentiment_analysis.extract_character_sentences(ending, characters) for ending in outputs["endings"].values()]
+
+    print(base_sentiment)
+    print(sentiments)
+
+    # check sentiment per character
+    for character in characters:
+        if len(base_sentiment[character]) is 0:
+            print("No sentiment for character:", character)
+        else:
+            print("Character:", character)
+            for index in outputs["endings"]:
+                sentiment = sentiments[index]
+                if len(sentiment[character]) is 0:
+                    print("No sentiment in ending:", index)
+                else:
+                    print("SENTIMENT for ending", index, "is", sentiment)
+                    print("")
+
     # 3. self supervised?
