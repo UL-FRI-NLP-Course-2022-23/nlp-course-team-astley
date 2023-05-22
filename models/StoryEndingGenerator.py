@@ -125,3 +125,16 @@ class StoryEndingGenerator:
         trainer.train()
         trainer.save_model()
 
+    def calculate_perplexity(self, endings):
+        self.model.eval()
+
+        perplexities = []
+        with torch.no_grad():
+            for i, ending in endings.items():
+                encoded_input = self.tokenizer.encode(ending, return_tensors="pt").to(self.device)
+                output = self.model(encoded_input, labels=encoded_input)
+                loss = output.loss
+                perplexity = torch.exp(loss)
+                perplexities.append(perplexity.item())
+
+        return perplexities
