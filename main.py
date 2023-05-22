@@ -18,7 +18,8 @@ if __name__ == '__main__':
     # sentiment_analysis.read_stories_get_sentiment_json("./fairy_tales")
     
     # basic gpt2
-    ending_model = StoryEndingGenerator("content")
+    # ending_model = StoryEndingGenerator("content")
+    ending_model = StoryEndingGenerator("../test")
     
     # fine-tunned gpt2
     # ending_model = StoryEndingGenerator("./content")
@@ -27,8 +28,8 @@ if __name__ == '__main__':
     # @param: output path of model while training
     # ending_model.train("./fairy_tales", "test", './results/stories_context_new.json')
 
-    context = ["Duke negative, Fawkes positive"]
-    story = """They quickly rigged up a rude sled, made of poles, put the head of Toover Hek on it, and drew it off to the knight's castle. There it was exposed, on a sharpened stake of wood, in front of the gate. For a whole week it was the sport of the community, and the lads and maidens danced and sang and all the people rejoiced. After the ogre’s head was taken down, it was set in the ground at the side of a brook, and used for women to stand or kneel on, while washing clothes. In time it was polished as ivory and shone in the sun. As for Heinrich, he hitched up four yoke of oxen, and tying an iron chain around the fir tree trunk, which formed the giant’s club, he dragged it to his barnyard and there had it chopped up. It made a load of firewood which lasted him all winter. Now that the roads were safe for all travelers, Heinrich and Grietje, and the knight, in thankfulness to the Holy Virgin fixed a pretty little shrine to one of the forest trees."""
+    context = ["Mirko negative"]
+    story = """Well, because, said Mirko, I'm anxious to go back to my country, but I am also extremely sorry to leave behind this sumptuous diamond castle, six stories high, which belonged to your father, for there is nothing like it in my country. Well, my love, said the princess, don't trouble about that. I will transform the castle into a golden apple at once, and sit in the middle of it, and all you will have to do is to put the apple into your pocket, and then you can take me with you and the castle too, and when you arrive at home you can re-transform me wherever you like. Thereupon the pretty princess jumped down from her horse, handed the reins to Mirko, took out a diamond rod, and commenced to walk round the diamond castle, gently beating the sides of it with the diamond rod, and the castle began to shrink and shrunk as small as a sentry box, and then the princess jumped inside of it, and the whole shrivelled up into a golden apple, the diamond rod lying by the side of it. Prince Mirko picked up the golden apple and the diamond rod, and put them into his pocket, and then got on horseback, and, taking Doghead's horse by the bridle, he rode quietly home. Having arrived at home, Mirko had the horses put in the stables, and then walked into the royal palace, where he found the old king and Knight Mezey quite content and enjoying themselves. He reported to them that he had conquered even Doghead, and that he had killed him; but the old king and Knight Mezey doubted his words. Therefore Prince Mirko took them both by their arms, and said to them, Come along with me, and you can satisfy yourselves, with your own eyes, that I have conquered Doghead, because I"""
     prompt = to_encode_string(context, story)
     
     # @param: prompt in form of "context [SEP] story", use to_encode_string
