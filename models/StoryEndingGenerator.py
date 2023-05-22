@@ -3,6 +3,7 @@ from typing import List
 import torch
 
 from .StoryDataset import load_story_dataset
+from .ROCStoryDataset import load_ROC_dataset
 from .utils import to_encode_string
 from .constants import *
 
@@ -74,10 +75,11 @@ class StoryEndingGenerator:
         return outputs
 
 
-    def train(self, path, output_path, char_path):
-
-        train_dataset, val_dataset = load_story_dataset(path, char_path, self.tokenizer)
-
+    def train(self, path, output_path, char_path, short=False):
+        if(short):
+            train_dataset, val_dataset = load_story_dataset(path, char_path, self.tokenizer)
+        else:
+            train_dataset, val_dataset = load_ROC_dataset(path, char_path, self.tokenizer)
 
         # Freeze all layers except the last TRAINABLE_LAYERS
         for i, m in enumerate(self.model.transformer.h):

@@ -18,16 +18,16 @@ if __name__ == '__main__':
     # sentiment_analysis.read_stories_get_sentiment_json("./fairy_tales")
     
     # basic gpt2
-    # ending_model = StoryEndingGenerator("content")
+    ending_model = StoryEndingGenerator("content")
     # ending_model = StoryEndingGenerator("../test")
-    ending_model = StoryEndingGenerator("./nlp-2-training/test")
+    # ending_model = StoryEndingGenerator("./nlp-2-training/test")
     
     # fine-tunned gpt2
     # ending_model = StoryEndingGenerator("./content")
     
     # @param: path to dataset
     # @param: output path of model while training
-    # ending_model.train("./fairy_tales", "test", './results/stories_context_new.json')
+    ending_model.train("./models/sets/train.csv", "test", './results/stories_context_new.json', short=False)
 
     context = ["Mirko negative"]
     story = """Well, because, said Mirko, I'm anxious to go back to my country, but I am also extremely sorry to leave behind this sumptuous diamond castle, six stories high, which belonged to your father, for there is nothing like it in my country. Well, my love, said the princess, don't trouble about that. I will transform the castle into a golden apple at once, and sit in the middle of it, and all you will have to do is to put the apple into your pocket, and then you can take me with you and the castle too, and when you arrive at home you can re-transform me wherever you like. Thereupon the pretty princess jumped down from her horse, handed the reins to Mirko, took out a diamond rod, and commenced to walk round the diamond castle, gently beating the sides of it with the diamond rod, and the castle began to shrink and shrunk as small as a sentry box, and then the princess jumped inside of it, and the whole shrivelled up into a golden apple, the diamond rod lying by the side of it. Prince Mirko picked up the golden apple and the diamond rod, and put them into his pocket, and then got on horseback, and, taking Doghead's horse by the bridle, he rode quietly home. Having arrived at home, Mirko had the horses put in the stables, and then walked into the royal palace, where he found the old king and Knight Mezey quite content and enjoying themselves. He reported to them that he had conquered even Doghead, and that he had killed him; but the old king and Knight Mezey doubted his words. Therefore Prince Mirko took them both by their arms, and said to them, Come along with me, and you can satisfy yourselves, with your own eyes, that I have conquered Doghead, because I"""
@@ -71,13 +71,13 @@ if __name__ == '__main__':
 
     # check sentiment per character
     for character in characters:
-        if len(base_sentiment[character]) is 0:
+        if len(base_sentiment[character]) == 0:
             print("No sentiment for character:", character)
         else:
             print("Character:", character)
             for index in outputs["endings"]:
                 sentiment = sentiments[index]
-                if len(sentiment[character]) is 0:
+                if len(sentiment[character]) == 0:
                     print("No sentiment in ending:", index)
                 else:
                     print("SENTIMENT for ending", index, "is", sentiment)
