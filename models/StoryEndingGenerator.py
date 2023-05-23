@@ -60,10 +60,10 @@ class StoryEndingGenerator:
         sample_outputs = self.model.generate(generated, 
                                         do_sample=True,   
                                         min_length=50, 
-                                        max_length=500,
+                                        max_length=100,
                                         top_k=20,                                 
                                         top_p=0.8,        
-                                        temperature=0.9,
+                                        temperature=0.5,
                                         repetition_penalty=2.0,
                                         num_return_sequences=5
                                         )
