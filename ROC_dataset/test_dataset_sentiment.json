@@ -1,0 +1,9498 @@
+[
+    {
+        "story_id": 0,
+        "characters": {
+            "Bob": "negative"
+        }
+    },
+    {
+        "story_id": 1,
+        "characters": {
+            "Harry": "positive",
+            "Olivia": "negative"
+        }
+    },
+    {
+        "story_id": 2,
+        "characters": {
+            "Ferris": "positive",
+            "Jack": "positive"
+        }
+    },
+    {
+        "story_id": 3,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 4,
+        "characters": {
+            "Hannah": "negative"
+        }
+    },
+    {
+        "story_id": 5,
+        "characters": {
+            "Tony": "positive"
+        }
+    },
+    {
+        "story_id": 6,
+        "characters": {
+            "Jerry": "positive"
+        }
+    },
+    {
+        "story_id": 7,
+        "characters": {}
+    },
+    {
+        "story_id": 8,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 9,
+        "characters": {
+            "Ida": "positive"
+        }
+    },
+    {
+        "story_id": 10,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 11,
+        "characters": {
+            "Sophie": "positive"
+        }
+    },
+    {
+        "story_id": 12,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 13,
+        "characters": {
+            "Stacy": "negative"
+        }
+    },
+    {
+        "story_id": 14,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 15,
+        "characters": {
+            "Michael": "positive"
+        }
+    },
+    {
+        "story_id": 16,
+        "characters": {
+            "Mary": "positive"
+        }
+    },
+    {
+        "story_id": 17,
+        "characters": {
+            "Dorothy": "positive"
+        }
+    },
+    {
+        "story_id": 18,
+        "characters": {
+            "Jenny": "positive"
+        }
+    },
+    {
+        "story_id": 19,
+        "characters": {
+            "Jill": "positive"
+        }
+    },
+    {
+        "story_id": 20,
+        "characters": {
+            "Cindy": "positive"
+        }
+    },
+    {
+        "story_id": 21,
+        "characters": {
+            "Lucy": "positive"
+        }
+    },
+    {
+        "story_id": 22,
+        "characters": {
+            "Goku": "positive"
+        }
+    },
+    {
+        "story_id": 23,
+        "characters": {
+            "Jimmy": "positive"
+        }
+    },
+    {
+        "story_id": 24,
+        "characters": {
+            "Hayley": "positive"
+        }
+    },
+    {
+        "story_id": 25,
+        "characters": {
+            "Ray": "positive"
+        }
+    },
+    {
+        "story_id": 26,
+        "characters": {
+            "James": "positive"
+        }
+    },
+    {
+        "story_id": 27,
+        "characters": {
+            "China": "negative"
+        }
+    },
+    {
+        "story_id": 28,
+        "characters": {
+            "Colleen": "positive"
+        }
+    },
+    {
+        "story_id": 29,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 30,
+        "characters": {
+            "Hallie": "positive"
+        }
+    },
+    {
+        "story_id": 31,
+        "characters": {
+            "Jane": "negative"
+        }
+    },
+    {
+        "story_id": 32,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 33,
+        "characters": {
+            "Hannah": "positive"
+        }
+    },
+    {
+        "story_id": 34,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 35,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 36,
+        "characters": {
+            "Hayden": "positive"
+        }
+    },
+    {
+        "story_id": 37,
+        "characters": {
+            "girlfriend": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 38,
+        "characters": {
+            "Ann": "positive"
+        }
+    },
+    {
+        "story_id": 39,
+        "characters": {
+            "Ronny": "positive"
+        }
+    },
+    {
+        "story_id": 40,
+        "characters": {
+            "boyfriend": "negative",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 41,
+        "characters": {
+            "Rachel": "negative"
+        }
+    },
+    {
+        "story_id": 42,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 43,
+        "characters": {
+            "Wanda": "positive",
+            "Ted": "positive"
+        }
+    },
+    {
+        "story_id": 44,
+        "characters": {
+            "Bob": "positive"
+        }
+    },
+    {
+        "story_id": 45,
+        "characters": {
+            "Ben": "positive"
+        }
+    },
+    {
+        "story_id": 46,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 47,
+        "characters": {
+            "Lori": "positive"
+        }
+    },
+    {
+        "story_id": 48,
+        "characters": {
+            "Ryan": "positive",
+            "Sam": "positive",
+            "Kyle": "positive"
+        }
+    },
+    {
+        "story_id": 49,
+        "characters": {
+            "Kristie": "negative"
+        }
+    },
+    {
+        "story_id": 50,
+        "characters": {
+            "Bob": "positive"
+        }
+    },
+    {
+        "story_id": 51,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 52,
+        "characters": {
+            "Rose": "positive"
+        }
+    },
+    {
+        "story_id": 53,
+        "characters": {
+            "i": "positive",
+            "friend": "positive"
+        }
+    },
+    {
+        "story_id": 54,
+        "characters": {
+            "Neel": "positive",
+            "Avni": "positive"
+        }
+    },
+    {
+        "story_id": 55,
+        "characters": {
+            "father": "positive",
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 56,
+        "characters": {
+            "Kimmy": "positive"
+        }
+    },
+    {
+        "story_id": 57,
+        "characters": {
+            "Rob": "positive"
+        }
+    },
+    {
+        "story_id": 58,
+        "characters": {
+            "Percival": "positive"
+        }
+    },
+    {
+        "story_id": 59,
+        "characters": {
+            "Morgan": "positive"
+        }
+    },
+    {
+        "story_id": 60,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 61,
+        "characters": {
+            "Jose": "positive"
+        }
+    },
+    {
+        "story_id": 62,
+        "characters": {
+            "Ryan": "positive",
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 63,
+        "characters": {
+            "Sue": "negative"
+        }
+    },
+    {
+        "story_id": 64,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 65,
+        "characters": {
+            "Max": "positive"
+        }
+    },
+    {
+        "story_id": 66,
+        "characters": {
+            "Wyatt": "positive"
+        }
+    },
+    {
+        "story_id": 67,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 68,
+        "characters": {
+            "Buttons": "positive"
+        }
+    },
+    {
+        "story_id": 69,
+        "characters": {
+            "Abu": "positive"
+        }
+    },
+    {
+        "story_id": 70,
+        "characters": {
+            "Jenny": "positive"
+        }
+    },
+    {
+        "story_id": 71,
+        "characters": {
+            "Kyrie": "positive"
+        }
+    },
+    {
+        "story_id": 72,
+        "characters": {
+            "Amy": "positive",
+            "King Tut": "positive"
+        }
+    },
+    {
+        "story_id": 73,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 74,
+        "characters": {
+            "Aaron": "positive"
+        }
+    },
+    {
+        "story_id": 75,
+        "characters": {
+            "Vinny": "positive"
+        }
+    },
+    {
+        "story_id": 76,
+        "characters": {
+            "Gina": "negative"
+        }
+    },
+    {
+        "story_id": 77,
+        "characters": {
+            "Sacha": "positive"
+        }
+    },
+    {
+        "story_id": 78,
+        "characters": {
+            "Tim": "negative"
+        }
+    },
+    {
+        "story_id": 79,
+        "characters": {
+            "Cocoa": "positive",
+            "Lucy": "positive"
+        }
+    },
+    {
+        "story_id": 80,
+        "characters": {
+            "John": "negative"
+        }
+    },
+    {
+        "story_id": 81,
+        "characters": {
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 82,
+        "characters": {
+            "Mia": "positive",
+            "David": "positive"
+        }
+    },
+    {
+        "story_id": 83,
+        "characters": {
+            "Ed": "positive"
+        }
+    },
+    {
+        "story_id": 84,
+        "characters": {
+            "Nora": "negative"
+        }
+    },
+    {
+        "story_id": 85,
+        "characters": {
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 86,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 87,
+        "characters": {
+            "Tom": "positive"
+        }
+    },
+    {
+        "story_id": 88,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 89,
+        "characters": {
+            "Damon": "positive"
+        }
+    },
+    {
+        "story_id": 90,
+        "characters": {}
+    },
+    {
+        "story_id": 91,
+        "characters": {
+            "Olaf": "negative"
+        }
+    },
+    {
+        "story_id": 92,
+        "characters": {
+            "Matt": "positive"
+        }
+    },
+    {
+        "story_id": 93,
+        "characters": {
+            "Nolan": "negative"
+        }
+    },
+    {
+        "story_id": 94,
+        "characters": {
+            "Stacy": "positive"
+        }
+    },
+    {
+        "story_id": 95,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 96,
+        "characters": {
+            "i": "positive",
+            "doctor": "positive"
+        }
+    },
+    {
+        "story_id": 97,
+        "characters": {
+            "Gabby": "positive"
+        }
+    },
+    {
+        "story_id": 98,
+        "characters": {
+            "brother": "positive"
+        }
+    },
+    {
+        "story_id": 99,
+        "characters": {
+            "Bill": "positive"
+        }
+    },
+    {
+        "story_id": 100,
+        "characters": {
+            "Jim": "positive"
+        }
+    },
+    {
+        "story_id": 101,
+        "characters": {
+            "son": "positive"
+        }
+    },
+    {
+        "story_id": 102,
+        "characters": {
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 103,
+        "characters": {
+            "Maggie": "positive"
+        }
+    },
+    {
+        "story_id": 104,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 105,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 106,
+        "characters": {
+            "James": "positive"
+        }
+    },
+    {
+        "story_id": 107,
+        "characters": {
+            "May": "positive"
+        }
+    },
+    {
+        "story_id": 108,
+        "characters": {
+            "Billy": "positive"
+        }
+    },
+    {
+        "story_id": 109,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 110,
+        "characters": {
+            "Chuck": "positive"
+        }
+    },
+    {
+        "story_id": 111,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 112,
+        "characters": {
+            "Trina": "positive"
+        }
+    },
+    {
+        "story_id": 113,
+        "characters": {
+            "George": "positive"
+        }
+    },
+    {
+        "story_id": 114,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 115,
+        "characters": {
+            "Tommy": "negative"
+        }
+    },
+    {
+        "story_id": 116,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 117,
+        "characters": {
+            "Amanda": "negative"
+        }
+    },
+    {
+        "story_id": 118,
+        "characters": {
+            "Jim": "positive"
+        }
+    },
+    {
+        "story_id": 119,
+        "characters": {
+            "Marcus": "positive"
+        }
+    },
+    {
+        "story_id": 120,
+        "characters": {
+            "Tom": "positive"
+        }
+    },
+    {
+        "story_id": 121,
+        "characters": {
+            "Nadia": "positive"
+        }
+    },
+    {
+        "story_id": 122,
+        "characters": {
+            "Jean": "positive"
+        }
+    },
+    {
+        "story_id": 123,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 124,
+        "characters": {
+            "Katelyn": "positive"
+        }
+    },
+    {
+        "story_id": 125,
+        "characters": {
+            "Bill": "positive"
+        }
+    },
+    {
+        "story_id": 126,
+        "characters": {}
+    },
+    {
+        "story_id": 127,
+        "characters": {
+            "Ken": "positive"
+        }
+    },
+    {
+        "story_id": 128,
+        "characters": {
+            "Olaf": "negative"
+        }
+    },
+    {
+        "story_id": 129,
+        "characters": {
+            "Paul": "negative"
+        }
+    },
+    {
+        "story_id": 130,
+        "characters": {
+            "Ian": "negative"
+        }
+    },
+    {
+        "story_id": 131,
+        "characters": {
+            "Jim": "negative"
+        }
+    },
+    {
+        "story_id": 132,
+        "characters": {
+            "Kanye West": "negative"
+        }
+    },
+    {
+        "story_id": 133,
+        "characters": {
+            "Jana": "positive"
+        }
+    },
+    {
+        "story_id": 134,
+        "characters": {
+            "Ken": "positive"
+        }
+    },
+    {
+        "story_id": 135,
+        "characters": {
+            "Bill": "positive"
+        }
+    },
+    {
+        "story_id": 136,
+        "characters": {
+            "Rick": "positive"
+        }
+    },
+    {
+        "story_id": 137,
+        "characters": {
+            "Danny": "positive",
+            "Lauren": "positive"
+        }
+    },
+    {
+        "story_id": 138,
+        "characters": {
+            "Harold": "positive"
+        }
+    },
+    {
+        "story_id": 139,
+        "characters": {}
+    },
+    {
+        "story_id": 140,
+        "characters": {
+            "Leslie": "positive"
+        }
+    },
+    {
+        "story_id": 141,
+        "characters": {
+            "Alyssa": "positive"
+        }
+    },
+    {
+        "story_id": 142,
+        "characters": {
+            "daughter": "positive"
+        }
+    },
+    {
+        "story_id": 143,
+        "characters": {
+            "Tina": "negative"
+        }
+    },
+    {
+        "story_id": 144,
+        "characters": {
+            "Jon": "positive"
+        }
+    },
+    {
+        "story_id": 145,
+        "characters": {
+            "Eric": "positive"
+        }
+    },
+    {
+        "story_id": 146,
+        "characters": {
+            "mother": "positive"
+        }
+    },
+    {
+        "story_id": 147,
+        "characters": {
+            "Tom": "positive"
+        }
+    },
+    {
+        "story_id": 148,
+        "characters": {
+            "Phillip": "positive"
+        }
+    },
+    {
+        "story_id": 149,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 150,
+        "characters": {
+            "Sarah": "positive"
+        }
+    },
+    {
+        "story_id": 151,
+        "characters": {
+            "Mark": "positive"
+        }
+    },
+    {
+        "story_id": 152,
+        "characters": {
+            "Matt": "positive"
+        }
+    },
+    {
+        "story_id": 153,
+        "characters": {}
+    },
+    {
+        "story_id": 154,
+        "characters": {
+            "Jeff": "negative"
+        }
+    },
+    {
+        "story_id": 155,
+        "characters": {
+            "Julie": "positive"
+        }
+    },
+    {
+        "story_id": 156,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 157,
+        "characters": {
+            "Danny": "positive"
+        }
+    },
+    {
+        "story_id": 158,
+        "characters": {
+            "Doug": "positive"
+        }
+    },
+    {
+        "story_id": 159,
+        "characters": {
+            "Maggie": "positive"
+        }
+    },
+    {
+        "story_id": 160,
+        "characters": {
+            "Jody": "positive"
+        }
+    },
+    {
+        "story_id": 161,
+        "characters": {
+            "Jake": "positive"
+        }
+    },
+    {
+        "story_id": 162,
+        "characters": {}
+    },
+    {
+        "story_id": 163,
+        "characters": {
+            "Alicia": "positive"
+        }
+    },
+    {
+        "story_id": 164,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 165,
+        "characters": {
+            "Amanda": "positive"
+        }
+    },
+    {
+        "story_id": 166,
+        "characters": {
+            "Sandra": "positive"
+        }
+    },
+    {
+        "story_id": 167,
+        "characters": {}
+    },
+    {
+        "story_id": 168,
+        "characters": {
+            "Tyler": "positive"
+        }
+    },
+    {
+        "story_id": 169,
+        "characters": {
+            "Sarah": "positive"
+        }
+    },
+    {
+        "story_id": 170,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 171,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 172,
+        "characters": {
+            "Andre": "positive"
+        }
+    },
+    {
+        "story_id": 173,
+        "characters": {
+            "Mark": "negative"
+        }
+    },
+    {
+        "story_id": 174,
+        "characters": {
+            "Pete": "positive",
+            "Jenny": "positive"
+        }
+    },
+    {
+        "story_id": 175,
+        "characters": {}
+    },
+    {
+        "story_id": 176,
+        "characters": {
+            "Gary": "positive"
+        }
+    },
+    {
+        "story_id": 177,
+        "characters": {
+            "Sahil": "positive",
+            "Jenny": "positive"
+        }
+    },
+    {
+        "story_id": 178,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 179,
+        "characters": {
+            "Sarah": "positive"
+        }
+    },
+    {
+        "story_id": 180,
+        "characters": {
+            "Lyra": "positive"
+        }
+    },
+    {
+        "story_id": 181,
+        "characters": {
+            "Kim": "positive"
+        }
+    },
+    {
+        "story_id": 182,
+        "characters": {
+            "Bobby": "positive"
+        }
+    },
+    {
+        "story_id": 183,
+        "characters": {
+            "Sara": "negative"
+        }
+    },
+    {
+        "story_id": 184,
+        "characters": {
+            "Joe": "positive"
+        }
+    },
+    {
+        "story_id": 185,
+        "characters": {
+            "Justin": "positive"
+        }
+    },
+    {
+        "story_id": 186,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 187,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 188,
+        "characters": {
+            "Jones": "positive"
+        }
+    },
+    {
+        "story_id": 189,
+        "characters": {
+            "Nick": "positive"
+        }
+    },
+    {
+        "story_id": 190,
+        "characters": {
+            "Bill": "positive"
+        }
+    },
+    {
+        "story_id": 191,
+        "characters": {}
+    },
+    {
+        "story_id": 192,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 193,
+        "characters": {
+            "mother": "positive"
+        }
+    },
+    {
+        "story_id": 194,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 195,
+        "characters": {
+            "Hank": "positive"
+        }
+    },
+    {
+        "story_id": 196,
+        "characters": {
+            "Lincoln": "positive"
+        }
+    },
+    {
+        "story_id": 197,
+        "characters": {
+            "friend": "positive",
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 198,
+        "characters": {
+            "John": "positive",
+            "Jane": "positive"
+        }
+    },
+    {
+        "story_id": 199,
+        "characters": {
+            "Tony": "negative"
+        }
+    },
+    {
+        "story_id": 200,
+        "characters": {}
+    },
+    {
+        "story_id": 201,
+        "characters": {
+            "Lay": "positive"
+        }
+    },
+    {
+        "story_id": 202,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 203,
+        "characters": {
+            "Jerry": "negative"
+        }
+    },
+    {
+        "story_id": 204,
+        "characters": {
+            "Robert": "positive"
+        }
+    },
+    {
+        "story_id": 205,
+        "characters": {
+            "Jan": "positive",
+            "Sue": "negative"
+        }
+    },
+    {
+        "story_id": 206,
+        "characters": {
+            "Sarah": "positive"
+        }
+    },
+    {
+        "story_id": 207,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 208,
+        "characters": {
+            "Gayle": "positive"
+        }
+    },
+    {
+        "story_id": 209,
+        "characters": {
+            "Greg": "positive",
+            "Lori": "positive"
+        }
+    },
+    {
+        "story_id": 210,
+        "characters": {
+            "Lola": "negative",
+            "Lila": "positive"
+        }
+    },
+    {
+        "story_id": 211,
+        "characters": {
+            "James": "negative"
+        }
+    },
+    {
+        "story_id": 212,
+        "characters": {}
+    },
+    {
+        "story_id": 213,
+        "characters": {
+            "Frank": "positive"
+        }
+    },
+    {
+        "story_id": 214,
+        "characters": {
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 215,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 216,
+        "characters": {
+            "Andrea": "positive"
+        }
+    },
+    {
+        "story_id": 217,
+        "characters": {
+            "Jim": "positive"
+        }
+    },
+    {
+        "story_id": 218,
+        "characters": {
+            "Toby": "positive"
+        }
+    },
+    {
+        "story_id": 219,
+        "characters": {
+            "Eric": "positive"
+        }
+    },
+    {
+        "story_id": 220,
+        "characters": {
+            "Barbara": "negative",
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 221,
+        "characters": {
+            "Jada": "positive"
+        }
+    },
+    {
+        "story_id": 222,
+        "characters": {
+            "Maureen": "positive"
+        }
+    },
+    {
+        "story_id": 223,
+        "characters": {
+            "Danica": "negative"
+        }
+    },
+    {
+        "story_id": 224,
+        "characters": {
+            "Andrew": "positive"
+        }
+    },
+    {
+        "story_id": 225,
+        "characters": {
+            "Jake": "positive"
+        }
+    },
+    {
+        "story_id": 226,
+        "characters": {
+            "Smith": "negative"
+        }
+    },
+    {
+        "story_id": 227,
+        "characters": {
+            "Marisha": "positive"
+        }
+    },
+    {
+        "story_id": 228,
+        "characters": {
+            "i": "positive",
+            "friend": "positive"
+        }
+    },
+    {
+        "story_id": 229,
+        "characters": {
+            "dancer": "positive",
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 230,
+        "characters": {
+            "Harry": "positive"
+        }
+    },
+    {
+        "story_id": 231,
+        "characters": {}
+    },
+    {
+        "story_id": 232,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 233,
+        "characters": {
+            "i": "positive",
+            "girlfriend": "negative"
+        }
+    },
+    {
+        "story_id": 234,
+        "characters": {
+            "Ana": "positive"
+        }
+    },
+    {
+        "story_id": 235,
+        "characters": {
+            "Uki": "negative"
+        }
+    },
+    {
+        "story_id": 236,
+        "characters": {
+            "James": "positive"
+        }
+    },
+    {
+        "story_id": 237,
+        "characters": {
+            "Mick": "positive"
+        }
+    },
+    {
+        "story_id": 238,
+        "characters": {
+            "Fred": "positive"
+        }
+    },
+    {
+        "story_id": 239,
+        "characters": {
+            "James": "positive"
+        }
+    },
+    {
+        "story_id": 240,
+        "characters": {
+            "mayor": "positive"
+        }
+    },
+    {
+        "story_id": 241,
+        "characters": {
+            "Tina": "negative"
+        }
+    },
+    {
+        "story_id": 242,
+        "characters": {
+            "Hallie": "negative",
+            "Lisa": "negative"
+        }
+    },
+    {
+        "story_id": 243,
+        "characters": {
+            "Jaime": "positive",
+            "Jamie": "positive"
+        }
+    },
+    {
+        "story_id": 244,
+        "characters": {
+            "Trey": "positive"
+        }
+    },
+    {
+        "story_id": 245,
+        "characters": {
+            "Joni": "positive"
+        }
+    },
+    {
+        "story_id": 246,
+        "characters": {
+            "Lindy": "positive"
+        }
+    },
+    {
+        "story_id": 247,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 248,
+        "characters": {
+            "Jane": "positive"
+        }
+    },
+    {
+        "story_id": 249,
+        "characters": {
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 250,
+        "characters": {
+            "Jeff": "positive"
+        }
+    },
+    {
+        "story_id": 251,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 252,
+        "characters": {
+            "Morgan": "positive",
+            "Peter": "negative"
+        }
+    },
+    {
+        "story_id": 253,
+        "characters": {
+            "Terry": "positive"
+        }
+    },
+    {
+        "story_id": 254,
+        "characters": {
+            "Anna": "positive"
+        }
+    },
+    {
+        "story_id": 255,
+        "characters": {
+            "Jeffrey": "positive"
+        }
+    },
+    {
+        "story_id": 256,
+        "characters": {
+            "Joe": "negative"
+        }
+    },
+    {
+        "story_id": 257,
+        "characters": {
+            "Cara": "positive"
+        }
+    },
+    {
+        "story_id": 258,
+        "characters": {
+            "Billy": "positive"
+        }
+    },
+    {
+        "story_id": 259,
+        "characters": {}
+    },
+    {
+        "story_id": 260,
+        "characters": {
+            "Luc": "positive",
+            "Bon": "positive",
+            "Luke": "positive"
+        }
+    },
+    {
+        "story_id": 261,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 262,
+        "characters": {
+            "Paul": "negative"
+        }
+    },
+    {
+        "story_id": 263,
+        "characters": {
+            "Jen": "positive"
+        }
+    },
+    {
+        "story_id": 264,
+        "characters": {
+            "Bob": "negative",
+            "Alice": "negative",
+            "Chuck": "negative"
+        }
+    },
+    {
+        "story_id": 265,
+        "characters": {
+            "George": "negative"
+        }
+    },
+    {
+        "story_id": 266,
+        "characters": {
+            "Francine": "positive"
+        }
+    },
+    {
+        "story_id": 267,
+        "characters": {
+            "Sara": "positive",
+            "Barry": "positive"
+        }
+    },
+    {
+        "story_id": 268,
+        "characters": {
+            "Laura": "negative"
+        }
+    },
+    {
+        "story_id": 269,
+        "characters": {
+            "Steve": "positive"
+        }
+    },
+    {
+        "story_id": 270,
+        "characters": {
+            "Jessica": "negative"
+        }
+    },
+    {
+        "story_id": 271,
+        "characters": {}
+    },
+    {
+        "story_id": 272,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 273,
+        "characters": {
+            "Jessica": "negative"
+        }
+    },
+    {
+        "story_id": 274,
+        "characters": {
+            "Lance": "positive"
+        }
+    },
+    {
+        "story_id": 275,
+        "characters": {
+            "LeBron": "positive",
+            "Michael": "positive"
+        }
+    },
+    {
+        "story_id": 276,
+        "characters": {
+            "daughter": "positive",
+            "friend": "positive"
+        }
+    },
+    {
+        "story_id": 277,
+        "characters": {
+            "Marsha": "negative"
+        }
+    },
+    {
+        "story_id": 278,
+        "characters": {
+            "Reggie": "positive"
+        }
+    },
+    {
+        "story_id": 279,
+        "characters": {
+            "Jill": "positive"
+        }
+    },
+    {
+        "story_id": 280,
+        "characters": {
+            "Jessy": "positive"
+        }
+    },
+    {
+        "story_id": 281,
+        "characters": {
+            "Jim": "positive"
+        }
+    },
+    {
+        "story_id": 282,
+        "characters": {
+            "Pat": "positive"
+        }
+    },
+    {
+        "story_id": 283,
+        "characters": {
+            "O'keefe": "positive"
+        }
+    },
+    {
+        "story_id": 284,
+        "characters": {
+            "Tom": "positive",
+            "Harold": "positive"
+        }
+    },
+    {
+        "story_id": 285,
+        "characters": {
+            "Reid": "positive"
+        }
+    },
+    {
+        "story_id": 286,
+        "characters": {
+            "Brad": "positive"
+        }
+    },
+    {
+        "story_id": 287,
+        "characters": {
+            "Jim": "negative"
+        }
+    },
+    {
+        "story_id": 288,
+        "characters": {}
+    },
+    {
+        "story_id": 289,
+        "characters": {}
+    },
+    {
+        "story_id": 290,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 291,
+        "characters": {
+            "Henry": "positive",
+            "June": "positive"
+        }
+    },
+    {
+        "story_id": 292,
+        "characters": {
+            "Jim": "positive"
+        }
+    },
+    {
+        "story_id": 293,
+        "characters": {
+            "Jim": "negative"
+        }
+    },
+    {
+        "story_id": 294,
+        "characters": {
+            "Julia": "positive"
+        }
+    },
+    {
+        "story_id": 295,
+        "characters": {}
+    },
+    {
+        "story_id": 296,
+        "characters": {
+            "Jimmy": "positive"
+        }
+    },
+    {
+        "story_id": 297,
+        "characters": {
+            "Sue": "negative"
+        }
+    },
+    {
+        "story_id": 298,
+        "characters": {
+            "Greg": "positive"
+        }
+    },
+    {
+        "story_id": 299,
+        "characters": {
+            "JJ": "positive"
+        }
+    },
+    {
+        "story_id": 300,
+        "characters": {
+            "Susan": "positive"
+        }
+    },
+    {
+        "story_id": 301,
+        "characters": {
+            "Scott": "positive"
+        }
+    },
+    {
+        "story_id": 302,
+        "characters": {
+            "Joe": "positive"
+        }
+    },
+    {
+        "story_id": 303,
+        "characters": {
+            "Susie": "positive",
+            "Jim": "positive"
+        }
+    },
+    {
+        "story_id": 304,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 305,
+        "characters": {
+            "Joe": "negative"
+        }
+    },
+    {
+        "story_id": 306,
+        "characters": {
+            "Chris": "positive"
+        }
+    },
+    {
+        "story_id": 307,
+        "characters": {
+            "Terry": "positive"
+        }
+    },
+    {
+        "story_id": 308,
+        "characters": {
+            "Matt": "positive"
+        }
+    },
+    {
+        "story_id": 309,
+        "characters": {
+            "friend": "positive"
+        }
+    },
+    {
+        "story_id": 310,
+        "characters": {
+            "Laura": "positive"
+        }
+    },
+    {
+        "story_id": 311,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 312,
+        "characters": {
+            "Molly": "positive"
+        }
+    },
+    {
+        "story_id": 313,
+        "characters": {
+            "Becky": "positive",
+            "Steve": "positive",
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 314,
+        "characters": {
+            "Bob": "positive"
+        }
+    },
+    {
+        "story_id": 315,
+        "characters": {
+            "Tom": "positive"
+        }
+    },
+    {
+        "story_id": 316,
+        "characters": {
+            "Emilio": "positive"
+        }
+    },
+    {
+        "story_id": 317,
+        "characters": {
+            "Joey": "positive"
+        }
+    },
+    {
+        "story_id": 318,
+        "characters": {
+            "Ned": "positive"
+        }
+    },
+    {
+        "story_id": 319,
+        "characters": {
+            "Ivy": "negative"
+        }
+    },
+    {
+        "story_id": 320,
+        "characters": {
+            "Blake": "positive"
+        }
+    },
+    {
+        "story_id": 321,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 322,
+        "characters": {
+            "Jesus": "positive"
+        }
+    },
+    {
+        "story_id": 323,
+        "characters": {
+            "Roman": "positive",
+            "Jules": "positive"
+        }
+    },
+    {
+        "story_id": 324,
+        "characters": {
+            "Susan": "positive"
+        }
+    },
+    {
+        "story_id": 325,
+        "characters": {
+            "Felipe": "positive"
+        }
+    },
+    {
+        "story_id": 326,
+        "characters": {
+            "Kat": "negative"
+        }
+    },
+    {
+        "story_id": 327,
+        "characters": {
+            "Virat": "positive",
+            "Yuvi": "positive"
+        }
+    },
+    {
+        "story_id": 328,
+        "characters": {
+            "Gabe": "positive",
+            "Mommy": "positive",
+            "Grandma": "positive",
+            "Daddy": "positive"
+        }
+    },
+    {
+        "story_id": 329,
+        "characters": {}
+    },
+    {
+        "story_id": 330,
+        "characters": {
+            "Bill": "negative"
+        }
+    },
+    {
+        "story_id": 331,
+        "characters": {
+            "Greg": "positive"
+        }
+    },
+    {
+        "story_id": 332,
+        "characters": {
+            "Amelia": "negative"
+        }
+    },
+    {
+        "story_id": 333,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 334,
+        "characters": {
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 335,
+        "characters": {
+            "Ann": "positive"
+        }
+    },
+    {
+        "story_id": 336,
+        "characters": {
+            "Ellen": "positive"
+        }
+    },
+    {
+        "story_id": 337,
+        "characters": {}
+    },
+    {
+        "story_id": 338,
+        "characters": {
+            "Lola": "negative"
+        }
+    },
+    {
+        "story_id": 339,
+        "characters": {}
+    },
+    {
+        "story_id": 340,
+        "characters": {
+            "Betty": "positive"
+        }
+    },
+    {
+        "story_id": 341,
+        "characters": {
+            "Cirno": "positive"
+        }
+    },
+    {
+        "story_id": 342,
+        "characters": {
+            "i": "negative",
+            "witch": "negative"
+        }
+    },
+    {
+        "story_id": 343,
+        "characters": {
+            "Audrey": "positive"
+        }
+    },
+    {
+        "story_id": 344,
+        "characters": {
+            "Sergey": "negative"
+        }
+    },
+    {
+        "story_id": 345,
+        "characters": {
+            "Monica": "positive"
+        }
+    },
+    {
+        "story_id": 346,
+        "characters": {
+            "Brendan": "negative"
+        }
+    },
+    {
+        "story_id": 347,
+        "characters": {
+            "Carlos": "positive"
+        }
+    },
+    {
+        "story_id": 348,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 349,
+        "characters": {
+            "girlfriend": "positive",
+            "i": "positive",
+            "king": "positive",
+            "queen": "positive"
+        }
+    },
+    {
+        "story_id": 350,
+        "characters": {
+            "Jarvis": "positive"
+        }
+    },
+    {
+        "story_id": 351,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 352,
+        "characters": {
+            "Linda": "positive"
+        }
+    },
+    {
+        "story_id": 353,
+        "characters": {
+            "Laura": "positive"
+        }
+    },
+    {
+        "story_id": 354,
+        "characters": {
+            "Ken": "negative"
+        }
+    },
+    {
+        "story_id": 355,
+        "characters": {
+            "Ketch": "negative"
+        }
+    },
+    {
+        "story_id": 356,
+        "characters": {
+            "Stan": "positive"
+        }
+    },
+    {
+        "story_id": 357,
+        "characters": {
+            "Eliza": "positive"
+        }
+    },
+    {
+        "story_id": 358,
+        "characters": {}
+    },
+    {
+        "story_id": 359,
+        "characters": {
+            "Tory": "positive"
+        }
+    },
+    {
+        "story_id": 360,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 361,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 362,
+        "characters": {
+            "Charles": "negative"
+        }
+    },
+    {
+        "story_id": 363,
+        "characters": {
+            "Jan": "positive"
+        }
+    },
+    {
+        "story_id": 364,
+        "characters": {
+            "Susan": "positive"
+        }
+    },
+    {
+        "story_id": 365,
+        "characters": {
+            "Rita": "positive"
+        }
+    },
+    {
+        "story_id": 366,
+        "characters": {
+            "Jaime": "positive"
+        }
+    },
+    {
+        "story_id": 367,
+        "characters": {}
+    },
+    {
+        "story_id": 368,
+        "characters": {
+            "Laura": "positive"
+        }
+    },
+    {
+        "story_id": 369,
+        "characters": {
+            "Patrick": "negative"
+        }
+    },
+    {
+        "story_id": 370,
+        "characters": {
+            "Bella": "positive"
+        }
+    },
+    {
+        "story_id": 371,
+        "characters": {
+            "Leia": "positive"
+        }
+    },
+    {
+        "story_id": 372,
+        "characters": {
+            "Lisa": "negative"
+        }
+    },
+    {
+        "story_id": 373,
+        "characters": {
+            "Jim": "negative"
+        }
+    },
+    {
+        "story_id": 374,
+        "characters": {
+            "Liz": "negative"
+        }
+    },
+    {
+        "story_id": 375,
+        "characters": {
+            "Jake": "positive"
+        }
+    },
+    {
+        "story_id": 376,
+        "characters": {
+            "Tony": "positive"
+        }
+    },
+    {
+        "story_id": 377,
+        "characters": {
+            "Lucas": "positive"
+        }
+    },
+    {
+        "story_id": 378,
+        "characters": {
+            "Henry": "positive"
+        }
+    },
+    {
+        "story_id": 379,
+        "characters": {}
+    },
+    {
+        "story_id": 380,
+        "characters": {
+            "Luke": "positive"
+        }
+    },
+    {
+        "story_id": 381,
+        "characters": {
+            "Kelly": "negative"
+        }
+    },
+    {
+        "story_id": 382,
+        "characters": {
+            "Jacob": "positive"
+        }
+    },
+    {
+        "story_id": 383,
+        "characters": {
+            "Mallory": "positive"
+        }
+    },
+    {
+        "story_id": 384,
+        "characters": {
+            "Janet": "positive",
+            "Karen": "positive"
+        }
+    },
+    {
+        "story_id": 385,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 386,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 387,
+        "characters": {
+            "Troy": "positive"
+        }
+    },
+    {
+        "story_id": 388,
+        "characters": {
+            "Tim": "negative"
+        }
+    },
+    {
+        "story_id": 389,
+        "characters": {
+            "Will": "positive",
+            "Jacob": "positive"
+        }
+    },
+    {
+        "story_id": 390,
+        "characters": {}
+    },
+    {
+        "story_id": 391,
+        "characters": {
+            "Felipe": "positive"
+        }
+    },
+    {
+        "story_id": 392,
+        "characters": {
+            "Mark": "positive",
+            "Finn": "positive"
+        }
+    },
+    {
+        "story_id": 393,
+        "characters": {
+            "Lewis": "positive"
+        }
+    },
+    {
+        "story_id": 394,
+        "characters": {
+            "Jen": "positive",
+            "Jenny": "positive"
+        }
+    },
+    {
+        "story_id": 395,
+        "characters": {
+            "Billy": "positive"
+        }
+    },
+    {
+        "story_id": 396,
+        "characters": {
+            "Nancy": "positive"
+        }
+    },
+    {
+        "story_id": 397,
+        "characters": {
+            "Mark": "negative"
+        }
+    },
+    {
+        "story_id": 398,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 399,
+        "characters": {
+            "Tanner": "positive"
+        }
+    },
+    {
+        "story_id": 400,
+        "characters": {
+            "Theo": "positive"
+        }
+    },
+    {
+        "story_id": 401,
+        "characters": {
+            "Mary": "negative"
+        }
+    },
+    {
+        "story_id": 402,
+        "characters": {
+            "Darren": "negative"
+        }
+    },
+    {
+        "story_id": 403,
+        "characters": {
+            "son": "negative",
+            "friend": "positive"
+        }
+    },
+    {
+        "story_id": 404,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 405,
+        "characters": {
+            "Mike": "positive",
+            "Tina": "positive"
+        }
+    },
+    {
+        "story_id": 406,
+        "characters": {
+            "Stephanie": "positive"
+        }
+    },
+    {
+        "story_id": 407,
+        "characters": {
+            "Troy": "positive",
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 408,
+        "characters": {
+            "Jim": "positive"
+        }
+    },
+    {
+        "story_id": 409,
+        "characters": {
+            "Ashley": "negative",
+            "Mike": "negative"
+        }
+    },
+    {
+        "story_id": 410,
+        "characters": {
+            "Mike": "negative"
+        }
+    },
+    {
+        "story_id": 411,
+        "characters": {
+            "Stevens": "positive"
+        }
+    },
+    {
+        "story_id": 412,
+        "characters": {
+            "Larry": "positive"
+        }
+    },
+    {
+        "story_id": 413,
+        "characters": {
+            "Brenda": "negative"
+        }
+    },
+    {
+        "story_id": 414,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 415,
+        "characters": {
+            "Tom": "positive"
+        }
+    },
+    {
+        "story_id": 416,
+        "characters": {
+            "Jonathan": "positive"
+        }
+    },
+    {
+        "story_id": 417,
+        "characters": {
+            "Morgan": "positive"
+        }
+    },
+    {
+        "story_id": 418,
+        "characters": {
+            "Danny": "positive"
+        }
+    },
+    {
+        "story_id": 419,
+        "characters": {}
+    },
+    {
+        "story_id": 420,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 421,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 422,
+        "characters": {
+            "Ben": "positive",
+            "Mark": "positive"
+        }
+    },
+    {
+        "story_id": 423,
+        "characters": {
+            "Joseph": "negative"
+        }
+    },
+    {
+        "story_id": 424,
+        "characters": {
+            "Joe": "negative"
+        }
+    },
+    {
+        "story_id": 425,
+        "characters": {
+            "Emma": "positive"
+        }
+    },
+    {
+        "story_id": 426,
+        "characters": {
+            "Joel": "positive"
+        }
+    },
+    {
+        "story_id": 427,
+        "characters": {
+            "Mike": "positive",
+            "Angela": "positive"
+        }
+    },
+    {
+        "story_id": 428,
+        "characters": {
+            "Ella": "positive"
+        }
+    },
+    {
+        "story_id": 429,
+        "characters": {
+            "Trevor": "positive"
+        }
+    },
+    {
+        "story_id": 430,
+        "characters": {
+            "Chris": "positive"
+        }
+    },
+    {
+        "story_id": 431,
+        "characters": {
+            "uncle": "positive"
+        }
+    },
+    {
+        "story_id": 432,
+        "characters": {
+            "Billy": "positive",
+            "Katie": "positive"
+        }
+    },
+    {
+        "story_id": 433,
+        "characters": {
+            "Harry": "negative",
+            "Amanda": "positive"
+        }
+    },
+    {
+        "story_id": 434,
+        "characters": {
+            "Mila": "negative"
+        }
+    },
+    {
+        "story_id": 435,
+        "characters": {
+            "Harold": "negative"
+        }
+    },
+    {
+        "story_id": 436,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 437,
+        "characters": {
+            "Nolan": "positive",
+            "Milo": "positive"
+        }
+    },
+    {
+        "story_id": 438,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 439,
+        "characters": {
+            "Molly": "positive"
+        }
+    },
+    {
+        "story_id": 440,
+        "characters": {
+            "Tom": "negative",
+            "Delores": "negative"
+        }
+    },
+    {
+        "story_id": 441,
+        "characters": {
+            "Chang": "positive"
+        }
+    },
+    {
+        "story_id": 442,
+        "characters": {
+            "Tim": "positive",
+            "Lucy": "positive",
+            "God": "positive"
+        }
+    },
+    {
+        "story_id": 443,
+        "characters": {
+            "Kim": "negative"
+        }
+    },
+    {
+        "story_id": 444,
+        "characters": {
+            "Steph": "positive"
+        }
+    },
+    {
+        "story_id": 445,
+        "characters": {
+            "Amy": "positive"
+        }
+    },
+    {
+        "story_id": 446,
+        "characters": {
+            "Sue": "positive"
+        }
+    },
+    {
+        "story_id": 447,
+        "characters": {
+            "Matty": "positive"
+        }
+    },
+    {
+        "story_id": 448,
+        "characters": {
+            "David": "positive"
+        }
+    },
+    {
+        "story_id": 449,
+        "characters": {
+            "Connor": "positive"
+        }
+    },
+    {
+        "story_id": 450,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 451,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 452,
+        "characters": {
+            "Melody": "positive"
+        }
+    },
+    {
+        "story_id": 453,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 454,
+        "characters": {
+            "Jordan": "negative"
+        }
+    },
+    {
+        "story_id": 455,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 456,
+        "characters": {
+            "Brian": "negative"
+        }
+    },
+    {
+        "story_id": 457,
+        "characters": {
+            "Sarah": "positive"
+        }
+    },
+    {
+        "story_id": 458,
+        "characters": {
+            "daughter": "positive"
+        }
+    },
+    {
+        "story_id": 459,
+        "characters": {
+            "Darla": "negative"
+        }
+    },
+    {
+        "story_id": 460,
+        "characters": {
+            "friend": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 461,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 462,
+        "characters": {
+            "janitor": "positive"
+        }
+    },
+    {
+        "story_id": 463,
+        "characters": {
+            "James": "positive"
+        }
+    },
+    {
+        "story_id": 464,
+        "characters": {
+            "Mary": "positive",
+            "Jack": "positive"
+        }
+    },
+    {
+        "story_id": 465,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 466,
+        "characters": {
+            "president": "positive"
+        }
+    },
+    {
+        "story_id": 467,
+        "characters": {
+            "Ana": "positive"
+        }
+    },
+    {
+        "story_id": 468,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 469,
+        "characters": {}
+    },
+    {
+        "story_id": 470,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 471,
+        "characters": {
+            "Sheryl": "positive"
+        }
+    },
+    {
+        "story_id": 472,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 473,
+        "characters": {
+            "chef": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 474,
+        "characters": {
+            "Tina": "positive"
+        }
+    },
+    {
+        "story_id": 475,
+        "characters": {
+            "Jill": "positive",
+            "Amy": "positive"
+        }
+    },
+    {
+        "story_id": 476,
+        "characters": {
+            "Elda": "positive"
+        }
+    },
+    {
+        "story_id": 477,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 478,
+        "characters": {
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 479,
+        "characters": {
+            "friend": "positive",
+            "i": "negative",
+            "barista": "negative"
+        }
+    },
+    {
+        "story_id": 480,
+        "characters": {
+            "Sue": "positive",
+            "Bob": "positive"
+        }
+    },
+    {
+        "story_id": 481,
+        "characters": {
+            "Larry": "positive"
+        }
+    },
+    {
+        "story_id": 482,
+        "characters": {
+            "spouse": "negative"
+        }
+    },
+    {
+        "story_id": 483,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 484,
+        "characters": {
+            "Jill": "positive"
+        }
+    },
+    {
+        "story_id": 485,
+        "characters": {}
+    },
+    {
+        "story_id": 486,
+        "characters": {
+            "Irene": "positive"
+        }
+    },
+    {
+        "story_id": 487,
+        "characters": {
+            "Mary": "positive"
+        }
+    },
+    {
+        "story_id": 488,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 489,
+        "characters": {
+            "daughter": "negative",
+            "teacher": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 490,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 491,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 492,
+        "characters": {
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 493,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 494,
+        "characters": {
+            "Brandon": "positive"
+        }
+    },
+    {
+        "story_id": 495,
+        "characters": {
+            "Billy": "positive"
+        }
+    },
+    {
+        "story_id": 496,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 497,
+        "characters": {
+            "Todd": "positive"
+        }
+    },
+    {
+        "story_id": 498,
+        "characters": {}
+    },
+    {
+        "story_id": 499,
+        "characters": {
+            "Franz": "positive"
+        }
+    },
+    {
+        "story_id": 500,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 501,
+        "characters": {
+            "daughter": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 502,
+        "characters": {
+            "Katie": "positive",
+            "Carl": "positive"
+        }
+    },
+    {
+        "story_id": 503,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 504,
+        "characters": {
+            "Marcus": "positive"
+        }
+    },
+    {
+        "story_id": 505,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 506,
+        "characters": {}
+    },
+    {
+        "story_id": 507,
+        "characters": {
+            "Hallie": "positive"
+        }
+    },
+    {
+        "story_id": 508,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 509,
+        "characters": {
+            "son": "positive",
+            "doctor": "positive"
+        }
+    },
+    {
+        "story_id": 510,
+        "characters": {
+            "Susie": "positive",
+            "Todd": "positive"
+        }
+    },
+    {
+        "story_id": 511,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 512,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 513,
+        "characters": {}
+    },
+    {
+        "story_id": 514,
+        "characters": {
+            "Ebby": "positive"
+        }
+    },
+    {
+        "story_id": 515,
+        "characters": {}
+    },
+    {
+        "story_id": 516,
+        "characters": {
+            "daughter": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 517,
+        "characters": {
+            "Mary": "positive",
+            "Jeff": "positive"
+        }
+    },
+    {
+        "story_id": 518,
+        "characters": {
+            "Steve": "negative",
+            "Sam": "negative"
+        }
+    },
+    {
+        "story_id": 519,
+        "characters": {
+            "Dunn": "positive"
+        }
+    },
+    {
+        "story_id": 520,
+        "characters": {
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 521,
+        "characters": {
+            "Thomas": "positive"
+        }
+    },
+    {
+        "story_id": 522,
+        "characters": {
+            "Bob": "positive"
+        }
+    },
+    {
+        "story_id": 523,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 524,
+        "characters": {
+            "Sam": "positive",
+            "Alex": "positive"
+        }
+    },
+    {
+        "story_id": 525,
+        "characters": {}
+    },
+    {
+        "story_id": 526,
+        "characters": {
+            "Gina": "negative"
+        }
+    },
+    {
+        "story_id": 527,
+        "characters": {
+            "Tyler": "negative"
+        }
+    },
+    {
+        "story_id": 528,
+        "characters": {
+            "Feliciano": "positive"
+        }
+    },
+    {
+        "story_id": 529,
+        "characters": {
+            "i": "positive",
+            "teacher": "positive"
+        }
+    },
+    {
+        "story_id": 530,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 531,
+        "characters": {
+            "daughter": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 532,
+        "characters": {
+            "Gina": "negative"
+        }
+    },
+    {
+        "story_id": 533,
+        "characters": {
+            "Leo": "positive"
+        }
+    },
+    {
+        "story_id": 534,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 535,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 536,
+        "characters": {
+            "nurse": "positive"
+        }
+    },
+    {
+        "story_id": 537,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 538,
+        "characters": {
+            "Dillon": "positive"
+        }
+    },
+    {
+        "story_id": 539,
+        "characters": {
+            "friend": "positive"
+        }
+    },
+    {
+        "story_id": 540,
+        "characters": {
+            "girlfriend": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 541,
+        "characters": {
+            "Mike": "positive"
+        }
+    },
+    {
+        "story_id": 542,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 543,
+        "characters": {
+            "Jill": "positive"
+        }
+    },
+    {
+        "story_id": 544,
+        "characters": {
+            "i": "positive",
+            "doctor": "negative"
+        }
+    },
+    {
+        "story_id": 545,
+        "characters": {
+            "i": "negative",
+            "waiter": "negative"
+        }
+    },
+    {
+        "story_id": 546,
+        "characters": {
+            "Tori": "positive"
+        }
+    },
+    {
+        "story_id": 547,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 548,
+        "characters": {}
+    },
+    {
+        "story_id": 549,
+        "characters": {
+            "Jane": "positive"
+        }
+    },
+    {
+        "story_id": 550,
+        "characters": {
+            "Pete": "negative"
+        }
+    },
+    {
+        "story_id": 551,
+        "characters": {
+            "Sora": "positive"
+        }
+    },
+    {
+        "story_id": 552,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 553,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 554,
+        "characters": {
+            "Sandy": "positive"
+        }
+    },
+    {
+        "story_id": 555,
+        "characters": {
+            "Robert": "positive"
+        }
+    },
+    {
+        "story_id": 556,
+        "characters": {
+            "Lisa": "positive",
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 557,
+        "characters": {
+            "Ryan": "positive"
+        }
+    },
+    {
+        "story_id": 558,
+        "characters": {
+            "Artie": "positive"
+        }
+    },
+    {
+        "story_id": 559,
+        "characters": {
+            "Sahil": "positive"
+        }
+    },
+    {
+        "story_id": 560,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 561,
+        "characters": {
+            "Sally": "negative"
+        }
+    },
+    {
+        "story_id": 562,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 563,
+        "characters": {}
+    },
+    {
+        "story_id": 564,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 565,
+        "characters": {}
+    },
+    {
+        "story_id": 566,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 567,
+        "characters": {
+            "Agatha": "positive"
+        }
+    },
+    {
+        "story_id": 568,
+        "characters": {
+            "Ally": "positive"
+        }
+    },
+    {
+        "story_id": 569,
+        "characters": {
+            "Mary": "positive"
+        }
+    },
+    {
+        "story_id": 570,
+        "characters": {
+            "sister": "positive",
+            "uncle": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 571,
+        "characters": {
+            "Aaron": "positive"
+        }
+    },
+    {
+        "story_id": 572,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 573,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 574,
+        "characters": {
+            "Jen": "positive"
+        }
+    },
+    {
+        "story_id": 575,
+        "characters": {
+            "Jim": "positive"
+        }
+    },
+    {
+        "story_id": 576,
+        "characters": {
+            "friend": "positive"
+        }
+    },
+    {
+        "story_id": 577,
+        "characters": {
+            "Jenna": "positive"
+        }
+    },
+    {
+        "story_id": 578,
+        "characters": {
+            "Bobby": "positive"
+        }
+    },
+    {
+        "story_id": 579,
+        "characters": {
+            "Tom": "positive"
+        }
+    },
+    {
+        "story_id": 580,
+        "characters": {
+            "Peter": "positive"
+        }
+    },
+    {
+        "story_id": 581,
+        "characters": {
+            "Sam": "negative",
+            "Ryan": "positive"
+        }
+    },
+    {
+        "story_id": 582,
+        "characters": {
+            "Bryan": "negative"
+        }
+    },
+    {
+        "story_id": 583,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 584,
+        "characters": {
+            "Kim": "positive"
+        }
+    },
+    {
+        "story_id": 585,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 586,
+        "characters": {
+            "Paul": "positive"
+        }
+    },
+    {
+        "story_id": 587,
+        "characters": {
+            "Sarah": "negative",
+            "SJ": "negative"
+        }
+    },
+    {
+        "story_id": 588,
+        "characters": {
+            "Jack": "positive"
+        }
+    },
+    {
+        "story_id": 589,
+        "characters": {}
+    },
+    {
+        "story_id": 590,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 591,
+        "characters": {
+            "Cal": "positive"
+        }
+    },
+    {
+        "story_id": 592,
+        "characters": {
+            "George": "negative"
+        }
+    },
+    {
+        "story_id": 593,
+        "characters": {
+            "Jane": "positive"
+        }
+    },
+    {
+        "story_id": 594,
+        "characters": {
+            "Jerry": "positive"
+        }
+    },
+    {
+        "story_id": 595,
+        "characters": {
+            "Jake": "positive",
+            "Cindy": "positive"
+        }
+    },
+    {
+        "story_id": 596,
+        "characters": {
+            "Jenny": "positive"
+        }
+    },
+    {
+        "story_id": 597,
+        "characters": {
+            "Greg": "positive"
+        }
+    },
+    {
+        "story_id": 598,
+        "characters": {
+            "Jack": "negative",
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 599,
+        "characters": {
+            "Komal": "negative"
+        }
+    },
+    {
+        "story_id": 600,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 601,
+        "characters": {
+            "Tina": "positive"
+        }
+    },
+    {
+        "story_id": 602,
+        "characters": {
+            "i": "positive",
+            "sister": "positive"
+        }
+    },
+    {
+        "story_id": 603,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 604,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 605,
+        "characters": {
+            "Kathy": "positive"
+        }
+    },
+    {
+        "story_id": 606,
+        "characters": {
+            "Dean": "positive"
+        }
+    },
+    {
+        "story_id": 607,
+        "characters": {
+            "Tonya": "negative"
+        }
+    },
+    {
+        "story_id": 608,
+        "characters": {
+            "i": "positive",
+            "boyfriend": "negative"
+        }
+    },
+    {
+        "story_id": 609,
+        "characters": {
+            "Tom": "positive"
+        }
+    },
+    {
+        "story_id": 610,
+        "characters": {}
+    },
+    {
+        "story_id": 611,
+        "characters": {
+            "writer": "positive"
+        }
+    },
+    {
+        "story_id": 612,
+        "characters": {
+            "Jill": "positive"
+        }
+    },
+    {
+        "story_id": 613,
+        "characters": {
+            "Jones": "positive"
+        }
+    },
+    {
+        "story_id": 614,
+        "characters": {}
+    },
+    {
+        "story_id": 615,
+        "characters": {
+            "farmer": "positive"
+        }
+    },
+    {
+        "story_id": 616,
+        "characters": {
+            "Adam": "positive"
+        }
+    },
+    {
+        "story_id": 617,
+        "characters": {
+            "Frank": "positive",
+            "Ann": "positive"
+        }
+    },
+    {
+        "story_id": 618,
+        "characters": {
+            "Grant": "positive"
+        }
+    },
+    {
+        "story_id": 619,
+        "characters": {
+            "Tom": "negative"
+        }
+    },
+    {
+        "story_id": 620,
+        "characters": {
+            "Diane": "negative"
+        }
+    },
+    {
+        "story_id": 621,
+        "characters": {
+            "Mandy": "positive"
+        }
+    },
+    {
+        "story_id": 622,
+        "characters": {
+            "Rico": "positive"
+        }
+    },
+    {
+        "story_id": 623,
+        "characters": {
+            "Alex": "positive"
+        }
+    },
+    {
+        "story_id": 624,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 625,
+        "characters": {
+            "Alan": "positive"
+        }
+    },
+    {
+        "story_id": 626,
+        "characters": {
+            "Jenny": "negative",
+            "Susan": "positive"
+        }
+    },
+    {
+        "story_id": 627,
+        "characters": {
+            "Andy": "positive"
+        }
+    },
+    {
+        "story_id": 628,
+        "characters": {
+            "Jason": "positive"
+        }
+    },
+    {
+        "story_id": 629,
+        "characters": {
+            "Tina": "positive"
+        }
+    },
+    {
+        "story_id": 630,
+        "characters": {
+            "Arron": "negative",
+            "Amanda": "positive",
+            "Aaron": "positive"
+        }
+    },
+    {
+        "story_id": 631,
+        "characters": {
+            "Amy": "positive",
+            "Jane": "positive",
+            "Eric": "positive"
+        }
+    },
+    {
+        "story_id": 632,
+        "characters": {
+            "Annie": "positive"
+        }
+    },
+    {
+        "story_id": 633,
+        "characters": {
+            "Anthony": "negative"
+        }
+    },
+    {
+        "story_id": 634,
+        "characters": {
+            "Arden": "positive"
+        }
+    },
+    {
+        "story_id": 635,
+        "characters": {
+            "Susie": "positive",
+            "Katie": "negative"
+        }
+    },
+    {
+        "story_id": 636,
+        "characters": {
+            "Lilly": "positive"
+        }
+    },
+    {
+        "story_id": 637,
+        "characters": {
+            "Jeff": "negative"
+        }
+    },
+    {
+        "story_id": 638,
+        "characters": {}
+    },
+    {
+        "story_id": 639,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 640,
+        "characters": {
+            "Kristine": "negative"
+        }
+    },
+    {
+        "story_id": 641,
+        "characters": {
+            "Neil": "positive"
+        }
+    },
+    {
+        "story_id": 642,
+        "characters": {
+            "Jake": "positive"
+        }
+    },
+    {
+        "story_id": 643,
+        "characters": {
+            "Doe": "positive"
+        }
+    },
+    {
+        "story_id": 644,
+        "characters": {
+            "Susan": "positive"
+        }
+    },
+    {
+        "story_id": 645,
+        "characters": {
+            "Ava": "positive"
+        }
+    },
+    {
+        "story_id": 646,
+        "characters": {
+            "Barry": "negative"
+        }
+    },
+    {
+        "story_id": 647,
+        "characters": {
+            "Ben": "positive",
+            "Jake": "negative"
+        }
+    },
+    {
+        "story_id": 648,
+        "characters": {
+            "Beth": "positive"
+        }
+    },
+    {
+        "story_id": 649,
+        "characters": {
+            "Bill": "positive"
+        }
+    },
+    {
+        "story_id": 650,
+        "characters": {
+            "Bill": "negative",
+            "Bob": "negative"
+        }
+    },
+    {
+        "story_id": 651,
+        "characters": {
+            "Bob": "negative",
+            "Bo": "positive"
+        }
+    },
+    {
+        "story_id": 652,
+        "characters": {
+            "Sue": "negative",
+            "Bob": "positive"
+        }
+    },
+    {
+        "story_id": 653,
+        "characters": {
+            "Sue": "negative",
+            "Bobby": "negative"
+        }
+    },
+    {
+        "story_id": 654,
+        "characters": {
+            "Brandon": "negative"
+        }
+    },
+    {
+        "story_id": 655,
+        "characters": {
+            "Cynthia": "positive",
+            "Kim": "positive"
+        }
+    },
+    {
+        "story_id": 656,
+        "characters": {
+            "Camille": "positive"
+        }
+    },
+    {
+        "story_id": 657,
+        "characters": {
+            "Candace": "negative"
+        }
+    },
+    {
+        "story_id": 658,
+        "characters": {
+            "Carl": "positive"
+        }
+    },
+    {
+        "story_id": 659,
+        "characters": {
+            "Cass": "positive"
+        }
+    },
+    {
+        "story_id": 660,
+        "characters": {
+            "Ceci": "positive"
+        }
+    },
+    {
+        "story_id": 661,
+        "characters": {
+            "Toni": "positive",
+            "Chris": "positive"
+        }
+    },
+    {
+        "story_id": 662,
+        "characters": {
+            "Cynthia": "negative",
+            "Trina": "positive"
+        }
+    },
+    {
+        "story_id": 663,
+        "characters": {
+            "Daisy": "negative"
+        }
+    },
+    {
+        "story_id": 664,
+        "characters": {
+            "Daniel": "negative"
+        }
+    },
+    {
+        "story_id": 665,
+        "characters": {
+            "Daniel": "positive"
+        }
+    },
+    {
+        "story_id": 666,
+        "characters": {
+            "David": "positive"
+        }
+    },
+    {
+        "story_id": 667,
+        "characters": {
+            "Dina": "positive"
+        }
+    },
+    {
+        "story_id": 668,
+        "characters": {
+            "Ali": "positive"
+        }
+    },
+    {
+        "story_id": 669,
+        "characters": {
+            "Jim": "positive"
+        }
+    },
+    {
+        "story_id": 670,
+        "characters": {
+            "Ember": "positive"
+        }
+    },
+    {
+        "story_id": 671,
+        "characters": {
+            "Eric": "negative"
+        }
+    },
+    {
+        "story_id": 672,
+        "characters": {
+            "Joe": "positive",
+            "Erin": "positive"
+        }
+    },
+    {
+        "story_id": 673,
+        "characters": {
+            "Sam": "negative"
+        }
+    },
+    {
+        "story_id": 674,
+        "characters": {
+            "tom": "positive",
+            "Tom": "positive"
+        }
+    },
+    {
+        "story_id": 675,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 676,
+        "characters": {
+            "Faith": "positive"
+        }
+    },
+    {
+        "story_id": 677,
+        "characters": {
+            "Tina": "positive"
+        }
+    },
+    {
+        "story_id": 678,
+        "characters": {
+            "Rob": "positive"
+        }
+    },
+    {
+        "story_id": 679,
+        "characters": {
+            "Mark": "positive"
+        }
+    },
+    {
+        "story_id": 680,
+        "characters": {}
+    },
+    {
+        "story_id": 681,
+        "characters": {}
+    },
+    {
+        "story_id": 682,
+        "characters": {
+            "Michelle": "positive"
+        }
+    },
+    {
+        "story_id": 683,
+        "characters": {
+            "Liza": "positive"
+        }
+    },
+    {
+        "story_id": 684,
+        "characters": {
+            "Walter": "positive"
+        }
+    },
+    {
+        "story_id": 685,
+        "characters": {
+            "Adam": "positive"
+        }
+    },
+    {
+        "story_id": 686,
+        "characters": {
+            "Kyle": "positive",
+            "John": "positive",
+            "Matt": "positive"
+        }
+    },
+    {
+        "story_id": 687,
+        "characters": {
+            "Timmy": "positive"
+        }
+    },
+    {
+        "story_id": 688,
+        "characters": {
+            "Harry": "positive",
+            "Barry": "positive"
+        }
+    },
+    {
+        "story_id": 689,
+        "characters": {
+            "Jennifer": "negative"
+        }
+    },
+    {
+        "story_id": 690,
+        "characters": {
+            "Marcus": "positive"
+        }
+    },
+    {
+        "story_id": 691,
+        "characters": {
+            "Pollyanna": "positive"
+        }
+    },
+    {
+        "story_id": 692,
+        "characters": {
+            "Mike": "positive"
+        }
+    },
+    {
+        "story_id": 693,
+        "characters": {
+            "David": "positive"
+        }
+    },
+    {
+        "story_id": 694,
+        "characters": {
+            "Travis": "positive"
+        }
+    },
+    {
+        "story_id": 695,
+        "characters": {
+            "Mia": "positive"
+        }
+    },
+    {
+        "story_id": 696,
+        "characters": {
+            "Janice": "positive"
+        }
+    },
+    {
+        "story_id": 697,
+        "characters": {
+            "Tia": "positive"
+        }
+    },
+    {
+        "story_id": 698,
+        "characters": {}
+    },
+    {
+        "story_id": 699,
+        "characters": {
+            "Joe": "positive"
+        }
+    },
+    {
+        "story_id": 700,
+        "characters": {
+            "Terry": "positive"
+        }
+    },
+    {
+        "story_id": 701,
+        "characters": {
+            "Amy": "positive"
+        }
+    },
+    {
+        "story_id": 702,
+        "characters": {
+            "Lucian": "positive"
+        }
+    },
+    {
+        "story_id": 703,
+        "characters": {
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 704,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 705,
+        "characters": {
+            "Alex": "negative"
+        }
+    },
+    {
+        "story_id": 706,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 707,
+        "characters": {
+            "Kelly": "positive"
+        }
+    },
+    {
+        "story_id": 708,
+        "characters": {}
+    },
+    {
+        "story_id": 709,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 710,
+        "characters": {
+            "Jake": "positive"
+        }
+    },
+    {
+        "story_id": 711,
+        "characters": {
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 712,
+        "characters": {
+            "Jane": "positive"
+        }
+    },
+    {
+        "story_id": 713,
+        "characters": {
+            "Florence": "positive"
+        }
+    },
+    {
+        "story_id": 714,
+        "characters": {
+            "Mary": "positive"
+        }
+    },
+    {
+        "story_id": 715,
+        "characters": {
+            "Amy": "positive"
+        }
+    },
+    {
+        "story_id": 716,
+        "characters": {
+            "Amy": "negative"
+        }
+    },
+    {
+        "story_id": 717,
+        "characters": {
+            "Amy": "positive"
+        }
+    },
+    {
+        "story_id": 718,
+        "characters": {
+            "Amy": "positive"
+        }
+    },
+    {
+        "story_id": 719,
+        "characters": {
+            "Amy": "positive"
+        }
+    },
+    {
+        "story_id": 720,
+        "characters": {
+            "Amy": "positive"
+        }
+    },
+    {
+        "story_id": 721,
+        "characters": {
+            "Tom": "positive"
+        }
+    },
+    {
+        "story_id": 722,
+        "characters": {
+            "Louis": "positive"
+        }
+    },
+    {
+        "story_id": 723,
+        "characters": {
+            "Fred": "positive"
+        }
+    },
+    {
+        "story_id": 724,
+        "characters": {
+            "Lexi": "positive"
+        }
+    },
+    {
+        "story_id": 725,
+        "characters": {
+            "Coy": "positive"
+        }
+    },
+    {
+        "story_id": 726,
+        "characters": {
+            "Tami": "positive",
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 727,
+        "characters": {
+            "Andy": "positive"
+        }
+    },
+    {
+        "story_id": 728,
+        "characters": {
+            "Angie": "negative"
+        }
+    },
+    {
+        "story_id": 729,
+        "characters": {
+            "Anna": "positive"
+        }
+    },
+    {
+        "story_id": 730,
+        "characters": {
+            "Anna": "positive"
+        }
+    },
+    {
+        "story_id": 731,
+        "characters": {
+            "Anna": "positive",
+            "Will": "positive"
+        }
+    },
+    {
+        "story_id": 732,
+        "characters": {
+            "Clint": "negative"
+        }
+    },
+    {
+        "story_id": 733,
+        "characters": {
+            "girlfriend": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 734,
+        "characters": {
+            "Archie": "negative"
+        }
+    },
+    {
+        "story_id": 735,
+        "characters": {
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 736,
+        "characters": {
+            "Ted": "positive",
+            "Joel": "positive"
+        }
+    },
+    {
+        "story_id": 737,
+        "characters": {
+            "Brad": "positive",
+            "Ashley": "negative"
+        }
+    },
+    {
+        "story_id": 738,
+        "characters": {
+            "Tia": "positive"
+        }
+    },
+    {
+        "story_id": 739,
+        "characters": {
+            "Anita": "positive",
+            "Johnny": "positive"
+        }
+    },
+    {
+        "story_id": 740,
+        "characters": {
+            "Rich": "positive",
+            "Kate": "positive"
+        }
+    },
+    {
+        "story_id": 741,
+        "characters": {
+            "Dan": "positive"
+        }
+    },
+    {
+        "story_id": 742,
+        "characters": {
+            "Suzy": "positive"
+        }
+    },
+    {
+        "story_id": 743,
+        "characters": {
+            "Ava": "positive"
+        }
+    },
+    {
+        "story_id": 744,
+        "characters": {
+            "Josh": "positive"
+        }
+    },
+    {
+        "story_id": 745,
+        "characters": {
+            "Becky": "positive"
+        }
+    },
+    {
+        "story_id": 746,
+        "characters": {
+            "Ben": "positive"
+        }
+    },
+    {
+        "story_id": 747,
+        "characters": {
+            "Beth": "positive",
+            "Carol": "positive"
+        }
+    },
+    {
+        "story_id": 748,
+        "characters": {
+            "Jill": "negative",
+            "Lou": "positive"
+        }
+    },
+    {
+        "story_id": 749,
+        "characters": {
+            "Bill": "positive"
+        }
+    },
+    {
+        "story_id": 750,
+        "characters": {
+            "Bob": "positive"
+        }
+    },
+    {
+        "story_id": 751,
+        "characters": {
+            "Bob": "positive",
+            "Miranda": "positive"
+        }
+    },
+    {
+        "story_id": 752,
+        "characters": {
+            "Bob": "positive"
+        }
+    },
+    {
+        "story_id": 753,
+        "characters": {
+            "Mary": "positive",
+            "Sally": "positive"
+        }
+    },
+    {
+        "story_id": 754,
+        "characters": {
+            "Braden": "positive"
+        }
+    },
+    {
+        "story_id": 755,
+        "characters": {}
+    },
+    {
+        "story_id": 756,
+        "characters": {
+            "John": "negative"
+        }
+    },
+    {
+        "story_id": 757,
+        "characters": {
+            "Stella": "positive"
+        }
+    },
+    {
+        "story_id": 758,
+        "characters": {
+            "Gina": "negative"
+        }
+    },
+    {
+        "story_id": 759,
+        "characters": {
+            "Tom": "negative"
+        }
+    },
+    {
+        "story_id": 760,
+        "characters": {
+            "Max": "positive",
+            "May": "positive"
+        }
+    },
+    {
+        "story_id": 761,
+        "characters": {}
+    },
+    {
+        "story_id": 762,
+        "characters": {
+            "Kelly": "positive"
+        }
+    },
+    {
+        "story_id": 763,
+        "characters": {
+            "Mary": "positive"
+        }
+    },
+    {
+        "story_id": 764,
+        "characters": {
+            "Gina": "positive",
+            "Tami": "positive",
+            "Rita": "positive",
+            "Mary": "positive"
+        }
+    },
+    {
+        "story_id": 765,
+        "characters": {
+            "Polly": "negative",
+            "Grandma": "positive"
+        }
+    },
+    {
+        "story_id": 766,
+        "characters": {}
+    },
+    {
+        "story_id": 767,
+        "characters": {
+            "Mary": "positive"
+        }
+    },
+    {
+        "story_id": 768,
+        "characters": {
+            "Evan": "positive"
+        }
+    },
+    {
+        "story_id": 769,
+        "characters": {
+            "Ana": "positive"
+        }
+    },
+    {
+        "story_id": 770,
+        "characters": {
+            "Mina": "negative"
+        }
+    },
+    {
+        "story_id": 771,
+        "characters": {
+            "Ann": "positive"
+        }
+    },
+    {
+        "story_id": 772,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 773,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 774,
+        "characters": {
+            "brother": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 775,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 776,
+        "characters": {}
+    },
+    {
+        "story_id": 777,
+        "characters": {
+            "Samantha": "positive"
+        }
+    },
+    {
+        "story_id": 778,
+        "characters": {
+            "Harry": "positive"
+        }
+    },
+    {
+        "story_id": 779,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 780,
+        "characters": {
+            "Caleb": "positive"
+        }
+    },
+    {
+        "story_id": 781,
+        "characters": {
+            "Chief": "positive"
+        }
+    },
+    {
+        "story_id": 782,
+        "characters": {
+            "Adam": "positive",
+            "Christian": "positive"
+        }
+    },
+    {
+        "story_id": 783,
+        "characters": {
+            "Ted": "positive",
+            "Santa": "negative"
+        }
+    },
+    {
+        "story_id": 784,
+        "characters": {
+            "Chuck": "negative"
+        }
+    },
+    {
+        "story_id": 785,
+        "characters": {}
+    },
+    {
+        "story_id": 786,
+        "characters": {
+            "Danny": "negative"
+        }
+    },
+    {
+        "story_id": 787,
+        "characters": {}
+    },
+    {
+        "story_id": 788,
+        "characters": {
+            "John": "negative"
+        }
+    },
+    {
+        "story_id": 789,
+        "characters": {
+            "Doreen": "positive"
+        }
+    },
+    {
+        "story_id": 790,
+        "characters": {
+            "Drew": "positive"
+        }
+    },
+    {
+        "story_id": 791,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 792,
+        "characters": {
+            "Dylan": "positive"
+        }
+    },
+    {
+        "story_id": 793,
+        "characters": {
+            "daughter": "positive",
+            "friend": "positive"
+        }
+    },
+    {
+        "story_id": 794,
+        "characters": {
+            "Em": "positive"
+        }
+    },
+    {
+        "story_id": 795,
+        "characters": {
+            "Eric": "positive"
+        }
+    },
+    {
+        "story_id": 796,
+        "characters": {
+            "Ethan": "positive"
+        }
+    },
+    {
+        "story_id": 797,
+        "characters": {
+            "Bryan": "positive"
+        }
+    },
+    {
+        "story_id": 798,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 799,
+        "characters": {
+            "Lance": "positive"
+        }
+    },
+    {
+        "story_id": 800,
+        "characters": {
+            "Larry": "positive"
+        }
+    },
+    {
+        "story_id": 801,
+        "characters": {
+            "Barbara": "negative"
+        }
+    },
+    {
+        "story_id": 802,
+        "characters": {
+            "Arthur": "positive"
+        }
+    },
+    {
+        "story_id": 803,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 804,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 805,
+        "characters": {
+            "Archibald": "positive"
+        }
+    },
+    {
+        "story_id": 806,
+        "characters": {
+            "Nate": "positive"
+        }
+    },
+    {
+        "story_id": 807,
+        "characters": {
+            "Jake": "positive"
+        }
+    },
+    {
+        "story_id": 808,
+        "characters": {
+            "Betsy": "positive"
+        }
+    },
+    {
+        "story_id": 809,
+        "characters": {}
+    },
+    {
+        "story_id": 810,
+        "characters": {
+            "Steve": "positive"
+        }
+    },
+    {
+        "story_id": 811,
+        "characters": {
+            "Karen": "positive"
+        }
+    },
+    {
+        "story_id": 812,
+        "characters": {
+            "Jay": "positive"
+        }
+    },
+    {
+        "story_id": 813,
+        "characters": {
+            "Felipe": "positive",
+            "Jasper": "positive"
+        }
+    },
+    {
+        "story_id": 814,
+        "characters": {
+            "Kathy": "positive"
+        }
+    },
+    {
+        "story_id": 815,
+        "characters": {
+            "Joey": "positive"
+        }
+    },
+    {
+        "story_id": 816,
+        "characters": {
+            "Clayton": "positive"
+        }
+    },
+    {
+        "story_id": 817,
+        "characters": {
+            "Rufus": "positive"
+        }
+    },
+    {
+        "story_id": 818,
+        "characters": {
+            "Al": "positive"
+        }
+    },
+    {
+        "story_id": 819,
+        "characters": {
+            "girlfriend": "positive"
+        }
+    },
+    {
+        "story_id": 820,
+        "characters": {
+            "girlfriend": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 821,
+        "characters": {
+            "Ky": "positive"
+        }
+    },
+    {
+        "story_id": 822,
+        "characters": {
+            "Archie": "positive",
+            "Pam": "positive"
+        }
+    },
+    {
+        "story_id": 823,
+        "characters": {
+            "Angelina": "positive"
+        }
+    },
+    {
+        "story_id": 824,
+        "characters": {
+            "Chase": "positive"
+        }
+    },
+    {
+        "story_id": 825,
+        "characters": {
+            "Fred": "positive"
+        }
+    },
+    {
+        "story_id": 826,
+        "characters": {
+            "Pete": "positive"
+        }
+    },
+    {
+        "story_id": 827,
+        "characters": {
+            "Jordan": "negative"
+        }
+    },
+    {
+        "story_id": 828,
+        "characters": {
+            "Kim": "negative",
+            "Rob": "positive"
+        }
+    },
+    {
+        "story_id": 829,
+        "characters": {
+            "Pam": "positive",
+            "Josh": "positive"
+        }
+    },
+    {
+        "story_id": 830,
+        "characters": {
+            "Georgia": "positive"
+        }
+    },
+    {
+        "story_id": 831,
+        "characters": {
+            "Bobby": "positive"
+        }
+    },
+    {
+        "story_id": 832,
+        "characters": {
+            "Arthur": "positive",
+            "Alfred": "positive"
+        }
+    },
+    {
+        "story_id": 833,
+        "characters": {
+            "girlfriend": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 834,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 835,
+        "characters": {
+            "Gina": "negative"
+        }
+    },
+    {
+        "story_id": 836,
+        "characters": {
+            "Gina": "negative"
+        }
+    },
+    {
+        "story_id": 837,
+        "characters": {
+            "Gina": "negative"
+        }
+    },
+    {
+        "story_id": 838,
+        "characters": {
+            "Heather": "positive",
+            "Grandma": "positive"
+        }
+    },
+    {
+        "story_id": 839,
+        "characters": {
+            "Greg": "positive"
+        }
+    },
+    {
+        "story_id": 840,
+        "characters": {
+            "Greg": "negative"
+        }
+    },
+    {
+        "story_id": 841,
+        "characters": {
+            "Greg": "negative",
+            "Jones": "positive"
+        }
+    },
+    {
+        "story_id": 842,
+        "characters": {
+            "Harry": "positive"
+        }
+    },
+    {
+        "story_id": 843,
+        "characters": {
+            "Mary": "positive",
+            "Harry": "negative"
+        }
+    },
+    {
+        "story_id": 844,
+        "characters": {
+            "Matt": "positive"
+        }
+    },
+    {
+        "story_id": 845,
+        "characters": {
+            "Nick": "positive",
+            "Zoe": "positive"
+        }
+    },
+    {
+        "story_id": 846,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 847,
+        "characters": {
+            "David": "positive"
+        }
+    },
+    {
+        "story_id": 848,
+        "characters": {
+            "Bob": "positive"
+        }
+    },
+    {
+        "story_id": 849,
+        "characters": {
+            "Travis": "negative"
+        }
+    },
+    {
+        "story_id": 850,
+        "characters": {
+            "Ben": "positive"
+        }
+    },
+    {
+        "story_id": 851,
+        "characters": {
+            "Hank": "positive"
+        }
+    },
+    {
+        "story_id": 852,
+        "characters": {
+            "Jilly": "positive"
+        }
+    },
+    {
+        "story_id": 853,
+        "characters": {
+            "Frank": "positive",
+            "Penny": "positive",
+            "Bo": "positive"
+        }
+    },
+    {
+        "story_id": 854,
+        "characters": {
+            "John": "negative"
+        }
+    },
+    {
+        "story_id": 855,
+        "characters": {
+            "Spencer": "positive",
+            "Kenny": "positive"
+        }
+    },
+    {
+        "story_id": 856,
+        "characters": {
+            "Trisha": "negative"
+        }
+    },
+    {
+        "story_id": 857,
+        "characters": {
+            "Ben": "positive"
+        }
+    },
+    {
+        "story_id": 858,
+        "characters": {
+            "Rick": "positive"
+        }
+    },
+    {
+        "story_id": 859,
+        "characters": {
+            "Cara": "positive"
+        }
+    },
+    {
+        "story_id": 860,
+        "characters": {
+            "Eddie": "positive"
+        }
+    },
+    {
+        "story_id": 861,
+        "characters": {
+            "Alex": "positive"
+        }
+    },
+    {
+        "story_id": 862,
+        "characters": {
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 863,
+        "characters": {
+            "Lloyd": "positive"
+        }
+    },
+    {
+        "story_id": 864,
+        "characters": {
+            "Harry": "negative"
+        }
+    },
+    {
+        "story_id": 865,
+        "characters": {
+            "Robert": "positive",
+            "Jennifer": "positive"
+        }
+    },
+    {
+        "story_id": 866,
+        "characters": {
+            "i": "positive",
+            "brother": "positive"
+        }
+    },
+    {
+        "story_id": 867,
+        "characters": {
+            "Eric": "positive"
+        }
+    },
+    {
+        "story_id": 868,
+        "characters": {
+            "Max": "positive"
+        }
+    },
+    {
+        "story_id": 869,
+        "characters": {
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 870,
+        "characters": {
+            "Gordy": "positive"
+        }
+    },
+    {
+        "story_id": 871,
+        "characters": {
+            "Rick": "positive"
+        }
+    },
+    {
+        "story_id": 872,
+        "characters": {
+            "Bill": "positive"
+        }
+    },
+    {
+        "story_id": 873,
+        "characters": {
+            "Tom": "negative"
+        }
+    },
+    {
+        "story_id": 874,
+        "characters": {
+            "Earl": "negative"
+        }
+    },
+    {
+        "story_id": 875,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 876,
+        "characters": {
+            "Ben": "positive"
+        }
+    },
+    {
+        "story_id": 877,
+        "characters": {
+            "Jake": "negative"
+        }
+    },
+    {
+        "story_id": 878,
+        "characters": {
+            "Wesley": "positive"
+        }
+    },
+    {
+        "story_id": 879,
+        "characters": {
+            "Mario": "positive"
+        }
+    },
+    {
+        "story_id": 880,
+        "characters": {
+            "Eli": "positive"
+        }
+    },
+    {
+        "story_id": 881,
+        "characters": {
+            "Alex": "positive"
+        }
+    },
+    {
+        "story_id": 882,
+        "characters": {
+            "son": "positive"
+        }
+    },
+    {
+        "story_id": 883,
+        "characters": {
+            "Phil": "positive"
+        }
+    },
+    {
+        "story_id": 884,
+        "characters": {
+            "Curtis": "positive"
+        }
+    },
+    {
+        "story_id": 885,
+        "characters": {
+            "Neil": "positive"
+        }
+    },
+    {
+        "story_id": 886,
+        "characters": {
+            "Ray": "negative"
+        }
+    },
+    {
+        "story_id": 887,
+        "characters": {
+            "Larry": "positive"
+        }
+    },
+    {
+        "story_id": 888,
+        "characters": {
+            "Allen": "positive"
+        }
+    },
+    {
+        "story_id": 889,
+        "characters": {
+            "Darren": "negative"
+        }
+    },
+    {
+        "story_id": 890,
+        "characters": {
+            "Daniel": "negative"
+        }
+    },
+    {
+        "story_id": 891,
+        "characters": {
+            "Ed": "positive"
+        }
+    },
+    {
+        "story_id": 892,
+        "characters": {
+            "Joel": "positive"
+        }
+    },
+    {
+        "story_id": 893,
+        "characters": {
+            "Jim": "positive"
+        }
+    },
+    {
+        "story_id": 894,
+        "characters": {
+            "Paul": "negative"
+        }
+    },
+    {
+        "story_id": 895,
+        "characters": {
+            "Scott": "positive"
+        }
+    },
+    {
+        "story_id": 896,
+        "characters": {
+            "Ed": "negative"
+        }
+    },
+    {
+        "story_id": 897,
+        "characters": {
+            "Casey": "positive"
+        }
+    },
+    {
+        "story_id": 898,
+        "characters": {
+            "Tyler": "positive"
+        }
+    },
+    {
+        "story_id": 899,
+        "characters": {
+            "Danny": "positive"
+        }
+    },
+    {
+        "story_id": 900,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 901,
+        "characters": {
+            "Joe": "negative"
+        }
+    },
+    {
+        "story_id": 902,
+        "characters": {
+            "Tyler": "positive"
+        }
+    },
+    {
+        "story_id": 903,
+        "characters": {}
+    },
+    {
+        "story_id": 904,
+        "characters": {
+            "Jan": "positive"
+        }
+    },
+    {
+        "story_id": 905,
+        "characters": {
+            "Greg": "positive"
+        }
+    },
+    {
+        "story_id": 906,
+        "characters": {
+            "Joe": "positive"
+        }
+    },
+    {
+        "story_id": 907,
+        "characters": {
+            "Jamaal": "positive",
+            "Jamal": "positive"
+        }
+    },
+    {
+        "story_id": 908,
+        "characters": {
+            "Collin": "positive"
+        }
+    },
+    {
+        "story_id": 909,
+        "characters": {
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 910,
+        "characters": {
+            "Omar": "positive"
+        }
+    },
+    {
+        "story_id": 911,
+        "characters": {
+            "Ella": "positive"
+        }
+    },
+    {
+        "story_id": 912,
+        "characters": {
+            "friend": "positive",
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 913,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 914,
+        "characters": {
+            "George": "positive"
+        }
+    },
+    {
+        "story_id": 915,
+        "characters": {
+            "Jim": "positive"
+        }
+    },
+    {
+        "story_id": 916,
+        "characters": {
+            "Sal": "positive"
+        }
+    },
+    {
+        "story_id": 917,
+        "characters": {}
+    },
+    {
+        "story_id": 918,
+        "characters": {
+            "Doug": "negative"
+        }
+    },
+    {
+        "story_id": 919,
+        "characters": {
+            "Earl": "positive"
+        }
+    },
+    {
+        "story_id": 920,
+        "characters": {
+            "Connor": "negative"
+        }
+    },
+    {
+        "story_id": 921,
+        "characters": {
+            "Bob": "positive"
+        }
+    },
+    {
+        "story_id": 922,
+        "characters": {
+            "Joan": "positive"
+        }
+    },
+    {
+        "story_id": 923,
+        "characters": {
+            "Beth": "negative",
+            "Amy": "negative"
+        }
+    },
+    {
+        "story_id": 924,
+        "characters": {
+            "Hank": "positive"
+        }
+    },
+    {
+        "story_id": 925,
+        "characters": {
+            "Yao": "positive"
+        }
+    },
+    {
+        "story_id": 926,
+        "characters": {
+            "James": "positive"
+        }
+    },
+    {
+        "story_id": 927,
+        "characters": {
+            "Kathy": "positive"
+        }
+    },
+    {
+        "story_id": 928,
+        "characters": {
+            "Jarett": "positive",
+            "Tony": "positive"
+        }
+    },
+    {
+        "story_id": 929,
+        "characters": {
+            "Larry": "positive"
+        }
+    },
+    {
+        "story_id": 930,
+        "characters": {
+            "Greg": "positive"
+        }
+    },
+    {
+        "story_id": 931,
+        "characters": {
+            "Michael": "negative"
+        }
+    },
+    {
+        "story_id": 932,
+        "characters": {
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 933,
+        "characters": {
+            "Mel": "positive"
+        }
+    },
+    {
+        "story_id": 934,
+        "characters": {
+            "Oscar": "positive"
+        }
+    },
+    {
+        "story_id": 935,
+        "characters": {
+            "Tuie": "negative",
+            "Adam": "negative"
+        }
+    },
+    {
+        "story_id": 936,
+        "characters": {
+            "Tom": "positive"
+        }
+    },
+    {
+        "story_id": 937,
+        "characters": {
+            "Rocket": "positive",
+            "Jose": "positive"
+        }
+    },
+    {
+        "story_id": 938,
+        "characters": {
+            "Jamie": "positive"
+        }
+    },
+    {
+        "story_id": 939,
+        "characters": {
+            "Francis": "positive"
+        }
+    },
+    {
+        "story_id": 940,
+        "characters": {
+            "Bill": "positive"
+        }
+    },
+    {
+        "story_id": 941,
+        "characters": {
+            "Gordon": "positive"
+        }
+    },
+    {
+        "story_id": 942,
+        "characters": {
+            "Sarah": "positive",
+            "Hector": "positive"
+        }
+    },
+    {
+        "story_id": 943,
+        "characters": {
+            "Henry": "positive"
+        }
+    },
+    {
+        "story_id": 944,
+        "characters": {
+            "Henry": "negative"
+        }
+    },
+    {
+        "story_id": 945,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 946,
+        "characters": {
+            "Jill": "positive"
+        }
+    },
+    {
+        "story_id": 947,
+        "characters": {
+            "Hester": "positive"
+        }
+    },
+    {
+        "story_id": 948,
+        "characters": {
+            "Cara": "positive"
+        }
+    },
+    {
+        "story_id": 949,
+        "characters": {
+            "Louisa": "positive"
+        }
+    },
+    {
+        "story_id": 950,
+        "characters": {
+            "Sue": "positive"
+        }
+    },
+    {
+        "story_id": 951,
+        "characters": {
+            "Myla": "negative"
+        }
+    },
+    {
+        "story_id": 952,
+        "characters": {
+            "Margaret": "negative"
+        }
+    },
+    {
+        "story_id": 953,
+        "characters": {
+            "Kay": "positive"
+        }
+    },
+    {
+        "story_id": 954,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 955,
+        "characters": {
+            "Caitlin": "negative"
+        }
+    },
+    {
+        "story_id": 956,
+        "characters": {
+            "Katie": "positive"
+        }
+    },
+    {
+        "story_id": 957,
+        "characters": {
+            "Andrew": "positive"
+        }
+    },
+    {
+        "story_id": 958,
+        "characters": {
+            "Jim": "positive"
+        }
+    },
+    {
+        "story_id": 959,
+        "characters": {
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 960,
+        "characters": {
+            "Carl": "positive"
+        }
+    },
+    {
+        "story_id": 961,
+        "characters": {
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 962,
+        "characters": {
+            "Barry": "positive"
+        }
+    },
+    {
+        "story_id": 963,
+        "characters": {
+            "Jon": "positive"
+        }
+    },
+    {
+        "story_id": 964,
+        "characters": {
+            "Thomas": "negative"
+        }
+    },
+    {
+        "story_id": 965,
+        "characters": {
+            "Ray": "positive"
+        }
+    },
+    {
+        "story_id": 966,
+        "characters": {
+            "Cho": "positive"
+        }
+    },
+    {
+        "story_id": 967,
+        "characters": {
+            "Johnny": "positive"
+        }
+    },
+    {
+        "story_id": 968,
+        "characters": {
+            "Cody": "positive"
+        }
+    },
+    {
+        "story_id": 969,
+        "characters": {
+            "Eric": "positive"
+        }
+    },
+    {
+        "story_id": 970,
+        "characters": {
+            "Ashley": "positive"
+        }
+    },
+    {
+        "story_id": 971,
+        "characters": {
+            "Megan": "negative"
+        }
+    },
+    {
+        "story_id": 972,
+        "characters": {
+            "James": "negative"
+        }
+    },
+    {
+        "story_id": 973,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 974,
+        "characters": {
+            "Dan": "negative"
+        }
+    },
+    {
+        "story_id": 975,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 976,
+        "characters": {
+            "Tim": "negative"
+        }
+    },
+    {
+        "story_id": 977,
+        "characters": {}
+    },
+    {
+        "story_id": 978,
+        "characters": {
+            "Sandy": "positive",
+            "Theresa": "positive"
+        }
+    },
+    {
+        "story_id": 979,
+        "characters": {
+            "Humberto": "positive"
+        }
+    },
+    {
+        "story_id": 980,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 981,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 982,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 983,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 984,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 985,
+        "characters": {
+            "friend": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 986,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 987,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 988,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 989,
+        "characters": {
+            "friend": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 990,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 991,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 992,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 993,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 994,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 995,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 996,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 997,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 998,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 999,
+        "characters": {
+            "friend": "positive",
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 1000,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1001,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1002,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1003,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 1004,
+        "characters": {
+            "sister": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1005,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1006,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1007,
+        "characters": {
+            "girlfriend": "positive",
+            "i": "positive",
+            "boyfriend": "positive"
+        }
+    },
+    {
+        "story_id": 1008,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 1009,
+        "characters": {
+            "daughter": "positive",
+            "student": "positive",
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 1010,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 1011,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 1012,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1013,
+        "characters": {
+            "mother": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1014,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1015,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1016,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1017,
+        "characters": {
+            "friend": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1018,
+        "characters": {
+            "Mills": "positive"
+        }
+    },
+    {
+        "story_id": 1019,
+        "characters": {
+            "sister": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1020,
+        "characters": {
+            "i": "positive",
+            "brother": "positive"
+        }
+    },
+    {
+        "story_id": 1021,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1022,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1023,
+        "characters": {
+            "cousin": "positive",
+            "i": "positive",
+            "aunt": "positive"
+        }
+    },
+    {
+        "story_id": 1024,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1025,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1026,
+        "characters": {
+            "Brock": "positive"
+        }
+    },
+    {
+        "story_id": 1027,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1028,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 1029,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1030,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1031,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1032,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1033,
+        "characters": {
+            "Ida": "positive",
+            "Irene": "positive"
+        }
+    },
+    {
+        "story_id": 1034,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 1035,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1036,
+        "characters": {
+            "Nina": "negative"
+        }
+    },
+    {
+        "story_id": 1037,
+        "characters": {
+            "Larry": "positive"
+        }
+    },
+    {
+        "story_id": 1038,
+        "characters": {}
+    },
+    {
+        "story_id": 1039,
+        "characters": {}
+    },
+    {
+        "story_id": 1040,
+        "characters": {
+            "Phil": "positive"
+        }
+    },
+    {
+        "story_id": 1041,
+        "characters": {
+            "Cindy": "positive"
+        }
+    },
+    {
+        "story_id": 1042,
+        "characters": {
+            "son": "positive"
+        }
+    },
+    {
+        "story_id": 1043,
+        "characters": {
+            "Meghan": "positive"
+        }
+    },
+    {
+        "story_id": 1044,
+        "characters": {
+            "Ed": "positive"
+        }
+    },
+    {
+        "story_id": 1045,
+        "characters": {
+            "Nathaniel": "positive"
+        }
+    },
+    {
+        "story_id": 1046,
+        "characters": {
+            "Jessie": "positive",
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 1047,
+        "characters": {
+            "Noah": "positive"
+        }
+    },
+    {
+        "story_id": 1048,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 1049,
+        "characters": {
+            "Jessica": "positive"
+        }
+    },
+    {
+        "story_id": 1050,
+        "characters": {}
+    },
+    {
+        "story_id": 1051,
+        "characters": {
+            "Opal": "positive"
+        }
+    },
+    {
+        "story_id": 1052,
+        "characters": {
+            "Janet": "negative"
+        }
+    },
+    {
+        "story_id": 1053,
+        "characters": {
+            "Rob": "positive"
+        }
+    },
+    {
+        "story_id": 1054,
+        "characters": {
+            "Mary": "positive"
+        }
+    },
+    {
+        "story_id": 1055,
+        "characters": {
+            "Paulo": "positive"
+        }
+    },
+    {
+        "story_id": 1056,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1057,
+        "characters": {
+            "Ed": "positive"
+        }
+    },
+    {
+        "story_id": 1058,
+        "characters": {
+            "sister": "positive",
+            "waitress": "positive"
+        }
+    },
+    {
+        "story_id": 1059,
+        "characters": {}
+    },
+    {
+        "story_id": 1060,
+        "characters": {
+            "teacher": "positive"
+        }
+    },
+    {
+        "story_id": 1061,
+        "characters": {}
+    },
+    {
+        "story_id": 1062,
+        "characters": {
+            "Timothy": "positive"
+        }
+    },
+    {
+        "story_id": 1063,
+        "characters": {
+            "Ray": "positive"
+        }
+    },
+    {
+        "story_id": 1064,
+        "characters": {
+            "Sarah": "positive"
+        }
+    },
+    {
+        "story_id": 1065,
+        "characters": {
+            "Ed": "positive"
+        }
+    },
+    {
+        "story_id": 1066,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 1067,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1068,
+        "characters": {
+            "Kelly": "positive"
+        }
+    },
+    {
+        "story_id": 1069,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1070,
+        "characters": {
+            "Julie": "positive",
+            "Mariko": "positive"
+        }
+    },
+    {
+        "story_id": 1071,
+        "characters": {
+            "Carla": "negative"
+        }
+    },
+    {
+        "story_id": 1072,
+        "characters": {
+            "Neil": "positive"
+        }
+    },
+    {
+        "story_id": 1073,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1074,
+        "characters": {
+            "Jack": "positive"
+        }
+    },
+    {
+        "story_id": 1075,
+        "characters": {
+            "Jackson": "positive"
+        }
+    },
+    {
+        "story_id": 1076,
+        "characters": {
+            "Jake": "positive"
+        }
+    },
+    {
+        "story_id": 1077,
+        "characters": {
+            "James": "negative"
+        }
+    },
+    {
+        "story_id": 1078,
+        "characters": {
+            "James": "negative"
+        }
+    },
+    {
+        "story_id": 1079,
+        "characters": {
+            "Lucy": "positive",
+            "James": "positive"
+        }
+    },
+    {
+        "story_id": 1080,
+        "characters": {
+            "Jane": "positive"
+        }
+    },
+    {
+        "story_id": 1081,
+        "characters": {
+            "Jeff": "positive"
+        }
+    },
+    {
+        "story_id": 1082,
+        "characters": {
+            "Jen": "negative"
+        }
+    },
+    {
+        "story_id": 1083,
+        "characters": {
+            "Jenna": "positive"
+        }
+    },
+    {
+        "story_id": 1084,
+        "characters": {
+            "Jerry": "positive"
+        }
+    },
+    {
+        "story_id": 1085,
+        "characters": {
+            "Anna": "negative",
+            "Jessica": "negative"
+        }
+    },
+    {
+        "story_id": 1086,
+        "characters": {
+            "Jill": "positive"
+        }
+    },
+    {
+        "story_id": 1087,
+        "characters": {
+            "Jim": "positive"
+        }
+    },
+    {
+        "story_id": 1088,
+        "characters": {
+            "Jo": "positive"
+        }
+    },
+    {
+        "story_id": 1089,
+        "characters": {
+            "Joe": "positive"
+        }
+    },
+    {
+        "story_id": 1090,
+        "characters": {
+            "Joe": "positive"
+        }
+    },
+    {
+        "story_id": 1091,
+        "characters": {
+            "Joey": "positive",
+            "Mickey Mouse": "positive",
+            "Mickey": "positive"
+        }
+    },
+    {
+        "story_id": 1092,
+        "characters": {
+            "Kevin": "positive",
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 1093,
+        "characters": {
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 1094,
+        "characters": {
+            "Johnny": "positive"
+        }
+    },
+    {
+        "story_id": 1095,
+        "characters": {
+            "Jon": "positive"
+        }
+    },
+    {
+        "story_id": 1096,
+        "characters": {
+            "Jordan": "positive",
+            "Sally": "positive"
+        }
+    },
+    {
+        "story_id": 1097,
+        "characters": {
+            "Jordyn": "positive"
+        }
+    },
+    {
+        "story_id": 1098,
+        "characters": {
+            "Julie": "positive"
+        }
+    },
+    {
+        "story_id": 1099,
+        "characters": {
+            "June": "positive"
+        }
+    },
+    {
+        "story_id": 1100,
+        "characters": {
+            "Deb": "positive",
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 1101,
+        "characters": {
+            "Kate": "negative"
+        }
+    },
+    {
+        "story_id": 1102,
+        "characters": {
+            "Kaylie": "positive",
+            "Martin": "positive"
+        }
+    },
+    {
+        "story_id": 1103,
+        "characters": {
+            "Kelly": "positive"
+        }
+    },
+    {
+        "story_id": 1104,
+        "characters": {
+            "Kevin": "negative"
+        }
+    },
+    {
+        "story_id": 1105,
+        "characters": {
+            "Kim": "positive"
+        }
+    },
+    {
+        "story_id": 1106,
+        "characters": {
+            "Kristie": "positive"
+        }
+    },
+    {
+        "story_id": 1107,
+        "characters": {
+            "Yohanna": "negative",
+            "John": "negative"
+        }
+    },
+    {
+        "story_id": 1108,
+        "characters": {
+            "Laura": "positive"
+        }
+    },
+    {
+        "story_id": 1109,
+        "characters": {
+            "Lenny": "positive"
+        }
+    },
+    {
+        "story_id": 1110,
+        "characters": {}
+    },
+    {
+        "story_id": 1111,
+        "characters": {
+            "Lindsey": "negative"
+        }
+    },
+    {
+        "story_id": 1112,
+        "characters": {
+            "Sue": "positive"
+        }
+    },
+    {
+        "story_id": 1113,
+        "characters": {
+            "Miles": "positive"
+        }
+    },
+    {
+        "story_id": 1114,
+        "characters": {
+            "Peter": "positive"
+        }
+    },
+    {
+        "story_id": 1115,
+        "characters": {
+            "Lucy": "positive"
+        }
+    },
+    {
+        "story_id": 1116,
+        "characters": {
+            "Max": "positive",
+            "Maddie": "negative"
+        }
+    },
+    {
+        "story_id": 1117,
+        "characters": {
+            "Mag": "positive"
+        }
+    },
+    {
+        "story_id": 1118,
+        "characters": {
+            "Mark": "positive",
+            "Carol": "positive"
+        }
+    },
+    {
+        "story_id": 1119,
+        "characters": {
+            "Brad": "negative",
+            "Matthew": "negative"
+        }
+    },
+    {
+        "story_id": 1120,
+        "characters": {
+            "Michael": "negative"
+        }
+    },
+    {
+        "story_id": 1121,
+        "characters": {}
+    },
+    {
+        "story_id": 1122,
+        "characters": {
+            "Ben": "positive"
+        }
+    },
+    {
+        "story_id": 1123,
+        "characters": {
+            "Morgan": "positive",
+            "Timothy": "positive"
+        }
+    },
+    {
+        "story_id": 1124,
+        "characters": {
+            "brother": "negative",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1125,
+        "characters": {
+            "i": "positive",
+            "brother": "positive"
+        }
+    },
+    {
+        "story_id": 1126,
+        "characters": {
+            "brother": "negative",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1127,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1128,
+        "characters": {
+            "friend": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1129,
+        "characters": {
+            "friend": "positive"
+        }
+    },
+    {
+        "story_id": 1130,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1131,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1132,
+        "characters": {
+            "Neil": "positive"
+        }
+    },
+    {
+        "story_id": 1133,
+        "characters": {
+            "Neil": "positive"
+        }
+    },
+    {
+        "story_id": 1134,
+        "characters": {
+            "Greg": "positive"
+        }
+    },
+    {
+        "story_id": 1135,
+        "characters": {
+            "Nell": "positive"
+        }
+    },
+    {
+        "story_id": 1136,
+        "characters": {
+            "Nelly": "positive"
+        }
+    },
+    {
+        "story_id": 1137,
+        "characters": {}
+    },
+    {
+        "story_id": 1138,
+        "characters": {
+            "Mike": "positive"
+        }
+    },
+    {
+        "story_id": 1139,
+        "characters": {
+            "Jack": "positive",
+            "Earl": "negative"
+        }
+    },
+    {
+        "story_id": 1140,
+        "characters": {
+            "teacher": "positive"
+        }
+    },
+    {
+        "story_id": 1141,
+        "characters": {
+            "Rachel": "positive"
+        }
+    },
+    {
+        "story_id": 1142,
+        "characters": {
+            "Ralph": "negative"
+        }
+    },
+    {
+        "story_id": 1143,
+        "characters": {
+            "Rachel": "positive"
+        }
+    },
+    {
+        "story_id": 1144,
+        "characters": {
+            "Bob": "positive"
+        }
+    },
+    {
+        "story_id": 1145,
+        "characters": {
+            "Andy": "negative",
+            "Naomi": "negative"
+        }
+    },
+    {
+        "story_id": 1146,
+        "characters": {
+            "Dan": "positive"
+        }
+    },
+    {
+        "story_id": 1147,
+        "characters": {
+            "Emily": "positive"
+        }
+    },
+    {
+        "story_id": 1148,
+        "characters": {
+            "Sue": "positive",
+            "Bob": "positive"
+        }
+    },
+    {
+        "story_id": 1149,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1150,
+        "characters": {}
+    },
+    {
+        "story_id": 1151,
+        "characters": {
+            "Ross": "positive"
+        }
+    },
+    {
+        "story_id": 1152,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1153,
+        "characters": {
+            "Kay": "positive"
+        }
+    },
+    {
+        "story_id": 1154,
+        "characters": {
+            "Jerry": "positive"
+        }
+    },
+    {
+        "story_id": 1155,
+        "characters": {
+            "Craig": "positive"
+        }
+    },
+    {
+        "story_id": 1156,
+        "characters": {
+            "Jerry": "positive"
+        }
+    },
+    {
+        "story_id": 1157,
+        "characters": {}
+    },
+    {
+        "story_id": 1158,
+        "characters": {
+            "Bob": "positive"
+        }
+    },
+    {
+        "story_id": 1159,
+        "characters": {
+            "Kevin": "positive"
+        }
+    },
+    {
+        "story_id": 1160,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1161,
+        "characters": {
+            "Sunny": "positive"
+        }
+    },
+    {
+        "story_id": 1162,
+        "characters": {
+            "Pam": "positive"
+        }
+    },
+    {
+        "story_id": 1163,
+        "characters": {
+            "Pam": "negative"
+        }
+    },
+    {
+        "story_id": 1164,
+        "characters": {
+            "Mike": "positive",
+            "Pam": "positive",
+            "Jon": "positive"
+        }
+    },
+    {
+        "story_id": 1165,
+        "characters": {
+            "Pat": "positive"
+        }
+    },
+    {
+        "story_id": 1166,
+        "characters": {
+            "Pat": "positive"
+        }
+    },
+    {
+        "story_id": 1167,
+        "characters": {
+            "Ben": "negative",
+            "Pat": "negative"
+        }
+    },
+    {
+        "story_id": 1168,
+        "characters": {
+            "Penny": "positive"
+        }
+    },
+    {
+        "story_id": 1169,
+        "characters": {
+            "Andrea": "positive"
+        }
+    },
+    {
+        "story_id": 1170,
+        "characters": {
+            "i": "positive",
+            "artist": "positive"
+        }
+    },
+    {
+        "story_id": 1171,
+        "characters": {
+            "Rachel": "positive"
+        }
+    },
+    {
+        "story_id": 1172,
+        "characters": {
+            "Peter": "positive"
+        }
+    },
+    {
+        "story_id": 1173,
+        "characters": {
+            "Tom": "positive",
+            "Peyton": "positive"
+        }
+    },
+    {
+        "story_id": 1174,
+        "characters": {
+            "Randy": "positive"
+        }
+    },
+    {
+        "story_id": 1175,
+        "characters": {
+            "Ray": "positive"
+        }
+    },
+    {
+        "story_id": 1176,
+        "characters": {
+            "Ray": "negative"
+        }
+    },
+    {
+        "story_id": 1177,
+        "characters": {
+            "Rene": "positive",
+            "Jack": "positive"
+        }
+    },
+    {
+        "story_id": 1178,
+        "characters": {
+            "Rex": "positive"
+        }
+    },
+    {
+        "story_id": 1179,
+        "characters": {
+            "Rick": "positive"
+        }
+    },
+    {
+        "story_id": 1180,
+        "characters": {
+            "Richard": "positive",
+            "Micah": "positive"
+        }
+    },
+    {
+        "story_id": 1181,
+        "characters": {
+            "Rory": "positive"
+        }
+    },
+    {
+        "story_id": 1182,
+        "characters": {
+            "Sally": "positive"
+        }
+    },
+    {
+        "story_id": 1183,
+        "characters": {
+            "Sally": "negative"
+        }
+    },
+    {
+        "story_id": 1184,
+        "characters": {
+            "Sally": "positive"
+        }
+    },
+    {
+        "story_id": 1185,
+        "characters": {
+            "Sam": "negative"
+        }
+    },
+    {
+        "story_id": 1186,
+        "characters": {
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 1187,
+        "characters": {
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 1188,
+        "characters": {
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 1189,
+        "characters": {
+            "Samantha": "negative"
+        }
+    },
+    {
+        "story_id": 1190,
+        "characters": {
+            "Samantha": "positive"
+        }
+    },
+    {
+        "story_id": 1191,
+        "characters": {
+            "Sandy": "negative"
+        }
+    },
+    {
+        "story_id": 1192,
+        "characters": {
+            "Sara": "positive"
+        }
+    },
+    {
+        "story_id": 1193,
+        "characters": {
+            "Sarah": "negative"
+        }
+    },
+    {
+        "story_id": 1194,
+        "characters": {
+            "Sean": "negative"
+        }
+    },
+    {
+        "story_id": 1195,
+        "characters": {
+            "Seth": "positive"
+        }
+    },
+    {
+        "story_id": 1196,
+        "characters": {
+            "Shawn": "positive"
+        }
+    },
+    {
+        "story_id": 1197,
+        "characters": {
+            "Sue": "positive",
+            "Robert": "positive"
+        }
+    },
+    {
+        "story_id": 1198,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 1199,
+        "characters": {
+            "Kim": "positive"
+        }
+    },
+    {
+        "story_id": 1200,
+        "characters": {
+            "Sally": "positive"
+        }
+    },
+    {
+        "story_id": 1201,
+        "characters": {
+            "Lacey": "positive"
+        }
+    },
+    {
+        "story_id": 1202,
+        "characters": {
+            "Hailey": "positive"
+        }
+    },
+    {
+        "story_id": 1203,
+        "characters": {
+            "Sara": "positive"
+        }
+    },
+    {
+        "story_id": 1204,
+        "characters": {
+            "Sheena": "negative"
+        }
+    },
+    {
+        "story_id": 1205,
+        "characters": {
+            "Aya": "positive"
+        }
+    },
+    {
+        "story_id": 1206,
+        "characters": {
+            "Nina": "positive"
+        }
+    },
+    {
+        "story_id": 1207,
+        "characters": {
+            "Deirdra": "positive",
+            "BB King": "positive",
+            "Taj Mahal": "positive"
+        }
+    },
+    {
+        "story_id": 1208,
+        "characters": {
+            "Nina": "positive"
+        }
+    },
+    {
+        "story_id": 1209,
+        "characters": {
+            "Tina": "positive"
+        }
+    },
+    {
+        "story_id": 1210,
+        "characters": {
+            "Maria": "positive"
+        }
+    },
+    {
+        "story_id": 1211,
+        "characters": {
+            "i": "positive",
+            "friend": "positive",
+            "teacher": "positive"
+        }
+    },
+    {
+        "story_id": 1212,
+        "characters": {
+            "Kimmi": "positive"
+        }
+    },
+    {
+        "story_id": 1213,
+        "characters": {
+            "Aidan": "positive"
+        }
+    },
+    {
+        "story_id": 1214,
+        "characters": {
+            "Lucy": "negative"
+        }
+    },
+    {
+        "story_id": 1215,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1216,
+        "characters": {
+            "Shannon": "negative"
+        }
+    },
+    {
+        "story_id": 1217,
+        "characters": {
+            "Jenny": "positive"
+        }
+    },
+    {
+        "story_id": 1218,
+        "characters": {
+            "Molly": "positive"
+        }
+    },
+    {
+        "story_id": 1219,
+        "characters": {
+            "Amy": "positive"
+        }
+    },
+    {
+        "story_id": 1220,
+        "characters": {
+            "Kelly": "positive"
+        }
+    },
+    {
+        "story_id": 1221,
+        "characters": {
+            "Dana": "positive"
+        }
+    },
+    {
+        "story_id": 1222,
+        "characters": {
+            "Sue": "negative"
+        }
+    },
+    {
+        "story_id": 1223,
+        "characters": {
+            "Bill": "positive",
+            "Jenny": "positive"
+        }
+    },
+    {
+        "story_id": 1224,
+        "characters": {
+            "Andy": "negative"
+        }
+    },
+    {
+        "story_id": 1225,
+        "characters": {
+            "Katie": "negative"
+        }
+    },
+    {
+        "story_id": 1226,
+        "characters": {
+            "Sara": "positive"
+        }
+    },
+    {
+        "story_id": 1227,
+        "characters": {
+            "i": "positive",
+            "daughter": "positive"
+        }
+    },
+    {
+        "story_id": 1228,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1229,
+        "characters": {
+            "Bethany": "positive"
+        }
+    },
+    {
+        "story_id": 1230,
+        "characters": {
+            "Cassie": "positive"
+        }
+    },
+    {
+        "story_id": 1231,
+        "characters": {
+            "Samantha": "positive"
+        }
+    },
+    {
+        "story_id": 1232,
+        "characters": {
+            "Ali": "positive"
+        }
+    },
+    {
+        "story_id": 1233,
+        "characters": {
+            "Dawn": "negative",
+            "Cora": "positive"
+        }
+    },
+    {
+        "story_id": 1234,
+        "characters": {
+            "sister": "positive"
+        }
+    },
+    {
+        "story_id": 1235,
+        "characters": {
+            "sister": "positive"
+        }
+    },
+    {
+        "story_id": 1236,
+        "characters": {
+            "Susan": "positive"
+        }
+    },
+    {
+        "story_id": 1237,
+        "characters": {
+            "Jane": "negative"
+        }
+    },
+    {
+        "story_id": 1238,
+        "characters": {
+            "nurse": "positive"
+        }
+    },
+    {
+        "story_id": 1239,
+        "characters": {
+            "Jessica": "positive"
+        }
+    },
+    {
+        "story_id": 1240,
+        "characters": {
+            "Jamie": "positive"
+        }
+    },
+    {
+        "story_id": 1241,
+        "characters": {}
+    },
+    {
+        "story_id": 1242,
+        "characters": {
+            "Aya": "positive"
+        }
+    },
+    {
+        "story_id": 1243,
+        "characters": {
+            "Gina": "negative",
+            "Mary": "positive"
+        }
+    },
+    {
+        "story_id": 1244,
+        "characters": {
+            "Charles": "negative",
+            "Sherry": "positive"
+        }
+    },
+    {
+        "story_id": 1245,
+        "characters": {
+            "Tina": "positive",
+            "Todd": "positive"
+        }
+    },
+    {
+        "story_id": 1246,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 1247,
+        "characters": {
+            "Jennifer": "negative"
+        }
+    },
+    {
+        "story_id": 1248,
+        "characters": {
+            "daughter": "positive"
+        }
+    },
+    {
+        "story_id": 1249,
+        "characters": {}
+    },
+    {
+        "story_id": 1250,
+        "characters": {
+            "Hannah": "positive"
+        }
+    },
+    {
+        "story_id": 1251,
+        "characters": {
+            "Sue": "negative"
+        }
+    },
+    {
+        "story_id": 1252,
+        "characters": {
+            "Natalie": "negative"
+        }
+    },
+    {
+        "story_id": 1253,
+        "characters": {
+            "Maya": "positive"
+        }
+    },
+    {
+        "story_id": 1254,
+        "characters": {
+            "Rachel": "negative"
+        }
+    },
+    {
+        "story_id": 1255,
+        "characters": {
+            "Felicia": "negative"
+        }
+    },
+    {
+        "story_id": 1256,
+        "characters": {
+            "Tammy": "positive"
+        }
+    },
+    {
+        "story_id": 1257,
+        "characters": {
+            "Sue": "negative",
+            "Cara": "negative"
+        }
+    },
+    {
+        "story_id": 1258,
+        "characters": {
+            "Brittany": "positive"
+        }
+    },
+    {
+        "story_id": 1259,
+        "characters": {
+            "Martha": "positive"
+        }
+    },
+    {
+        "story_id": 1260,
+        "characters": {
+            "Amy": "positive"
+        }
+    },
+    {
+        "story_id": 1261,
+        "characters": {
+            "Avery": "positive"
+        }
+    },
+    {
+        "story_id": 1262,
+        "characters": {
+            "Aspen": "positive"
+        }
+    },
+    {
+        "story_id": 1263,
+        "characters": {
+            "Tia": "negative"
+        }
+    },
+    {
+        "story_id": 1264,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1265,
+        "characters": {
+            "Linda": "positive"
+        }
+    },
+    {
+        "story_id": 1266,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 1267,
+        "characters": {
+            "Debbie": "positive"
+        }
+    },
+    {
+        "story_id": 1268,
+        "characters": {
+            "Vianna": "positive"
+        }
+    },
+    {
+        "story_id": 1269,
+        "characters": {
+            "Jane": "negative"
+        }
+    },
+    {
+        "story_id": 1270,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1271,
+        "characters": {
+            "Jill": "positive"
+        }
+    },
+    {
+        "story_id": 1272,
+        "characters": {
+            "Missy": "positive"
+        }
+    },
+    {
+        "story_id": 1273,
+        "characters": {
+            "Ana": "positive"
+        }
+    },
+    {
+        "story_id": 1274,
+        "characters": {
+            "Blanche": "negative"
+        }
+    },
+    {
+        "story_id": 1275,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 1276,
+        "characters": {}
+    },
+    {
+        "story_id": 1277,
+        "characters": {
+            "Carly": "positive"
+        }
+    },
+    {
+        "story_id": 1278,
+        "characters": {
+            "Mary": "positive"
+        }
+    },
+    {
+        "story_id": 1279,
+        "characters": {
+            "Cindy": "positive"
+        }
+    },
+    {
+        "story_id": 1280,
+        "characters": {
+            "Stephanie": "negative"
+        }
+    },
+    {
+        "story_id": 1281,
+        "characters": {}
+    },
+    {
+        "story_id": 1282,
+        "characters": {
+            "Jerry": "positive",
+            "Stacey": "positive"
+        }
+    },
+    {
+        "story_id": 1283,
+        "characters": {
+            "Todd": "positive"
+        }
+    },
+    {
+        "story_id": 1284,
+        "characters": {
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 1285,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 1286,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 1287,
+        "characters": {
+            "Gina": "negative"
+        }
+    },
+    {
+        "story_id": 1288,
+        "characters": {
+            "Jolene": "negative"
+        }
+    },
+    {
+        "story_id": 1289,
+        "characters": {
+            "Jane": "negative"
+        }
+    },
+    {
+        "story_id": 1290,
+        "characters": {
+            "Lira": "positive"
+        }
+    },
+    {
+        "story_id": 1291,
+        "characters": {
+            "waiter": "positive"
+        }
+    },
+    {
+        "story_id": 1292,
+        "characters": {
+            "Jack": "positive",
+            "Jane": "negative"
+        }
+    },
+    {
+        "story_id": 1293,
+        "characters": {
+            "Candy": "negative"
+        }
+    },
+    {
+        "story_id": 1294,
+        "characters": {
+            "Molly": "positive"
+        }
+    },
+    {
+        "story_id": 1295,
+        "characters": {
+            "Ella": "positive"
+        }
+    },
+    {
+        "story_id": 1296,
+        "characters": {
+            "Ashley": "positive",
+            "Becky": "positive"
+        }
+    },
+    {
+        "story_id": 1297,
+        "characters": {
+            "Ela": "positive"
+        }
+    },
+    {
+        "story_id": 1298,
+        "characters": {
+            "Agatha": "positive"
+        }
+    },
+    {
+        "story_id": 1299,
+        "characters": {
+            "Yasmine": "positive"
+        }
+    },
+    {
+        "story_id": 1300,
+        "characters": {
+            "Cindy": "positive",
+            "Laura": "positive"
+        }
+    },
+    {
+        "story_id": 1301,
+        "characters": {
+            "Trudy": "positive"
+        }
+    },
+    {
+        "story_id": 1302,
+        "characters": {
+            "girlfriend": "negative",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1303,
+        "characters": {
+            "Fido": "negative",
+            "Sheila": "positive"
+        }
+    },
+    {
+        "story_id": 1304,
+        "characters": {
+            "George": "positive"
+        }
+    },
+    {
+        "story_id": 1305,
+        "characters": {
+            "Tiny": "positive",
+            "Simon": "negative"
+        }
+    },
+    {
+        "story_id": 1306,
+        "characters": {
+            "Hank": "positive"
+        }
+    },
+    {
+        "story_id": 1307,
+        "characters": {
+            "Mike": "positive"
+        }
+    },
+    {
+        "story_id": 1308,
+        "characters": {
+            "Jess": "positive"
+        }
+    },
+    {
+        "story_id": 1309,
+        "characters": {
+            "Lisa": "positive"
+        }
+    },
+    {
+        "story_id": 1310,
+        "characters": {
+            "Jill": "positive",
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 1311,
+        "characters": {
+            "Tim": "positive",
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 1312,
+        "characters": {
+            "Lynn": "positive"
+        }
+    },
+    {
+        "story_id": 1313,
+        "characters": {
+            "Jenny": "positive"
+        }
+    },
+    {
+        "story_id": 1314,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1315,
+        "characters": {
+            "Aya": "positive"
+        }
+    },
+    {
+        "story_id": 1316,
+        "characters": {
+            "Anne": "positive"
+        }
+    },
+    {
+        "story_id": 1317,
+        "characters": {
+            "Kimmy": "positive"
+        }
+    },
+    {
+        "story_id": 1318,
+        "characters": {
+            "Neil": "negative"
+        }
+    },
+    {
+        "story_id": 1319,
+        "characters": {
+            "Alfred": "negative"
+        }
+    },
+    {
+        "story_id": 1320,
+        "characters": {}
+    },
+    {
+        "story_id": 1321,
+        "characters": {
+            "Brandon": "positive"
+        }
+    },
+    {
+        "story_id": 1322,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 1323,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1324,
+        "characters": {
+            "Stacey": "positive"
+        }
+    },
+    {
+        "story_id": 1325,
+        "characters": {
+            "Susan": "negative"
+        }
+    },
+    {
+        "story_id": 1326,
+        "characters": {
+            "Susie": "negative"
+        }
+    },
+    {
+        "story_id": 1327,
+        "characters": {
+            "Taj": "positive"
+        }
+    },
+    {
+        "story_id": 1328,
+        "characters": {
+            "Tara": "positive"
+        }
+    },
+    {
+        "story_id": 1329,
+        "characters": {
+            "Tara": "negative"
+        }
+    },
+    {
+        "story_id": 1330,
+        "characters": {
+            "Ted": "positive"
+        }
+    },
+    {
+        "story_id": 1331,
+        "characters": {
+            "Maddie": "positive"
+        }
+    },
+    {
+        "story_id": 1332,
+        "characters": {
+            "Kelly": "negative"
+        }
+    },
+    {
+        "story_id": 1333,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1334,
+        "characters": {
+            "Kelly": "positive"
+        }
+    },
+    {
+        "story_id": 1335,
+        "characters": {
+            "i": "negative",
+            "doctor": "positive"
+        }
+    },
+    {
+        "story_id": 1336,
+        "characters": {
+            "Ben": "negative"
+        }
+    },
+    {
+        "story_id": 1337,
+        "characters": {
+            "Tom": "negative"
+        }
+    },
+    {
+        "story_id": 1338,
+        "characters": {
+            "Amy": "positive"
+        }
+    },
+    {
+        "story_id": 1339,
+        "characters": {
+            "Francis": "positive"
+        }
+    },
+    {
+        "story_id": 1340,
+        "characters": {
+            "Billy": "positive"
+        }
+    },
+    {
+        "story_id": 1341,
+        "characters": {
+            "Fred": "positive"
+        }
+    },
+    {
+        "story_id": 1342,
+        "characters": {
+            "Pam": "positive"
+        }
+    },
+    {
+        "story_id": 1343,
+        "characters": {}
+    },
+    {
+        "story_id": 1344,
+        "characters": {
+            "Jack": "positive"
+        }
+    },
+    {
+        "story_id": 1345,
+        "characters": {
+            "Ed": "positive"
+        }
+    },
+    {
+        "story_id": 1346,
+        "characters": {
+            "Harold": "positive"
+        }
+    },
+    {
+        "story_id": 1347,
+        "characters": {}
+    },
+    {
+        "story_id": 1348,
+        "characters": {
+            "Ray": "negative"
+        }
+    },
+    {
+        "story_id": 1349,
+        "characters": {
+            "Bill": "negative"
+        }
+    },
+    {
+        "story_id": 1350,
+        "characters": {
+            "Stanley": "positive"
+        }
+    },
+    {
+        "story_id": 1351,
+        "characters": {
+            "Greg": "positive",
+            "Kate": "positive"
+        }
+    },
+    {
+        "story_id": 1352,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1353,
+        "characters": {
+            "Erica": "positive"
+        }
+    },
+    {
+        "story_id": 1354,
+        "characters": {}
+    },
+    {
+        "story_id": 1355,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1356,
+        "characters": {
+            "Kori": "positive"
+        }
+    },
+    {
+        "story_id": 1357,
+        "characters": {
+            "Theodore": "positive"
+        }
+    },
+    {
+        "story_id": 1358,
+        "characters": {
+            "Johnny": "negative"
+        }
+    },
+    {
+        "story_id": 1359,
+        "characters": {}
+    },
+    {
+        "story_id": 1360,
+        "characters": {
+            "Tam": "positive",
+            "Sal": "positive",
+            "Saul": "positive"
+        }
+    },
+    {
+        "story_id": 1361,
+        "characters": {}
+    },
+    {
+        "story_id": 1362,
+        "characters": {}
+    },
+    {
+        "story_id": 1363,
+        "characters": {
+            "Josh": "positive"
+        }
+    },
+    {
+        "story_id": 1364,
+        "characters": {
+            "Mark": "negative"
+        }
+    },
+    {
+        "story_id": 1365,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1366,
+        "characters": {
+            "Bob": "negative"
+        }
+    },
+    {
+        "story_id": 1367,
+        "characters": {
+            "Penny": "positive"
+        }
+    },
+    {
+        "story_id": 1368,
+        "characters": {
+            "Pat": "negative"
+        }
+    },
+    {
+        "story_id": 1369,
+        "characters": {
+            "Ella": "negative"
+        }
+    },
+    {
+        "story_id": 1370,
+        "characters": {
+            "Malcolm": "positive"
+        }
+    },
+    {
+        "story_id": 1371,
+        "characters": {
+            "Franny": "positive",
+            "Sal": "positive"
+        }
+    },
+    {
+        "story_id": 1372,
+        "characters": {}
+    },
+    {
+        "story_id": 1373,
+        "characters": {
+            "son": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1374,
+        "characters": {}
+    },
+    {
+        "story_id": 1375,
+        "characters": {
+            "Jimmy": "positive",
+            "Brian": "positive"
+        }
+    },
+    {
+        "story_id": 1376,
+        "characters": {
+            "Epps": "positive"
+        }
+    },
+    {
+        "story_id": 1377,
+        "characters": {
+            "Ana": "positive"
+        }
+    },
+    {
+        "story_id": 1378,
+        "characters": {}
+    },
+    {
+        "story_id": 1379,
+        "characters": {}
+    },
+    {
+        "story_id": 1380,
+        "characters": {
+            "Jolene": "positive"
+        }
+    },
+    {
+        "story_id": 1381,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 1382,
+        "characters": {
+            "Deb": "positive"
+        }
+    },
+    {
+        "story_id": 1383,
+        "characters": {
+            "Remy": "positive"
+        }
+    },
+    {
+        "story_id": 1384,
+        "characters": {
+            "Lori": "negative"
+        }
+    },
+    {
+        "story_id": 1385,
+        "characters": {
+            "Ruth": "positive",
+            "Jane": "positive",
+            "Gina": "negative"
+        }
+    },
+    {
+        "story_id": 1386,
+        "characters": {
+            "friend": "positive"
+        }
+    },
+    {
+        "story_id": 1387,
+        "characters": {
+            "Ned": "positive"
+        }
+    },
+    {
+        "story_id": 1388,
+        "characters": {
+            "Sally": "positive"
+        }
+    },
+    {
+        "story_id": 1389,
+        "characters": {
+            "Andy": "positive",
+            "Mark": "positive"
+        }
+    },
+    {
+        "story_id": 1390,
+        "characters": {
+            "Martina": "positive"
+        }
+    },
+    {
+        "story_id": 1391,
+        "characters": {
+            "Erica": "positive"
+        }
+    },
+    {
+        "story_id": 1392,
+        "characters": {
+            "Daniel": "positive"
+        }
+    },
+    {
+        "story_id": 1393,
+        "characters": {
+            "Ron": "positive"
+        }
+    },
+    {
+        "story_id": 1394,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1395,
+        "characters": {
+            "Ted": "positive"
+        }
+    },
+    {
+        "story_id": 1396,
+        "characters": {
+            "Sal": "positive"
+        }
+    },
+    {
+        "story_id": 1397,
+        "characters": {}
+    },
+    {
+        "story_id": 1398,
+        "characters": {
+            "Amy": "positive"
+        }
+    },
+    {
+        "story_id": 1399,
+        "characters": {}
+    },
+    {
+        "story_id": 1400,
+        "characters": {
+            "Gina": "negative"
+        }
+    },
+    {
+        "story_id": 1401,
+        "characters": {
+            "Dave": "positive",
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 1402,
+        "characters": {
+            "Petey": "positive"
+        }
+    },
+    {
+        "story_id": 1403,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1404,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1405,
+        "characters": {
+            "Lars": "positive"
+        }
+    },
+    {
+        "story_id": 1406,
+        "characters": {
+            "Jasper": "positive"
+        }
+    },
+    {
+        "story_id": 1407,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1408,
+        "characters": {
+            "Tim": "negative"
+        }
+    },
+    {
+        "story_id": 1409,
+        "characters": {
+            "Flossie": "negative"
+        }
+    },
+    {
+        "story_id": 1410,
+        "characters": {}
+    },
+    {
+        "story_id": 1411,
+        "characters": {
+            "Sal": "positive"
+        }
+    },
+    {
+        "story_id": 1412,
+        "characters": {}
+    },
+    {
+        "story_id": 1413,
+        "characters": {
+            "waiter": "positive"
+        }
+    },
+    {
+        "story_id": 1414,
+        "characters": {
+            "Joe": "negative"
+        }
+    },
+    {
+        "story_id": 1415,
+        "characters": {
+            "Gina": "negative"
+        }
+    },
+    {
+        "story_id": 1416,
+        "characters": {}
+    },
+    {
+        "story_id": 1417,
+        "characters": {
+            "Joey": "negative"
+        }
+    },
+    {
+        "story_id": 1418,
+        "characters": {
+            "Bob": "positive"
+        }
+    },
+    {
+        "story_id": 1419,
+        "characters": {
+            "Kevin": "positive"
+        }
+    },
+    {
+        "story_id": 1420,
+        "characters": {
+            "Ed": "positive"
+        }
+    },
+    {
+        "story_id": 1421,
+        "characters": {
+            "Tyler": "positive"
+        }
+    },
+    {
+        "story_id": 1422,
+        "characters": {
+            "Greg": "positive"
+        }
+    },
+    {
+        "story_id": 1423,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1424,
+        "characters": {
+            "Mary": "positive"
+        }
+    },
+    {
+        "story_id": 1425,
+        "characters": {
+            "Katie": "negative"
+        }
+    },
+    {
+        "story_id": 1426,
+        "characters": {
+            "Tia": "positive"
+        }
+    },
+    {
+        "story_id": 1427,
+        "characters": {
+            "Amelia": "positive"
+        }
+    },
+    {
+        "story_id": 1428,
+        "characters": {
+            "Charles": "positive"
+        }
+    },
+    {
+        "story_id": 1429,
+        "characters": {
+            "Tay": "positive"
+        }
+    },
+    {
+        "story_id": 1430,
+        "characters": {
+            "Alice": "positive"
+        }
+    },
+    {
+        "story_id": 1431,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1432,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1433,
+        "characters": {
+            "Molly": "positive"
+        }
+    },
+    {
+        "story_id": 1434,
+        "characters": {
+            "Cis": "positive"
+        }
+    },
+    {
+        "story_id": 1435,
+        "characters": {
+            "Stella": "negative"
+        }
+    },
+    {
+        "story_id": 1436,
+        "characters": {
+            "Haley": "positive"
+        }
+    },
+    {
+        "story_id": 1437,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1438,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1439,
+        "characters": {
+            "Sandy": "positive"
+        }
+    },
+    {
+        "story_id": 1440,
+        "characters": {
+            "Amy": "positive"
+        }
+    },
+    {
+        "story_id": 1441,
+        "characters": {
+            "Neil": "positive"
+        }
+    },
+    {
+        "story_id": 1442,
+        "characters": {
+            "Mary": "negative"
+        }
+    },
+    {
+        "story_id": 1443,
+        "characters": {
+            "Kelly": "negative"
+        }
+    },
+    {
+        "story_id": 1444,
+        "characters": {
+            "Greg": "positive",
+            "Jane": "positive"
+        }
+    },
+    {
+        "story_id": 1445,
+        "characters": {
+            "Howard": "positive"
+        }
+    },
+    {
+        "story_id": 1446,
+        "characters": {
+            "Dave": "positive"
+        }
+    },
+    {
+        "story_id": 1447,
+        "characters": {
+            "Cindy": "negative"
+        }
+    },
+    {
+        "story_id": 1448,
+        "characters": {}
+    },
+    {
+        "story_id": 1449,
+        "characters": {
+            "Johnny": "negative"
+        }
+    },
+    {
+        "story_id": 1450,
+        "characters": {
+            "Lane": "positive"
+        }
+    },
+    {
+        "story_id": 1451,
+        "characters": {
+            "Donald": "positive"
+        }
+    },
+    {
+        "story_id": 1452,
+        "characters": {}
+    },
+    {
+        "story_id": 1453,
+        "characters": {
+            "Tim": "positive",
+            "Ann": "positive"
+        }
+    },
+    {
+        "story_id": 1454,
+        "characters": {
+            "Barry": "positive"
+        }
+    },
+    {
+        "story_id": 1455,
+        "characters": {
+            "Ally": "positive",
+            "Jill": "positive"
+        }
+    },
+    {
+        "story_id": 1456,
+        "characters": {
+            "friend": "positive"
+        }
+    },
+    {
+        "story_id": 1457,
+        "characters": {
+            "Ted": "positive"
+        }
+    },
+    {
+        "story_id": 1458,
+        "characters": {
+            "Don": "negative"
+        }
+    },
+    {
+        "story_id": 1459,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 1460,
+        "characters": {
+            "Bill": "positive",
+            "Tommy": "positive"
+        }
+    },
+    {
+        "story_id": 1461,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 1462,
+        "characters": {
+            "Dot": "negative"
+        }
+    },
+    {
+        "story_id": 1463,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1464,
+        "characters": {
+            "Mary": "negative",
+            "Paul": "negative"
+        }
+    },
+    {
+        "story_id": 1465,
+        "characters": {
+            "Lily": "positive",
+            "Pam": "positive",
+            "Joy": "positive"
+        }
+    },
+    {
+        "story_id": 1466,
+        "characters": {
+            "Gina": "positive"
+        }
+    },
+    {
+        "story_id": 1467,
+        "characters": {
+            "Bonnie": "positive"
+        }
+    },
+    {
+        "story_id": 1468,
+        "characters": {
+            "waiter": "negative",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1469,
+        "characters": {}
+    },
+    {
+        "story_id": 1470,
+        "characters": {
+            "mother": "negative"
+        }
+    },
+    {
+        "story_id": 1471,
+        "characters": {
+            "Tom": "positive",
+            "Smith": "positive"
+        }
+    },
+    {
+        "story_id": 1472,
+        "characters": {
+            "Stacey": "positive"
+        }
+    },
+    {
+        "story_id": 1473,
+        "characters": {
+            "Perry": "positive"
+        }
+    },
+    {
+        "story_id": 1474,
+        "characters": {
+            "Jake": "positive"
+        }
+    },
+    {
+        "story_id": 1475,
+        "characters": {
+            "Waltons": "positive"
+        }
+    },
+    {
+        "story_id": 1476,
+        "characters": {
+            "Roger": "positive"
+        }
+    },
+    {
+        "story_id": 1477,
+        "characters": {
+            "Molly": "positive"
+        }
+    },
+    {
+        "story_id": 1478,
+        "characters": {}
+    },
+    {
+        "story_id": 1479,
+        "characters": {
+            "Earl": "positive"
+        }
+    },
+    {
+        "story_id": 1480,
+        "characters": {
+            "Ashley": "positive"
+        }
+    },
+    {
+        "story_id": 1481,
+        "characters": {
+            "Sam": "positive"
+        }
+    },
+    {
+        "story_id": 1482,
+        "characters": {
+            "Tyrone": "positive"
+        }
+    },
+    {
+        "story_id": 1483,
+        "characters": {
+            "Abby": "positive",
+            "Amy": "positive"
+        }
+    },
+    {
+        "story_id": 1484,
+        "characters": {
+            "Ritz": "positive"
+        }
+    },
+    {
+        "story_id": 1485,
+        "characters": {
+            "Shane": "positive",
+            "John": "positive"
+        }
+    },
+    {
+        "story_id": 1486,
+        "characters": {
+            "Fanny": "negative"
+        }
+    },
+    {
+        "story_id": 1487,
+        "characters": {
+            "Kennan": "positive",
+            "Kallen": "negative"
+        }
+    },
+    {
+        "story_id": 1488,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 1489,
+        "characters": {}
+    },
+    {
+        "story_id": 1490,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 1491,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 1492,
+        "characters": {
+            "Tim": "positive"
+        }
+    },
+    {
+        "story_id": 1493,
+        "characters": {
+            "Jane": "positive"
+        }
+    },
+    {
+        "story_id": 1494,
+        "characters": {
+            "Kelly": "positive"
+        }
+    },
+    {
+        "story_id": 1495,
+        "characters": {
+            "Larry": "positive"
+        }
+    },
+    {
+        "story_id": 1496,
+        "characters": {
+            "Susan": "positive"
+        }
+    },
+    {
+        "story_id": 1497,
+        "characters": {}
+    },
+    {
+        "story_id": 1498,
+        "characters": {
+            "Mary": "positive",
+            "Todd": "positive"
+        }
+    },
+    {
+        "story_id": 1499,
+        "characters": {
+            "Todd": "positive"
+        }
+    },
+    {
+        "story_id": 1500,
+        "characters": {
+            "Tom": "positive"
+        }
+    },
+    {
+        "story_id": 1501,
+        "characters": {
+            "Tom": "negative"
+        }
+    },
+    {
+        "story_id": 1502,
+        "characters": {
+            "Tom": "positive"
+        }
+    },
+    {
+        "story_id": 1503,
+        "characters": {
+            "Tom": "positive"
+        }
+    },
+    {
+        "story_id": 1504,
+        "characters": {
+            "Tom": "negative"
+        }
+    },
+    {
+        "story_id": 1505,
+        "characters": {
+            "Tony": "positive"
+        }
+    },
+    {
+        "story_id": 1506,
+        "characters": {
+            "Tracy": "positive"
+        }
+    },
+    {
+        "story_id": 1507,
+        "characters": {
+            "Travis": "positive"
+        }
+    },
+    {
+        "story_id": 1508,
+        "characters": {
+            "Kay": "positive"
+        }
+    },
+    {
+        "story_id": 1509,
+        "characters": {
+            "Mustafa": "negative"
+        }
+    },
+    {
+        "story_id": 1510,
+        "characters": {
+            "Carly": "positive"
+        }
+    },
+    {
+        "story_id": 1511,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1512,
+        "characters": {
+            "Toni": "positive"
+        }
+    },
+    {
+        "story_id": 1513,
+        "characters": {
+            "Anne": "positive",
+            "Stacey": "positive"
+        }
+    },
+    {
+        "story_id": 1514,
+        "characters": {
+            "Sue": "positive"
+        }
+    },
+    {
+        "story_id": 1515,
+        "characters": {
+            "Margaret": "positive"
+        }
+    },
+    {
+        "story_id": 1516,
+        "characters": {
+            "Jill": "positive"
+        }
+    },
+    {
+        "story_id": 1517,
+        "characters": {
+            "girlfriend": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1518,
+        "characters": {}
+    },
+    {
+        "story_id": 1519,
+        "characters": {
+            "Jon": "positive"
+        }
+    },
+    {
+        "story_id": 1520,
+        "characters": {
+            "Sally": "positive"
+        }
+    },
+    {
+        "story_id": 1521,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 1522,
+        "characters": {}
+    },
+    {
+        "story_id": 1523,
+        "characters": {
+            "Janel": "positive"
+        }
+    },
+    {
+        "story_id": 1524,
+        "characters": {
+            "sister": "positive"
+        }
+    },
+    {
+        "story_id": 1525,
+        "characters": {
+            "friend": "positive",
+            "actor": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1526,
+        "characters": {}
+    },
+    {
+        "story_id": 1527,
+        "characters": {
+            "friend": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1528,
+        "characters": {
+            "brother": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1529,
+        "characters": {}
+    },
+    {
+        "story_id": 1530,
+        "characters": {}
+    },
+    {
+        "story_id": 1531,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 1532,
+        "characters": {
+            "aunt": "positive",
+            "cousin": "positive"
+        }
+    },
+    {
+        "story_id": 1533,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1534,
+        "characters": {}
+    },
+    {
+        "story_id": 1535,
+        "characters": {}
+    },
+    {
+        "story_id": 1536,
+        "characters": {
+            "boyfriend": "positive",
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1537,
+        "characters": {
+            "Kayla": "positive"
+        }
+    },
+    {
+        "story_id": 1538,
+        "characters": {
+            "Tom": "positive"
+        }
+    },
+    {
+        "story_id": 1539,
+        "characters": {
+            "Billy": "positive",
+            "Ash": "positive"
+        }
+    },
+    {
+        "story_id": 1540,
+        "characters": {
+            "Jane": "positive"
+        }
+    },
+    {
+        "story_id": 1541,
+        "characters": {
+            "Teresa": "positive",
+            "Miles": "positive"
+        }
+    },
+    {
+        "story_id": 1542,
+        "characters": {
+            "Devin": "positive"
+        }
+    },
+    {
+        "story_id": 1543,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 1544,
+        "characters": {
+            "Jimmy Buffett": "positive",
+            "Jeff": "positive"
+        }
+    },
+    {
+        "story_id": 1545,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1546,
+        "characters": {
+            "i": "negative"
+        }
+    },
+    {
+        "story_id": 1547,
+        "characters": {
+            "Greg": "negative"
+        }
+    },
+    {
+        "story_id": 1548,
+        "characters": {}
+    },
+    {
+        "story_id": 1549,
+        "characters": {
+            "Nancy": "positive"
+        }
+    },
+    {
+        "story_id": 1550,
+        "characters": {
+            "Liz": "positive"
+        }
+    },
+    {
+        "story_id": 1551,
+        "characters": {
+            "Mary": "positive"
+        }
+    },
+    {
+        "story_id": 1552,
+        "characters": {
+            "Nancy": "positive"
+        }
+    },
+    {
+        "story_id": 1553,
+        "characters": {
+            "Amy": "positive"
+        }
+    },
+    {
+        "story_id": 1554,
+        "characters": {
+            "Sarah": "negative"
+        }
+    },
+    {
+        "story_id": 1555,
+        "characters": {
+            "Mary": "positive"
+        }
+    },
+    {
+        "story_id": 1556,
+        "characters": {
+            "Mark": "positive"
+        }
+    },
+    {
+        "story_id": 1557,
+        "characters": {
+            "Kathie": "negative"
+        }
+    },
+    {
+        "story_id": 1558,
+        "characters": {
+            "Lilly": "positive"
+        }
+    },
+    {
+        "story_id": 1559,
+        "characters": {
+            "Brown": "negative"
+        }
+    },
+    {
+        "story_id": 1560,
+        "characters": {
+            "Maggie": "positive"
+        }
+    },
+    {
+        "story_id": 1561,
+        "characters": {
+            "Katie": "positive"
+        }
+    },
+    {
+        "story_id": 1562,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1563,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1564,
+        "characters": {
+            "Ethan": "positive"
+        }
+    },
+    {
+        "story_id": 1565,
+        "characters": {
+            "Nicole": "positive",
+            "Xiao": "positive"
+        }
+    },
+    {
+        "story_id": 1566,
+        "characters": {
+            "Steve": "negative"
+        }
+    },
+    {
+        "story_id": 1567,
+        "characters": {
+            "Manjul": "positive"
+        }
+    },
+    {
+        "story_id": 1568,
+        "characters": {
+            "Hilda": "positive"
+        }
+    },
+    {
+        "story_id": 1569,
+        "characters": {
+            "i": "positive"
+        }
+    },
+    {
+        "story_id": 1570,
+        "characters": {
+            "Keith": "negative"
+        }
+    }
+]
