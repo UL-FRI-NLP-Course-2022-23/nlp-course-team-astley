@@ -7,6 +7,14 @@ from .ROCStoryDataset import load_ROC_dataset
 from .utils import to_encode_string
 from .constants import *
 
+
+def get_first_sentence(ending):
+    sentences = ending.split('\n')
+    first_sentence = sentences[0]
+    cleaned_sentence = ' '.join(word for word in first_sentence.split(' ') if word != '[PAD]')
+    return cleaned_sentence
+
+
 # adding special tokens
 #  https://github.com/huggingface/transformers/issues/17690
 # how labels are formed
@@ -70,7 +78,7 @@ class StoryEndingGenerator:
         
         for i, sample_output in enumerate(sample_outputs):
             text = self.tokenizer.decode(sample_output, skip_special_tokens=skip_special)
-            outputs["endings"][i] = text[prompt_len:]
+            outputs["endings"][i] = get_first_sentence(text[prompt_len:])
         
         return outputs
 

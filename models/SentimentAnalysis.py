@@ -105,7 +105,7 @@ class SentimentAnalysis:
         return character_sentiments
 
     def fine_tuned_sentiment_analysis(self, character_sentences, max_length=512):
-        model_path = './models/sent_model/sentiment_model'
+        model_path = 'sentiment_model'
         tokenizer = DistilBertTokenizer.from_pretrained(model_path, local_files_only=True)
         model = DistilBertForSequenceClassification.from_pretrained(model_path, num_labels=2)
 

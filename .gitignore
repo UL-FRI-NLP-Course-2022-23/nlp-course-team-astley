@@ -132,3 +132,6 @@ dmypy.json
 content/
 sentiment_model/
 sentiment_model.zip
+new_model/
+NLP_last_model.zip
+NLP_last_model/
