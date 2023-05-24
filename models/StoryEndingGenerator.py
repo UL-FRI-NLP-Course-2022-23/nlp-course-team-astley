@@ -56,8 +56,10 @@ class StoryEndingGenerator:
   
         generated = torch.tensor(self.tokenizer.encode(prompt)).unsqueeze(0)
         generated = generated.to(self.device)
+        attention_mask = (generated != self.tokenizer.pad_token_id)
 
-        sample_outputs = self.model.generate(generated, 
+        sample_outputs = self.model.generate(generated,
+                                        attention_mask=attention_mask,
                                         do_sample=True,   
                                         min_length=50, 
                                         max_length=100,
