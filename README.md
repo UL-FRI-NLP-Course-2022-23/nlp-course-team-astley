@@ -1,15 +1,11 @@
 # Natural language processing course 2022/23: `Literacy situation models knowledge base creation`
 
-Team members:
- * `Luka Brecelj`, `63180058`, `lb4684@student.uni-lj.si`
- * `Timotej Košir`, `63180164`, `tk5272@student.uni-lj.si`
- * `Matjaž Ciglič`, `63170069`, `mc4857@student.uni-lj.si`
- 
-Group public acronym/name: `TAS`
- > This value will be used for publishing marks/scores. It will be known only to you and not you colleagues.
---------------
 ## How to run
-For running our project please open **run.ipynb** and see instructions there.
+For running our project, please open **run.ipynb** and see the instructions there. Note that if you don't have Jupyter installed, then you need to first run this command in the terminal: **pip install jupyter**, before opening Jupyter Notebook.
+
+Here you can download our [Fine-tune GPT2](https://unilj-my.sharepoint.com/:f:/g/personal/lb4684_student_uni-lj_si/Er6Mr6tCjLBLvyNwu0h3PF4BU992FwGcOfERVh2uEhx9aA?e=KCT1lg)
+
+Our Fine-tune Sentiment model is avaliable [here](https://drive.google.com/file/d/1AJUJJIqDjHqGwzm1zOueAJIE631bACat/view?usp=sharing)
 
 
 ## Structure of repository
@@ -25,9 +21,3 @@ For running our project please open **run.ipynb** and see instructions there.
 - **main.py**: code for extracing sentiment, training model and evaluation of story endings
 - **requirements.txt**: text file containing all necessary packages for generating ending of stories
 - **run.ipynb**: Jupyter notebook to test our model for generating ending of stories by considering sentiment  
-
-
-
-Here you can download our [Fine-tune GPT2](https://unilj-my.sharepoint.com/:f:/g/personal/lb4684_student_uni-lj_si/Er6Mr6tCjLBLvyNwu0h3PF4BU992FwGcOfERVh2uEhx9aA?e=KCT1lg)
-
-Our Fine-tune Sentiment model is avaliable [here](https://drive.google.com/file/d/1AJUJJIqDjHqGwzm1zOueAJIE631bACat/view?usp=sharing)
