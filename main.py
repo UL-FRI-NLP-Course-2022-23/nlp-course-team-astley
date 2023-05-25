@@ -119,7 +119,7 @@ if __name__ == '__main__':
                 story_results = [character_sentiments]
 
                 # sentiments based on ending pairs
-                for base_ending_sentiment in base_sentiment[0:1]:
+                for base_ending_sentiment in base_sentiment:
                     ending_list = []
                     for idx, ending_sentiment in enumerate(sentiments):
                         ressss = {}
