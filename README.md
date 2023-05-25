@@ -29,4 +29,5 @@ For running our project please open **run.ipynb** and see instructions there.
 
 
 Here you can download our [Fine-tune GPT2](https://unilj-my.sharepoint.com/:f:/g/personal/lb4684_student_uni-lj_si/Er6Mr6tCjLBLvyNwu0h3PF4BU992FwGcOfERVh2uEhx9aA?e=KCT1lg)
+
 Our Fine-tune Sentiment model is avaliable [here](https://drive.google.com/file/d/1AJUJJIqDjHqGwzm1zOueAJIE631bACat/view?usp=sharing)
