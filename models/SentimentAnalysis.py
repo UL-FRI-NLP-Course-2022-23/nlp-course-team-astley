@@ -12,6 +12,9 @@ import torch
 nltk.download('punkt')
 
 class SentimentAnalysis:
+    def __init__(self, load_path):
+        self.load_path = load_path
+
     # Function to detect character names in the given story
     def detect_characters(self, story):
         # Load the pre-trained SpaCy model
@@ -54,7 +57,7 @@ class SentimentAnalysis:
     # Function to perform sentiment analysis on the extracted sentences
     def sentiment_analysis(self, character_sentences, max_length=512):
         # Load the pre-trained sentiment analysis pipeline from the transformers library
-        sentiment_analyzer = pipeline("sentiment-analysis")
+        sentiment_analyzer = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english")
 
         # Helper function to split text into chunks with a maximum length
         def split_into_chunks(text, max_length):
@@ -95,8 +98,7 @@ class SentimentAnalysis:
                 sentiment_scores = sentiment_analyzer(flattened_chunks)
                 # Calculate the compound sentiment score as the average of the individual sentiment scores
                 compound_score = sum([score['score'] if score['label'] == 'POSITIVE' else -score['score'] for score in sentiment_scores]) / len(sentiment_scores)
-            else:
-                compound_score = 0.0
+                compound_score = "positive" if compound_score > 0 else "negative"
 
             # Store the character's sentiment score in the dictionary
             character_sentiments[name] = compound_score
@@ -105,9 +107,8 @@ class SentimentAnalysis:
         return character_sentiments
 
     def fine_tuned_sentiment_analysis(self, character_sentences, max_length=512):
-        model_path = 'sentiment_model'
-        tokenizer = DistilBertTokenizer.from_pretrained(model_path, local_files_only=True)
-        model = DistilBertForSequenceClassification.from_pretrained(model_path, num_labels=2)
+        tokenizer = DistilBertTokenizer.from_pretrained(self.load_path, local_files_only=True)
+        model = DistilBertForSequenceClassification.from_pretrained(self.load_path, num_labels=2)
 
         # Helper function to split text into chunks with a maximum length
         def split_into_chunks(text, max_length):
