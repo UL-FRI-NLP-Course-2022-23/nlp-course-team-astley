@@ -23,7 +23,7 @@ For running our project please open **run.ipynb** and see instructions there.
 - **results**: A SE TO ŠE RABI?
 - **generated.md**: Examples of testing our fine-tuned GPT2 model with Sentiment analysis
 - **main.py**: code for extracing sentiment, training model and evaluation of story endings
-- ****requirements.txt**: text file containing all necessary packages for generating ending of stories
+- **requirements.txt**: text file containing all necessary packages for generating ending of stories
 - **run.ipynb**: Jupyter notebook to test our model for generating ending of stories by considering sentiment  
 
 
