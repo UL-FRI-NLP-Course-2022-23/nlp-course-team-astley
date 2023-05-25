@@ -21,6 +21,3 @@ def negate_sentiment(sentiment):
         return "negative"
     else:
         return sentiment
-
-def nekiiii():
-    pass
