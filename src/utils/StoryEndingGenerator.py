@@ -144,7 +144,7 @@ class StoryEndingGenerator:
         perplexities = []
         with torch.no_grad():
             for i, ending in endings.items():
-                if ending is "":
+                if ending == "":
                     perplexities.append(None)
                     continue
                 encoded_input = self.tokenizer.encode(ending, return_tensors="pt").to(self.device)
