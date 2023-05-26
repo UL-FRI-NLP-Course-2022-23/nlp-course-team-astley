@@ -2,8 +2,8 @@ import csv
 import json
 
 import os
-from models import StoryEndingGenerator, SentimentAnalysis, to_encode_string, perplexity
-from models.Evaluation import negate_sentiment
+from utils import StoryEndingGenerator, SentimentAnalysis, to_encode_string, perplexity
+from utils.Evaluation import negate_sentiment
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "True"
 
@@ -21,7 +21,7 @@ if __name__ == '__main__':
     # basic gpt2
     # ending_model = StoryEndingGenerator("content")
     # ending_model = StoryEndingGenerator("../test")
-    ending_model = StoryEndingGenerator("NLP_last_model")
+    ending_model = StoryEndingGenerator("../NLP_last_model")
 
     # fine-tunned gpt2
     # ending_model = StoryEndingGenerator("./content")
@@ -58,11 +58,11 @@ if __name__ == '__main__':
     results = []
 
     # get character sentiment
-    with open("ROC_dataset/test_dataset_sentiment.json", 'r') as file_sentiment:
+    with open("../datasets/ROC_dataset/test_dataset_sentiment.json", 'r') as file_sentiment:
         character_sentiment = json.load(file_sentiment)
         character_sentiment.sort(key=lambda x: x['story_id'])
 
-        with open('ROC_dataset/test.csv', 'r') as csvfile:
+        with open('../datasets/ROC_dataset/test.csv', 'r') as csvfile:
             reader = csv.reader(csvfile, delimiter=',')
             header = next(reader)
             for i, row in enumerate(reader):
@@ -94,7 +94,7 @@ if __name__ == '__main__':
                 perp_score = perplexity(ending_model, outputs)
 
                 # compare sentiment
-                sentiment_analysis = SentimentAnalysis("sentiment_model")
+                sentiment_analysis = SentimentAnalysis("../sentiment_model")
                 # base_sentiment = sentiment_analysis.extract_character_sentences(outputs["prompt"].split(" [SEP] ")[1],
                 #                                                                   characters)
                 # sentiments = [sentiment_analysis.extract_character_sentences(ending, characters) for ending in
