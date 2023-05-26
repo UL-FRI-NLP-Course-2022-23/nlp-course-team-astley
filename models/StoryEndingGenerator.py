@@ -1,3 +1,4 @@
+import numpy as np
 from transformers import GPT2Tokenizer, GPT2LMHeadModel, Trainer, TrainingArguments, AdamW
 from typing import List
 import torch
@@ -150,6 +151,6 @@ class StoryEndingGenerator:
                 output = self.model(encoded_input, labels=encoded_input)
                 loss = output.loss
                 perplexity = torch.exp(loss)
-                perplexities.append(perplexity.item())
+                perplexities.append(np.log(perplexity.item()))
 
         return perplexities

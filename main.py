@@ -46,9 +46,15 @@ if __name__ == '__main__':
     num_comparisons = 0
     num_equal = 0
     num_equal_non_none = 0
-    perplexity_threshold = 300
+    perplexity_trheshold_1 = 1
+    perplexity_threshold_2 = 3
+    perplexity_threshold_3 = 5
+    perplexity_threshold_4 = 10
     num_perp_all = 0
-    num_perp_below_thresh = 0
+    num_perp_below_thresh_1 = 0
+    num_perp_below_thresh_2 = 0
+    num_perp_below_thresh_3 = 0
+    num_perp_below_thresh_4 = 0
     results = []
 
     # get character sentiment
@@ -128,11 +134,16 @@ if __name__ == '__main__':
                     # generated ending sentiments and perplexities
                     story_results.append(ending_list)
 
-
                 for perp in perp_score:
                     num_perp_all += 1
-                    if perp is not None and perp < perplexity_threshold:
-                        num_perp_below_thresh += 1
+                    if perp is not None and perp < perplexity_threshold_4:
+                        num_perp_below_thresh_4 += 1
+                        if perp < perplexity_threshold_3:
+                            num_perp_below_thresh_3 += 1
+                            if perp < perplexity_threshold_2:
+                                num_perp_below_thresh_2 += 1
+                                if perp < perplexity_trheshold_1:
+                                    num_perp_below_thresh_1 += 1
 
                 results.append(story_results)
                 # break
@@ -141,11 +152,16 @@ if __name__ == '__main__':
     print(num_comparisons)
     print(num_equal)
     print(num_equal_non_none)
-    print(num_perp_below_thresh / num_comparisons)
     print(num_equal / num_comparisons)
     print((num_equal - num_equal_non_none) / num_comparisons)
     print(num_perp_all)
-    print(num_perp_below_thresh)
-    print(num_perp_below_thresh / num_perp_all)
+    print(num_perp_below_thresh_1)
+    print(num_perp_below_thresh_1 / num_perp_all)
+    print(num_perp_below_thresh_2)
+    print(num_perp_below_thresh_2 / num_perp_all)
+    print(num_perp_below_thresh_3)
+    print(num_perp_below_thresh_3 / num_perp_all)
+    print(num_perp_below_thresh_4)
+    print(num_perp_below_thresh_4 / num_perp_all)
 
     print(results)
