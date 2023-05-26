@@ -46,6 +46,9 @@ if __name__ == '__main__':
     num_comparisons = 0
     num_equal = 0
     num_equal_non_none = 0
+    perplexity_threshold = 300
+    num_perp_all = 0
+    num_perp_below_thresh = 0
     results = []
 
     # get character sentiment
@@ -57,8 +60,9 @@ if __name__ == '__main__':
             reader = csv.reader(csvfile, delimiter=',')
             header = next(reader)
             for i, row in enumerate(reader):
-                print(i)
-
+                #print(i)
+                #if i >= 30:
+                #    break
 
                 # extract story
                 story = " ".join(row[0:4])
@@ -115,12 +119,20 @@ if __name__ == '__main__':
                             num_comparisons += 1
                             if base_ending_sentiment[character] is negate_sentiment(ending_sentiment[character]):
                                 num_equal += 1
+                                print(perp_score[idx])
                                 if base_ending_sentiment[character] is not "None":
                                     num_equal_non_none += 1
+                                    print("^^^^ correctly generated")
                         ending_list.append((ressss, perp_score[idx]))
 
                     # generated ending sentiments and perplexities
                     story_results.append(ending_list)
+
+
+                for perp in perp_score:
+                    num_perp_all += 1
+                    if perp is not None and perp < perplexity_threshold:
+                        num_perp_below_thresh += 1
 
                 results.append(story_results)
                 # break
@@ -129,7 +141,11 @@ if __name__ == '__main__':
     print(num_comparisons)
     print(num_equal)
     print(num_equal_non_none)
+    print(num_perp_below_thresh / num_comparisons)
     print(num_equal / num_comparisons)
     print((num_equal - num_equal_non_none) / num_comparisons)
+    print(num_perp_all)
+    print(num_perp_below_thresh)
+    print(num_perp_below_thresh / num_perp_all)
 
     print(results)
